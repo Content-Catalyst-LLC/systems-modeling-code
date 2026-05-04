@@ -1,0 +1,5 @@
+scenario_id,initial_stock_a,initial_stock_b,growth_a_rate,growth_b_rate,b_to_a_pressure,a_to_b_support,b_balancing_rate,target_b,steps
+baseline,20,10,0.06,0.04,0.02,0.04,0.03,45,140
+higher_support,20,10,0.06,0.04,0.02,0.06,0.03,45,140
+stronger_balancing,20,10,0.06,0.04,0.02,0.04,0.06,45,140
+higher_pressure,20,10,0.06,0.04,0.04,0.04,0.03,45,140

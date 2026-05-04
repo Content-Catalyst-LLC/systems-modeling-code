@@ -1,0 +1,5 @@
+scenario_id,shock_time,infrastructure_shock,energy_shock,water_shock,health_shock,governance_shock,recovery_rate,steps
+baseline_shock,20,-20,-8,-5,0,-3,0.08,100
+larger_infrastructure_shock,20,-35,-12,-8,0,-5,0.08,100
+slow_recovery,20,-20,-8,-5,0,-3,0.04,100
+fast_recovery,20,-20,-8,-5,0,-3,0.14,100

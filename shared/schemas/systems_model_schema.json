@@ -1,0 +1,21 @@
+{
+  "schema_name": "systems_model_schema",
+  "description": "Metadata schema for systems modeling workflows.",
+  "fields": [
+    {"name": "model_id", "type": "integer"},
+    {"name": "model_name", "type": "string"},
+    {"name": "model_family", "type": "string"},
+    {"name": "component_name", "type": "string"},
+    {"name": "component_type", "type": "string"},
+    {"name": "source_component", "type": "string"},
+    {"name": "target_component", "type": "string"},
+    {"name": "link_type", "type": "string"},
+    {"name": "weight", "type": "number"},
+    {"name": "delay_periods", "type": "number"},
+    {"name": "scenario_id", "type": "string"},
+    {"name": "time_step", "type": "integer"},
+    {"name": "component_value", "type": "number"},
+    {"name": "assumption_text", "type": "string"},
+    {"name": "interpretation_note", "type": "string"}
+  ]
+}

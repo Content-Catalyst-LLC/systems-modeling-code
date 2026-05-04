@@ -1,0 +1,6 @@
+assumption_id,model_context,assumption,confidence,impact_if_wrong,testing_method
+1,Stock-flow model,Feedback relationships are directionally correct,0.62,0.80,Sensitivity analysis
+2,Stock-flow model,Time step is appropriate for teaching simulation,0.72,0.55,Step-size comparison
+3,Network model,Influence weights approximate system dependency,0.55,0.82,Weight perturbation analysis
+4,Scenario model,Shock magnitudes are illustrative rather than empirical,0.80,0.45,Scenario transparency
+5,Interpretation,Users understand outputs as exploratory not predictive,0.58,0.88,Interpretive warning
