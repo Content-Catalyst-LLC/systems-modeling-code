@@ -1,0 +1,5 @@
+policy,mean_resilience_score,p10_resilience_score,p90_resilience_score,worst_resilience_score,mean_final_state,worst_final_state,mean_regret,maximum_regret,robustness_interpretation,confidence_note
+Policy_A_low_control,14.622726,0.0,68.136958,0.0,220.539985,803.041711,50.400919,95.0,lower-tail fragility under adverse futures,wide ensemble spread; communicate ranges before point estimates
+Policy_B_balanced,46.864861,0.0,91.393981,0.0,59.393883,214.254335,18.158784,67.265392,lower-tail fragility under adverse futures,wide ensemble spread; communicate ranges before point estimates
+Policy_C_high_adaptation,33.518013,0.0,83.415451,0.0,68.399056,186.794602,31.505633,80.378124,lower-tail fragility under adverse futures,wide ensemble spread; communicate ranges before point estimates
+Policy_D_precautionary,65.023645,0.0,95.0,0.0,29.439834,96.453144,0.0,0.0,lower-tail fragility under adverse futures,wide ensemble spread; communicate ranges before point estimates

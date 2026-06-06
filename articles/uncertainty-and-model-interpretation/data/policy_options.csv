@@ -1,0 +1,5 @@
+policy,policy_strength,adaptive_capacity,description
+Policy_A_low_control,0.025,0.010,Low direct control and limited adaptive capacity
+Policy_B_balanced,0.045,0.020,Balanced policy control and moderate adaptive capacity
+Policy_C_high_adaptation,0.035,0.045,Adaptation-oriented policy with stronger response capacity
+Policy_D_precautionary,0.055,0.040,Higher control and adaptation with stronger precautionary assumptions

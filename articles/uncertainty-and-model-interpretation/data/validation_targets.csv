@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+resilience_score,0,100,Resilience score should remain bounded
+mean_resilience_score,0,100,Mean policy score should remain bounded
+p10_resilience_score,0,100,Lower-tail score should remain bounded
+p90_resilience_score,0,100,Upper-tail score should remain bounded
+regret,0,100,Regret should remain nonnegative and bounded
+final_state,0,10000,Final state should remain nonnegative and bounded
+maximum_state,0,10000,Maximum state should remain nonnegative and bounded
+cumulative_stress,0,100000,Cumulative stress should remain nonnegative and bounded

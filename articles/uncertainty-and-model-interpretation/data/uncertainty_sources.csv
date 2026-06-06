@@ -1,0 +1,9 @@
+source_id,uncertainty_type,source_name,modeling_example,interpretive_response
+U1,parameter,growth_rate_uncertainty,Uncertain growth or accumulation rate,Use parameter ranges and sensitivity analysis
+U2,parameter,shock_intensity_uncertainty,Unknown magnitude of disturbance or disruption,Use scenario ensembles and stress tests
+U3,scenario,policy_context_uncertainty,Unknown future implementation or governance conditions,Use structured scenarios and robustness diagnostics
+U4,structural,feedback_structure_uncertainty,Uncertain feedback or adaptation mechanism,Compare alternative structures and document boundaries
+U5,data,measurement_uncertainty,Noisy or incomplete observations,Document data provenance and measurement limits
+U6,stochastic,random_event_uncertainty,Failures arrivals contacts or disruptions vary randomly,Use repeated simulation and ensemble summaries
+U7,value,interpretation_uncertainty,Decision criteria or outcome priorities are contested,Use transparent tradeoff and stakeholder review
+U8,deep,probability_model_uncertainty,Probabilities and outcome space are contested,Use robust decision methods and exploratory modeling

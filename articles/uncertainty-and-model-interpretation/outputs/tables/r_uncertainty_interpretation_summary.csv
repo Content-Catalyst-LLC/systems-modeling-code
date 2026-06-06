@@ -1,0 +1,8 @@
+"metric","value"
+"final_state_mean",56.9536145400404
+"final_state_median",58.93067384114
+"final_state_p10",10.7120448103269
+"final_state_p90",99.748121148311
+"final_state_range",136.813273296713
+"share_below_50",0.42
+"share_above_100",0.1

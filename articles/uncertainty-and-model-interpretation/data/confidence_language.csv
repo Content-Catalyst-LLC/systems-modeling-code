@@ -1,0 +1,7 @@
+category,meaning,example
+likelihood,Estimated event frequency under a defined model or ensemble,The event occurs in 70 percent of ensemble runs
+confidence,Strength of evidence and agreement behind a conclusion,High confidence in direction but lower confidence in magnitude
+robustness,Stability of a conclusion across assumptions,Policy ranking is stable across tested scenarios
+fragility,Dependence of conclusion on uncertain assumptions,Result changes when growth exceeds the high scenario range
+ambiguity,Competing interpretations or value criteria,Preferred strategy depends on equity versus cost weighting
+domain_of_applicability,Scope where the model can responsibly be interpreted,Scenario comparison only not point forecasting
