@@ -1,0 +1,6 @@
+step_id,process_step,event_start,event_end,required_resource,queue_name,performance_metric
+1,arrival_to_triage,arrival,triage_start,triage_staff,triage_queue,triage_wait
+2,triage_to_service,triage_complete,service_start,service_staff,service_queue,service_wait
+3,service_to_departure,service_start,service_complete,service_staff,none,time_in_service
+4,repair_cycle,failure,repair_complete,repair_crew,repair_backlog,downtime
+5,loading_cycle,truck_arrival,loading_complete,dock,loading_queue,dock_turnaround

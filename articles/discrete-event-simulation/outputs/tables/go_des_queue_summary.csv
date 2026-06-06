@@ -1,0 +1,5 @@
+scenario,completed_entities,average_waiting_time,maximum_waiting_time,implied_utilization,service_level_share
+baseline_single_server,240,38.671129,88.694130,0.818182,0.125000
+higher_arrival_pressure,240,33.824211,89.730238,0.954545,0.300000
+faster_service,240,3.858391,21.849317,0.600000,0.891667
+stress_surge,240,87.315423,242.672022,1.136364,0.154167

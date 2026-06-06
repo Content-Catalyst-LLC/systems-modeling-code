@@ -1,0 +1,8 @@
+metric,target_low,target_high,notes
+completed_entities,0,10000,Completed entity count should be nonnegative and bounded
+average_waiting_time,0,100000,Waiting time should be nonnegative
+maximum_waiting_time,0,100000,Maximum waiting time should be nonnegative
+average_time_in_system,0,100000,Time in system should be nonnegative
+utilization,0,1,Utilization should remain a probability style share
+service_level_share,0,1,Service level should remain a probability style share
+average_queue_length_time_weighted,0,10000,Average queue length should be nonnegative

@@ -1,0 +1,7 @@
+scenario,arrival_rate,service_rate,servers,simulation_horizon,service_level_target,seed,description
+baseline_single_server,0.18,0.22,1,600,12,42,Reference event-calendar single-server queue
+higher_arrival_pressure,0.21,0.22,1,600,12,43,Higher arrival pressure tests congestion sensitivity
+two_servers,0.30,0.22,2,600,12,44,Two servers with higher demand tests pooled capacity
+faster_service,0.18,0.30,1,600,12,45,Faster service tests service-rate leverage
+stress_surge,0.25,0.22,1,600,12,46,Arrival surge tests bottleneck behavior
+low_service_level_target,0.18,0.22,1,600,6,47,Tighter service target tests service reliability

@@ -1,0 +1,7 @@
+scenario,arrival_rate,service_rate,servers,completed_entities,average_waiting_time,maximum_waiting_time,average_time_in_system,maximum_time_in_system,average_queue_length_time_weighted,utilization,service_level_share,diagnostic
+baseline_single_server,0.18,0.22,1,96,4.066658,18.437694,7.76569,22.899098,0.659247,0.602817,0.90625,contained waiting under current assumptions
+higher_arrival_pressure,0.21,0.22,1,116,24.586832,67.961329,29.078681,71.265367,5.097051,0.872712,0.465517,high waiting pressure
+two_servers,0.3,0.22,2,188,2.900531,16.252595,6.975747,24.825124,0.914054,0.645065,0.968085,contained waiting under current assumptions
+faster_service,0.18,0.3,1,109,4.154684,19.053166,7.630931,22.00142,0.769333,0.63703,0.853211,contained waiting under current assumptions
+stress_surge,0.25,0.22,1,144,31.075961,77.10373,35.116084,78.513977,7.465551,0.970108,0.159722,high waiting pressure
+low_service_level_target,0.18,0.22,1,104,7.637066,35.069445,12.321457,39.464856,1.374841,0.82479,0.528846,high waiting pressure

@@ -1,0 +1,6 @@
+resource_id,resource_name,capacity,shift_start,shift_end,notes
+R1,single_server,1,0,600,Baseline single-server queue
+R2,pooled_service_staff,2,0,600,Two-server pooled capacity scenario
+R3,triage_staff,1,0,600,Illustrative first-stage resource
+R4,repair_crew,1,0,600,Illustrative maintenance resource
+R5,loading_dock,2,0,600,Illustrative logistics resource
