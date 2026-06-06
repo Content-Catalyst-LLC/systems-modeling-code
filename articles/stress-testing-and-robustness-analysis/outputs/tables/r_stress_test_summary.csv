@@ -1,0 +1,6 @@
+"scenario","minimum_service_ratio","mean_service_ratio","maximum_unmet_demand","cumulative_unmet_demand","failure_frequency","first_failure_time","recovery_time","robustness_status"
+"baseline",0.828416578782709,0.978001130925613,20.7122147977071,200.183534044892,0.0375,78,NA,"fails service threshold"
+"moderate_capacity_loss",0.708391165499724,0.931386058556193,41.1551183001395,664.712266510727,0.2,65,NA,"fails service threshold"
+"severe_capacity_loss",0.605301652038008,0.838787832676386,65.1068138848392,1608.71456051234,0.575,35,NA,"fails service threshold"
+"compound_high_demand_capacity_loss",0.257463511791577,0.625321191361353,287.253848026333,7026.11292236968,0.6125,32,NA,"fails service threshold"
+"delayed_recovery",0.406592205034802,0.717300315468497,133.595059718615,3577.18674808714,0.6125,32,NA,"fails service threshold"

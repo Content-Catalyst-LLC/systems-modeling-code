@@ -1,0 +1,7 @@
+stress_type,core_question,example,primary_metric
+threshold_stress,At what point does the system fail?,Increase demand until service collapses,breakpoint
+scenario_stress,How does the system perform under adverse futures?,Run severe recession or flood scenario,stress_scenario_score
+compound_shock,What happens when stressors interact?,Demand surge plus capacity loss,failure_frequency
+cascade_stress,How does failure propagate?,Remove hubs or dependent assets,cascade_size
+reverse_stress,What conditions would create unacceptable failure?,Search stress combinations leading to collapse,failure_envelope
+recovery_stress,Can the system restore function?,Measure post-shock recovery,recovery_time

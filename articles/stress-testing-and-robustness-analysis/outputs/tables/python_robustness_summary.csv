@@ -1,0 +1,5 @@
+strategy,mean_resilience_score,p10_resilience_score,worst_resilience_score,p05_minimum_service_ratio,failure_share,mean_regret,maximum_regret,robustness_status
+Strategy_A_efficiency,9.544717,0.0,0.0,0.150639,0.967143,12.793415,80.223249,high failure share under tested stress futures
+Strategy_B_balanced_resilience,16.050617,0.0,0.0,0.167609,0.908571,6.287516,44.035468,high failure share under tested stress futures
+Strategy_C_high_redundancy,22.338132,0.0,0.0,0.186333,0.848571,0.0,0.0,high failure share under tested stress futures
+Strategy_D_adaptive_pathway,14.145787,0.0,0.0,0.161795,0.93,8.192345,53.35396,high failure share under tested stress futures

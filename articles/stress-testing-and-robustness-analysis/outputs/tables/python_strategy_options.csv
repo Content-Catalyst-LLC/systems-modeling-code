@@ -1,0 +1,5 @@
+strategy,redundancy,adaptive_response,description
+Strategy_A_efficiency,0.02,0.02,Lean efficiency-oriented strategy with low redundancy
+Strategy_B_balanced_resilience,0.12,0.06,Balanced redundancy and adaptive response
+Strategy_C_high_redundancy,0.25,0.03,High backup capacity with weaker adaptive response
+Strategy_D_adaptive_pathway,0.08,0.11,Adaptive strategy with trigger-ready response capacity

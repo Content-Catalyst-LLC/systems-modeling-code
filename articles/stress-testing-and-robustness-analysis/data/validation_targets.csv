@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+minimum_service_ratio,0,1,Service ratio should remain bounded
+mean_service_ratio,0,1,Mean service ratio should remain bounded
+failure_frequency,0,1,Failure frequency should remain bounded
+failure_share,0,1,Failure share should remain bounded
+resilience_score,0,100,Resilience score should remain bounded
+regret,0,100,Regret should remain nonnegative and bounded
+recovery_time,0,10000,Recovery time should remain nonnegative and bounded
+cumulative_unmet_demand,0,100000,Cumulative unmet demand should remain nonnegative and bounded

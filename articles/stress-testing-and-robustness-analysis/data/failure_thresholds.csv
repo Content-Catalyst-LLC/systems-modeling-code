@@ -1,0 +1,7 @@
+threshold_id,metric,threshold_value,direction,interpretation
+T1,minimum_service_ratio,0.85,below_is_failure,Service below 85 percent is unacceptable
+T2,p05_minimum_service_ratio,0.80,below_is_failure,Lower-tail service below 80 percent indicates severe fragility
+T3,failure_share,0.15,above_is_failure,More than 15 percent failed futures indicates poor robustness
+T4,maximum_regret,35.0,above_is_failure,High maximum regret indicates decision fragility
+T5,recovery_time,72.0,above_is_failure,No recovery within horizon indicates persistent disruption
+T6,cumulative_unmet_demand,1500.0,above_is_failure,Large cumulative unmet demand indicates service failure
