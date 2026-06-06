@@ -1,0 +1,13 @@
+rank_from_shallow_to_deep,leverage_level,intervention_type,modeling_representation,interpretation
+1,parameters,Change numbers inside the existing system,external correction or coefficient change,Often visible but structurally shallow
+2,buffers,Change stabilizing stock or reserve capacity,buffer capacity or reserve stock,Can improve resilience without changing behavior drivers
+3,stock_flow_structure,Change accumulation pathways,inflow outflow or stock equation redesign,Changes how pressure or capability accumulates
+4,delays,Change signal response or implementation timing,information delay or implementation delay,Can reduce overshoot or improve timely correction
+5,balancing_feedback,Strengthen or retarget correction,feedback gain or target-seeking rule,Improves regulation when correction is legitimate and timely
+6,reinforcing_feedback,Weaken harmful self-amplification or strengthen beneficial learning,feedback gain or reinforcing multiplier,Can alter growth decline lock-in or diffusion
+7,information_flows,Change who knows what and when,information delay quality or monitoring rule,Can change perception accountability and action
+8,rules,Change incentives constraints rights and authority,threshold rule or conditional feedback change,Redirects behavior through institutional design
+9,self_organization,Enable learning adaptation and redesign,learning rate or adaptive capacity,Changes capacity to change later
+10,goals,Change what the system optimizes,objective weights or target priorities,Reorders measurement rules feedback and investment
+11,paradigms,Change underlying assumptions about value and possibility,scenario frame or model objective redesign,Transforms design logic and interpretation
+12,transcending_paradigms,Maintain capacity to question fixed frames,multiple objectives and reflexive governance,Prevents any single model frame becoming absolute

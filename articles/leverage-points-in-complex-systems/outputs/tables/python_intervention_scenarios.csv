@@ -1,0 +1,11 @@
+scenario,feedback_gain,external_correction,information_delay,information_quality,buffer_capacity,rule_threshold,rule_feedback_gain,self_organization_rate,goal_weight_resilience,implementation_delay,description
+baseline,0.96,2.0,6,0.70,0.0,,0.96,0.00,0.00,1,Existing structure with delayed information and weak correction
+parameter_intervention,0.96,5.0,6,0.70,0.0,,0.96,0.00,0.00,1,Shallow intervention increases external correction only
+buffer_intervention,0.96,2.0,6,0.70,18.0,,0.96,0.00,0.00,1,Moderate intervention adds reserve capacity
+delay_intervention,0.96,2.0,1,0.85,0.0,,0.96,0.00,0.00,1,Moderate intervention improves information timing
+feedback_intervention,0.78,2.0,6,0.70,0.0,,0.78,0.00,0.00,1,Structural intervention changes feedback gain
+information_flow_intervention,0.92,2.0,1,0.95,0.0,,0.92,0.00,0.00,1,Structural intervention improves signal quality and timing
+rule_intervention,0.96,2.0,2,0.85,0.0,45.0,0.70,0.00,0.00,1,Deep institutional rule changes feedback when stress is high
+self_organization_intervention,0.92,2.0,2,0.85,8.0,45.0,0.72,0.18,0.04,1,Deep adaptive capacity supports learning and redesign
+goal_intervention,0.90,2.0,2,0.90,10.0,45.0,0.72,0.12,0.10,1,Deep goal shift invests in resilience and changes system priority
+delayed_deep_intervention,0.90,2.0,2,0.90,10.0,45.0,0.72,0.12,0.10,14,Deep intervention delayed by implementation capacity

@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+state,0,1000000,System burden should remain nonnegative and finite
+pressure,0,1000000,System pressure should remain nonnegative and finite
+resilience,0,100,Resilience index should remain bounded
+learning_capacity,0,100,Learning capacity should remain bounded
+intervention,0,1000000,Intervention effort should remain nonnegative and finite
+cumulative_intervention,0,1000000,Cumulative intervention should remain nonnegative and finite
+leverage_ratio,-1000000,1000000,Leverage ratio should remain finite
+behavior_change_from_baseline,-1000000,1000000,Behavior change should remain finite

@@ -1,0 +1,11 @@
+scenario,intervention_depth,initial_state,final_state,maximum_state,minimum_state,mean_pressure,final_resilience,final_learning_capacity,cumulative_intervention,behavior_change_from_baseline,leverage_ratio,interpretation
+baseline,baseline,70.0,5544.191524,5544.191524,70.0,523.223092,0.0,0.0,5497.406606,0.0,0.0,reference case
+buffer_intervention,moderate,70.0,5265.212868,5265.212868,70.0,497.274603,0.0,0.0,5226.514143,278.978656,0.053378,changes timing or buffers without fully changing rules
+delay_intervention,moderate,70.0,4782.697205,4782.697205,70.0,464.306131,0.0,0.0,5225.771759,761.494319,0.145719,changes timing or buffers without fully changing rules
+delayed_deep_intervention,deep,70.0,0.0,70.0,0.0,6.650123,100.0,76.2074,432.195341,5544.191524,12.827976,changes adaptive capacity goals or implementation logic
+feedback_intervention,structural,70.0,0.0,70.0,0.0,7.505999,11.985602,0.0,197.182812,5544.191524,28.117012,changes feedback information or rule logic
+goal_intervention,deep,70.0,0.0,70.0,0.0,3.254412,100.0,76.2074,534.977484,5544.191524,10.363411,changes adaptive capacity goals or implementation logic
+information_flow_intervention,structural,70.0,538.678956,538.678956,70.0,110.248763,0.0,0.0,1052.776703,5005.512568,4.754581,changes feedback information or rule logic
+parameter_intervention,shallow,70.0,2708.411981,2708.411981,70.0,266.190288,0.0,0.0,3118.165859,2835.779543,0.909438,changes a number inside the existing structure
+rule_intervention,structural,70.0,41.935687,70.0,36.131952,26.352722,0.0,0.0,206.244912,5502.255837,26.678262,changes feedback information or rule logic
+self_organization_intervention,deep,70.0,0.0,70.0,0.0,4.736432,100.0,88.489537,494.563237,5544.191524,11.210278,changes adaptive capacity goals or implementation logic
