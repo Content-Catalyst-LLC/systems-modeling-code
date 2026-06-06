@@ -1,0 +1,8 @@
+"scenario","final_state","maximum_state","minimum_state","final_capacity_buffer","maximum_stress_index","final_stress_index","diagnostic"
+"baseline",647.465960463564,647.465960463564,20,1,647.465960463564,647.465960463564,"high stress under scenario assumptions"
+"policy_intervention",140.67449397521,140.67449397521,20,1,140.67449397521,140.67449397521,"high stress under scenario assumptions"
+"stress_shock",530.28913774692,530.28913774692,20,1,530.28913774692,530.28913774692,"high stress under scenario assumptions"
+"rapid_growth",2895.0029450751,2895.0029450751,20,1,2895.0029450751,2895.0029450751,"high stress under scenario assumptions"
+"resilience_investment",256.681192260362,256.681192260362,20,1,256.681192260362,256.681192260362,"high stress under scenario assumptions"
+"delayed_policy",206.619234105441,206.619234105441,20,1,206.619234105441,206.619234105441,"high stress under scenario assumptions"
+"compound_stress",1108.6459738443,1108.6459738443,20,1,1108.6459738443,1108.6459738443,"high stress under scenario assumptions"

@@ -1,0 +1,8 @@
+metric,target_low,target_high,notes
+final_state,0,10000,Final state should remain nonnegative and bounded
+maximum_state,0,10000,Maximum state should remain nonnegative and bounded
+minimum_state,0,10000,Minimum state should remain nonnegative and bounded
+cumulative_cost,0,100000,Cost should remain nonnegative and bounded
+resilience_score,0,100,Resilience score should remain between zero and one hundred
+regret,0,100,Regret should remain nonnegative and bounded
+stress_index,0,10000,Stress index should remain finite and nonnegative

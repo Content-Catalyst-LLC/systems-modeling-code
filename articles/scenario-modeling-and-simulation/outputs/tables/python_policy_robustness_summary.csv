@@ -1,0 +1,5 @@
+policy,mean_resilience_score,p10_resilience_score,p90_resilience_score,worst_resilience_score,mean_final_state,worst_final_state,mean_regret,maximum_regret,robustness_diagnostic
+Policy_A_low_intervention,0.016096,0.0,0.0,0.0,311.8189,863.589984,12.182287,64.682117,scenario-sensitive performance
+Policy_B_moderate_intervention,12.198383,0.0,52.52371,0.0,132.039542,368.868205,0.0,0.0,scenario-sensitive performance
+Policy_C_high_resilience,4.496783,0.0,24.950411,0.0,178.203837,491.181992,7.7016,44.965356,scenario-sensitive performance
+Policy_D_delayed_adaptation,0.449906,0.0,0.0,0.0,260.776449,719.171834,11.748478,60.022678,scenario-sensitive performance

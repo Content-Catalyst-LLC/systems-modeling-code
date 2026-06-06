@@ -1,0 +1,6 @@
+shock_id,shock_name,shock_type,severity_low,severity_high,typical_time_low,typical_time_high,notes
+S1,demand_surge,capacity_stress,4,14,20,45,Tests demand and service pressure
+S2,infrastructure_failure,network_or_asset_failure,8,24,25,50,Tests loss of function under asset disruption
+S3,climate_hazard,environmental_shock,10,30,30,55,Tests exposure to external hazard
+S4,supply_disruption,logistics_or_market_shock,5,20,15,45,Tests disruption to external supply conditions
+S5,institutional_delay,governance_stress,2,12,10,40,Tests slow response and delayed intervention

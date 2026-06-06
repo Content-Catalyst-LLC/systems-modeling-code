@@ -1,0 +1,5 @@
+policy,policy_drag,resilience_buffer,implementation_delay,description
+Policy_A_low_intervention,0.010,4,0,Low intervention with limited resilience buffer
+Policy_B_moderate_intervention,0.025,7,0,Moderate intervention with medium resilience buffer
+Policy_C_high_resilience,0.020,12,0,Resilience-oriented policy with stronger shock buffer
+Policy_D_delayed_adaptation,0.015,6,8,Delayed adaptation with moderate policy effect

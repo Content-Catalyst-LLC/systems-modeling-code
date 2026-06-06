@@ -1,0 +1,8 @@
+scenario,scenario_type,growth,policy_drag,shock_time,shock_size,resilience_investment,description
+baseline,baseline,0.045,0.000,0,0,0,Continuation of reference growth without intervention or shock
+policy_intervention,policy,0.045,0.020,0,0,0,Policy drag reduces growth pressure over time
+stress_shock,stress,0.045,0.000,42,22,0,External shock tests system vulnerability
+rapid_growth,exploratory,0.065,0.000,0,0,0,Higher growth pressure explores accelerated demand
+resilience_investment,policy_stress,0.045,0.012,42,22,8,Policy plus resilience buffer tests shock absorption
+delayed_policy,policy,0.045,0.015,0,0,0,Moderate delayed-style intervention represented as weaker policy drag
+compound_stress,stress,0.060,0.005,38,28,2,Higher growth plus shock and weak investment tests compound stress
