@@ -1,0 +1,50 @@
+scenario,metric,value,target_low,target_high,passed,notes
+baseline_historical_dynamics,final_exponential,250.0,0.0,250.0,True,Synthetic capped exponential range
+baseline_historical_dynamics,final_logistic,79.998926,0.0,250.0,True,Synthetic capped logistic range
+baseline_historical_dynamics,final_delayed_feedback,250.0,0.0,250.0,True,Synthetic delayed-feedback range
+baseline_historical_dynamics,maximum_delayed_feedback,250.0,0.0,250.0,True,Synthetic maximum delayed-feedback range
+baseline_historical_dynamics,average_delayed_feedback,202.634854,0.0,250.0,True,Synthetic average delayed-feedback range
+baseline_historical_dynamics,time_to_delayed_feedback_peak,45.0,0.0,160.0,True,Peak should occur within simulation horizon
+baseline_historical_dynamics,maximum_delayed_feedback_outflow,11.7,0.0,60.0,True,Synthetic maximum feedback outflow range
+higher_growth,final_exponential,250.0,0.0,250.0,True,Synthetic capped exponential range
+higher_growth,final_logistic,79.999986,0.0,250.0,True,Synthetic capped logistic range
+higher_growth,final_delayed_feedback,250.0,0.0,250.0,True,Synthetic delayed-feedback range
+higher_growth,maximum_delayed_feedback,250.0,0.0,250.0,True,Synthetic maximum delayed-feedback range
+higher_growth,average_delayed_feedback,213.881819,0.0,250.0,True,Synthetic average delayed-feedback range
+higher_growth,time_to_delayed_feedback_peak,34.0,0.0,160.0,True,Peak should occur within simulation horizon
+higher_growth,maximum_delayed_feedback_outflow,11.7,0.0,60.0,True,Synthetic maximum feedback outflow range
+long_delay,final_exponential,250.0,0.0,250.0,True,Synthetic capped exponential range
+long_delay,final_logistic,79.998926,0.0,250.0,True,Synthetic capped logistic range
+long_delay,final_delayed_feedback,250.0,0.0,250.0,True,Synthetic delayed-feedback range
+long_delay,maximum_delayed_feedback,250.0,0.0,250.0,True,Synthetic maximum delayed-feedback range
+long_delay,average_delayed_feedback,203.638274,0.0,250.0,True,Synthetic average delayed-feedback range
+long_delay,time_to_delayed_feedback_peak,43.0,0.0,160.0,True,Peak should occur within simulation horizon
+long_delay,maximum_delayed_feedback_outflow,11.7,0.0,60.0,True,Synthetic maximum feedback outflow range
+lower_carrying_capacity,final_exponential,250.0,0.0,250.0,True,Synthetic capped exponential range
+lower_carrying_capacity,final_logistic,59.999439,0.0,250.0,True,Synthetic capped logistic range
+lower_carrying_capacity,final_delayed_feedback,250.0,0.0,250.0,True,Synthetic delayed-feedback range
+lower_carrying_capacity,maximum_delayed_feedback,250.0,0.0,250.0,True,Synthetic maximum delayed-feedback range
+lower_carrying_capacity,average_delayed_feedback,202.634854,0.0,250.0,True,Synthetic average delayed-feedback range
+lower_carrying_capacity,time_to_delayed_feedback_peak,45.0,0.0,160.0,True,Peak should occur within simulation horizon
+lower_carrying_capacity,maximum_delayed_feedback_outflow,11.7,0.0,60.0,True,Synthetic maximum feedback outflow range
+short_delay,final_exponential,250.0,0.0,250.0,True,Synthetic capped exponential range
+short_delay,final_logistic,79.998926,0.0,250.0,True,Synthetic capped logistic range
+short_delay,final_delayed_feedback,250.0,0.0,250.0,True,Synthetic delayed-feedback range
+short_delay,maximum_delayed_feedback,250.0,0.0,250.0,True,Synthetic maximum delayed-feedback range
+short_delay,average_delayed_feedback,199.272814,0.0,250.0,True,Synthetic average delayed-feedback range
+short_delay,time_to_delayed_feedback_peak,51.0,0.0,160.0,True,Peak should occur within simulation horizon
+short_delay,maximum_delayed_feedback_outflow,11.7,0.0,60.0,True,Synthetic maximum feedback outflow range
+strong_balancing,final_exponential,250.0,0.0,250.0,True,Synthetic capped exponential range
+strong_balancing,final_logistic,79.998926,0.0,250.0,True,Synthetic capped logistic range
+strong_balancing,final_delayed_feedback,250.0,0.0,250.0,True,Synthetic delayed-feedback range
+strong_balancing,maximum_delayed_feedback,250.0,0.0,250.0,True,Synthetic maximum delayed-feedback range
+strong_balancing,average_delayed_feedback,201.499931,0.0,250.0,True,Synthetic average delayed-feedback range
+strong_balancing,time_to_delayed_feedback_peak,49.0,0.0,160.0,True,Peak should occur within simulation horizon
+strong_balancing,maximum_delayed_feedback_outflow,17.55,0.0,60.0,True,Synthetic maximum feedback outflow range
+weak_balancing,final_exponential,250.0,0.0,250.0,True,Synthetic capped exponential range
+weak_balancing,final_logistic,79.998926,0.0,250.0,True,Synthetic capped logistic range
+weak_balancing,final_delayed_feedback,250.0,0.0,250.0,True,Synthetic delayed-feedback range
+weak_balancing,maximum_delayed_feedback,250.0,0.0,250.0,True,Synthetic maximum delayed-feedback range
+weak_balancing,average_delayed_feedback,203.252721,0.0,250.0,True,Synthetic average delayed-feedback range
+weak_balancing,time_to_delayed_feedback_peak,43.0,0.0,160.0,True,Peak should occur within simulation horizon
+weak_balancing,maximum_delayed_feedback_outflow,5.85,0.0,60.0,True,Synthetic maximum feedback outflow range

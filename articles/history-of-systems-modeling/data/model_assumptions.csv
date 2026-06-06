@@ -1,0 +1,8 @@
+assumption,value,description
+initial_state,10,Initial value for exponential logistic and delayed-feedback trajectories
+n_steps,160,Number of simulated periods
+exponential_structure,x_next=x+r*x,Simple reinforcing growth structure
+logistic_structure,x_next=x+r*x*(1-x/K),Growth with carrying-capacity constraint
+delayed_feedback_structure,x_next=x+r*x-k*max(x_delay-target,0)+shock,Growth with delayed balancing response
+shock_structure,one_time_negative_disturbance,Shock is introduced at a specified time step
+upper_bound,250,State cap used for synthetic numerical stability

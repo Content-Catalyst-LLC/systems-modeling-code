@@ -1,0 +1,8 @@
+"scenario","final_exponential","final_logistic","final_delayed_feedback","maximum_delayed_feedback","average_delayed_feedback","time_to_delayed_feedback_peak","maximum_delayed_feedback_outflow","diagnostic"
+"baseline_historical_dynamics",250,79.9989263709642,250,250,202.22084668012,46,11.7,"delayed feedback produces overshoot relative to logistic constraint"
+"short_delay",250,79.9989263709642,250,250,198.210142263064,53,11.7,"delayed feedback produces overshoot relative to logistic constraint"
+"long_delay",250,79.9989263709642,250,250,203.59573370205,43,11.7,"delayed feedback produces overshoot relative to logistic constraint"
+"weak_balancing",250,79.9989263709642,250,250,203.098969900971,44,5.85,"delayed feedback produces overshoot relative to logistic constraint"
+"higher_growth",250,79.9999861200259,250,250,213.716954638037,34,11.7,"delayed feedback produces overshoot relative to logistic constraint"
+"lower_carrying_capacity",250,59.9994385540187,250,250,202.22084668012,46,11.7,"delayed feedback produces overshoot relative to logistic constraint"
+"strong_balancing",250,79.9989263709642,250,250,200.390066576486,52,17.55,"delayed feedback produces overshoot relative to logistic constraint"

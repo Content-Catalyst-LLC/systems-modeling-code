@@ -1,0 +1,12 @@
+period,tradition,core_contribution,representational_focus,example_modeling_problem
+1940s,cybernetics,feedback and control,error correction and regulation,thermostat regulation and biological control
+1940s-1960s,general_systems_theory,boundary and cross-domain structure,open systems and hierarchy,biological and social system organization
+1950s-1960s,system_dynamics,stocks flows feedback and delay,dynamic accumulation and behavior over time,industrial inventory oscillation
+1950s-1970s,operations_research,constraints allocation and queues,resource use and process flow,logistics scheduling and service systems
+1960s-1980s,computer_simulation,executable dynamic experiments,stochastic and nonlinear simulation,scenario comparison under uncertainty
+1970s,global_modeling,coupled socioecological systems,long-horizon resource and population models,limits to growth scenarios
+1980s-2000s,complexity_science,emergence and adaptation,local interaction and nonlinear macro behavior,complex adaptive systems
+1990s-present,agent_based_modeling,heterogeneous actors and local rules,bottom-up emergence,diffusion adoption markets epidemics
+1990s-present,network_modeling,connectivity dependency and propagation,nodes edges contagion and centrality,infrastructure and financial contagion
+1990s-present,integrated_assessment_modeling,coupled sectoral pathways,energy economy land climate and policy,climate mitigation scenarios
+2010s-present,digital_twins_and_hybrid_models,live data and hybrid simulation,monitored systems and decision platforms,infrastructure operations and asset management

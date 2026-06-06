@@ -1,0 +1,8 @@
+metric,target_low,target_high,notes
+final_exponential,0,250,Synthetic capped exponential range
+final_logistic,0,250,Synthetic capped logistic range
+final_delayed_feedback,0,250,Synthetic delayed-feedback range
+maximum_delayed_feedback,0,250,Synthetic maximum delayed-feedback range
+time_to_delayed_feedback_peak,0,160,Peak should occur within simulation horizon
+maximum_delayed_feedback_outflow,0,60,Synthetic maximum feedback outflow range
+average_delayed_feedback,0,250,Synthetic average delayed-feedback range

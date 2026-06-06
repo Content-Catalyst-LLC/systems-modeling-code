@@ -1,0 +1,8 @@
+scenario,growth_rate,carrying_capacity,balancing_strength,target,delay,shock_time,shock_size,description
+baseline_historical_dynamics,0.080,80,0.060,55,7,90,-8,Reference comparison of exponential logistic and delayed feedback structures
+short_delay,0.080,80,0.060,55,2,90,-8,Shorter feedback delay reduces overshoot
+long_delay,0.080,80,0.060,55,14,90,-8,Longer delay increases overshoot risk
+weak_balancing,0.080,80,0.030,55,7,90,-8,Weak balancing feedback allows larger excursions
+higher_growth,0.105,80,0.060,55,7,90,-8,Higher reinforcing growth stresses corrective feedback
+lower_carrying_capacity,0.080,60,0.060,55,7,90,-8,Lower logistic carrying capacity tightens constraint
+strong_balancing,0.080,80,0.090,55,7,90,-8,Stronger balancing response constrains delayed growth
