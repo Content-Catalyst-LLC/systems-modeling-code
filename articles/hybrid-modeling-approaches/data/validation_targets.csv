@@ -1,0 +1,8 @@
+metric,target_low,target_high,notes
+average_queue_length,0,10000,Queue length should be nonnegative and bounded
+maximum_queue_length,0,10000,Maximum queue length should be nonnegative and bounded
+average_utilization,0,1,Utilization should remain a probability style share
+final_queue_length,0,10000,Final queue length should be nonnegative
+adoption_rate,0,1,Adoption rate should remain a probability style share
+demand,0,2,Demand signal should remain within configured synthetic bounds
+coupling_residual,0,10000,Coupling residual should remain finite

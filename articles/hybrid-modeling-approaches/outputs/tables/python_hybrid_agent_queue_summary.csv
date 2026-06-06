@@ -1,0 +1,7 @@
+scenario,n_agents,n_steps,service_capacity,pressure_sensitivity,total_arrivals,average_arrivals,average_queue_length,maximum_queue_length,average_utilization,average_coupling_residual,final_queue_length,diagnostic
+baseline_hybrid_agent_queue,160,80,28,0.18,2252,28.15,14.25,24,1.0,5.775,12,queue pressure contained under current coupling assumptions
+low_capacity,160,80,18,0.18,1447,18.0875,15.275,25,1.0,4.8125,7,queue pressure contained under current coupling assumptions
+high_capacity,160,80,42,0.18,3190,39.875,2.175,14,0.946726,2.6125,9,queue pressure contained under current coupling assumptions
+weak_pressure_feedback,160,80,28,0.05,2299,28.7375,48.475,66,1.0,4.3875,59,persistent operational pressure
+strong_pressure_feedback,160,80,28,0.35,2209,27.6125,6.6375,20,0.980804,8.475,12,queue pressure contained under current coupling assumptions
+higher_baseline_demand,160,80,28,0.18,2279,28.4875,32.6125,44,1.0,5.9875,39,persistent operational pressure

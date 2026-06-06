@@ -1,0 +1,7 @@
+interface_id,source_module,target_module,exchange_variable,units,exchange_frequency,transformation_rule
+I1,aggregate_feedback,heterogeneous_adoption,demand_signal,index,monthly,scale demand to agent decision pressure
+I2,heterogeneous_adoption,aggregate_feedback,adoption_rate,share,monthly,aggregate adopted agents into macro adoption
+I3,service_queue,heterogeneous_adoption,queue_pressure,index,weekly,reduce demand propensity under operational congestion
+I4,interaction_network,heterogeneous_adoption,peer_exposure,share,monthly,translate neighbor adoption into local exposure
+I5,policy_scenario,aggregate_feedback,policy_signal,index,annual,apply policy effect to aggregate growth and capacity
+I6,aggregate_feedback,service_queue,demand_volume,entities,weekly,convert aggregate demand into service arrivals

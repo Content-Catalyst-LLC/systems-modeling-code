@@ -1,0 +1,6 @@
+"scenario","final_demand","final_adoption_rate","peak_new_adopters","time_to_half_adoption","mean_threshold","diagnostic"
+"baseline_hybrid_feedback",1.5,1,39,6,0.52251697266195,"broad adoption emerged through aggregate-agent feedback"
+"weak_adoption_feedback",1.5,1,32,8,0.483934237056412,"broad adoption emerged through aggregate-agent feedback"
+"strong_adoption_feedback",1.5,1,52,4,0.47842719481606,"broad adoption emerged through aggregate-agent feedback"
+"low_threshold_population",1.5,1,73,3,0.306466374638801,"broad adoption emerged through aggregate-agent feedback"
+"high_threshold_population",1.5,1,43,38,0.696795443159838,"broad adoption emerged through aggregate-agent feedback"

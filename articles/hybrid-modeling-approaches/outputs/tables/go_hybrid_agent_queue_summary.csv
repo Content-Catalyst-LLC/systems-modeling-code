@@ -1,0 +1,6 @@
+scenario,total_arrivals,average_arrivals,average_queue_length,maximum_queue_length,average_utilization,final_queue_length
+baseline_hybrid_agent_queue,2264,28.300000,16.312500,27,1.000000,24
+low_capacity,1448,18.100000,16.275000,25,1.000000,8
+high_capacity,3236,40.450000,3.350000,16,0.963095,0
+strong_pressure_feedback,2220,27.750000,7.575000,27,0.991071,0
+higher_baseline_demand,2270,28.375000,32.412500,47,1.000000,30

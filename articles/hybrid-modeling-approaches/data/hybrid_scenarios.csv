@@ -1,0 +1,7 @@
+scenario,n_agents,n_steps,service_capacity,pressure_sensitivity,baseline_low,baseline_high,seed,description
+baseline_hybrid_agent_queue,160,80,28,0.18,0.10,0.42,60606,Reference coupled agent demand and queue pressure model
+low_capacity,160,80,18,0.18,0.10,0.42,60607,Lower service capacity increases operational pressure
+high_capacity,160,80,42,0.18,0.10,0.42,60608,Higher service capacity reduces operational pressure
+weak_pressure_feedback,160,80,28,0.05,0.10,0.42,60609,Agents respond weakly to queue pressure
+strong_pressure_feedback,160,80,28,0.35,0.10,0.42,60610,Agents respond strongly to queue pressure
+higher_baseline_demand,160,80,28,0.18,0.20,0.55,60611,Higher baseline demand tests pressure buildup

@@ -1,0 +1,6 @@
+module_id,module_name,method_family,system_layer,state_variables,primary_output
+M1,aggregate_feedback,system_dynamics,macro,demand capacity adoption_pressure,aggregate_demand
+M2,heterogeneous_adoption,agent_based_modeling,micro,threshold adopted propensity,adoption_rate
+M3,interaction_network,network_modeling,relational,degree exposure bridge_status,network_pressure
+M4,service_queue,discrete_event_simulation,operational,queue_length busy_capacity service_backlog,queue_pressure
+M5,policy_scenario,scenario_modeling,governance,incentive capacity_investment implementation_delay,policy_signal
