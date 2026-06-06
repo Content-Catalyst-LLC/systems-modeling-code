@@ -1,0 +1,11 @@
+concept,modeling_question,formal_representation,diagnostic
+node,what system components are represented,vertex set,node inventory
+edge,what relationships or dependencies matter,edge list or adjacency matrix,edge audit
+weight,how strong is a relationship,weighted edge value,weight distribution
+direction,does flow or influence have orientation,directed adjacency matrix,in_degree_out_degree
+component,which nodes remain connected,connected subgraph,component size
+centrality,which nodes are structurally important,degree betweenness closeness eigenvector,centrality ranking
+diffusion,how states spread through ties,state update over edges,spread curve
+cascade,how failures propagate,threshold or overload rule,cascade size
+robustness,how structure survives disruption,node or edge removal test,largest component share
+modularity,how communities structure the system,community partition,cross_community_edges

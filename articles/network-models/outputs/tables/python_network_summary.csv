@@ -1,0 +1,2 @@
+scenario,nodes,edges,density,average_degree,maximum_degree,component_count,largest_component_size,largest_component_share,average_path_length_reachable
+baseline_network,48,56,0.049645,2.333333,5,1,48,1.0,5.64273

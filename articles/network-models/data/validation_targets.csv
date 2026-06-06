@@ -1,0 +1,8 @@
+metric,target_low,target_high,notes
+density,0,1,Density should be a probability style share
+average_degree,0,47,Average degree must be within possible range
+maximum_degree,0,47,Maximum degree must be within possible range
+component_count,1,48,Component count must be valid
+largest_component_share,0,1,Largest component share should be a probability style share
+infected_share,0,1,Contagion share should be a probability style share
+cascade_share,0,1,Cascade share should be a probability style share

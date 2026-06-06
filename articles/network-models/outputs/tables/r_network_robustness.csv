@@ -1,0 +1,13 @@
+"strategy","removal_fraction","nodes_removed","remaining_nodes","component_count","largest_component_size","largest_component_share"
+"random_removal",0,0,48,1,48,1
+"targeted_high_degree_removal",0,0,48,1,48,1
+"random_removal",0.05,2,46,3,44,0.956521739130435
+"targeted_high_degree_removal",0.05,2,46,2,40,0.869565217391304
+"random_removal",0.1,5,43,3,39,0.906976744186046
+"targeted_high_degree_removal",0.1,5,43,4,33,0.767441860465116
+"random_removal",0.15,7,41,4,33,0.804878048780488
+"targeted_high_degree_removal",0.15,7,41,8,12,0.292682926829268
+"random_removal",0.2,10,38,4,31,0.81578947368421
+"targeted_high_degree_removal",0.2,10,38,11,9,0.236842105263158
+"random_removal",0.25,12,36,8,21,0.583333333333333
+"targeted_high_degree_removal",0.25,12,36,13,6,0.166666666666667

@@ -1,0 +1,6 @@
+scenario,metric,value,target_low,target_high,passed
+baseline_network,density,0.049645,0.0,1.0,True
+baseline_network,average_degree,2.333333,0.0,47.0,True
+baseline_network,maximum_degree,5.0,0.0,47.0,True
+baseline_network,component_count,1.0,1.0,48.0,True
+baseline_network,largest_component_share,1.0,0.0,1.0,True

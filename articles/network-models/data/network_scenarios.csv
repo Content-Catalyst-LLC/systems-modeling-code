@@ -1,0 +1,7 @@
+scenario,contagion_probability,threshold,removal_fraction,removal_strategy,seed,description
+baseline_contagion,0.18,0.35,0.00,none,80808,Reference contagion simulation
+low_contagion,0.08,0.35,0.00,none,80809,Lower transmission probability
+high_contagion,0.30,0.35,0.00,none,80810,Higher transmission probability
+random_removal_10,0.18,0.35,0.10,random,80811,Random node removal stress test
+targeted_removal_10,0.18,0.35,0.10,targeted_degree,80812,Targeted high degree removal stress test
+threshold_cascade,0.18,0.30,0.00,none,80813,Threshold cascade scenario
