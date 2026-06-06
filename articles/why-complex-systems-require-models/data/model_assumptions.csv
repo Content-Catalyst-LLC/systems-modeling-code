@@ -1,0 +1,8 @@
+assumption,value,description
+initial_state,12,Initial system state
+periods,160,Number of discrete time periods
+growth_mechanism,reinforcing,Current state increases future inflow
+balancing_mechanism,delayed,Corrective response depends on earlier state
+threshold_mechanism,piecewise,System behaves differently after crossing threshold
+shock_mechanism,discrete,A one-time disturbance is introduced at a specified period
+upper_bound,250,State cap used to prevent numerical runaway in synthetic examples

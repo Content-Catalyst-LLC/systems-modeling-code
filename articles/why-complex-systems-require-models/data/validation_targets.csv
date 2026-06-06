@@ -1,0 +1,8 @@
+metric,target_low,target_high,notes
+minimum_state,0,250,Synthetic state lower and upper range
+maximum_state,0,250,Synthetic state lower and upper range
+final_state,0,250,Synthetic final-state range
+maximum_overshoot,0,240,Synthetic overshoot range
+time_to_peak,0,160,Peak should occur inside simulated horizon
+threshold_active_periods,0,161,Threshold-active period count should be valid
+maximum_balancing_outflow,0,60,Synthetic balancing response range

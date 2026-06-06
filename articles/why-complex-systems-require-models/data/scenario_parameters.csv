@@ -1,0 +1,7 @@
+scenario,growth_rate,balancing_strength,target,delay,threshold,threshold_correction,shock_time,shock_size,description
+baseline_delayed_feedback,0.080,0.060,50,7,85,0.035,70,-10,Reference scenario with delayed balancing feedback and threshold correction
+short_delay,0.080,0.060,50,2,85,0.035,70,-10,Shorter delay produces earlier correction
+long_delay,0.080,0.060,50,14,85,0.035,70,-10,Longer delay allows more overshoot before correction
+weak_balancing,0.080,0.030,50,7,85,0.035,70,-10,Weak balancing feedback creates persistent overshoot risk
+strong_threshold_response,0.080,0.060,50,7,85,0.080,70,-10,Strong threshold response constrains high-state behavior
+higher_growth,0.105,0.060,50,7,85,0.035,70,-10,Higher reinforcing growth stresses balancing feedback

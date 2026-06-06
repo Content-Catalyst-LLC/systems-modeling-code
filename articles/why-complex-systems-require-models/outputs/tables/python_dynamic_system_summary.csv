@@ -1,0 +1,7 @@
+scenario,minimum_state,maximum_state,final_state,average_state,maximum_overshoot,time_to_peak,threshold_active_periods,maximum_balancing_outflow,diagnostic
+baseline_delayed_feedback,12.0,250.0,250.0,202.528799,238.0,54,135,12.0,severe overshoot from reinforcing growth and delayed correction
+higher_growth,12.0,250.0,250.0,215.557868,238.0,34,141,12.0,severe overshoot from reinforcing growth and delayed correction
+long_delay,12.0,250.0,250.0,205.586415,238.0,44,135,12.0,severe overshoot from reinforcing growth and delayed correction
+short_delay,12.0,250.0,250.0,195.506381,238.0,70,135,12.0,severe overshoot from reinforcing growth and delayed correction
+strong_threshold_response,12.0,164.757312,163.332337,138.391777,152.757312,56,135,6.885439,severe overshoot from reinforcing growth and delayed correction
+weak_balancing,12.0,250.0,250.0,204.95009,238.0,46,135,6.0,severe overshoot from reinforcing growth and delayed correction

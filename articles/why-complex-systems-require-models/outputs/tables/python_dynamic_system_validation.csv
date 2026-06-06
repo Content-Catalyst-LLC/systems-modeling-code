@@ -1,0 +1,43 @@
+scenario,metric,value,target_low,target_high,passed,notes
+baseline_delayed_feedback,minimum_state,12.0,0.0,250.0,True,Synthetic state lower and upper range
+baseline_delayed_feedback,maximum_state,250.0,0.0,250.0,True,Synthetic state lower and upper range
+baseline_delayed_feedback,final_state,250.0,0.0,250.0,True,Synthetic final-state range
+baseline_delayed_feedback,maximum_overshoot,238.0,0.0,240.0,True,Synthetic overshoot range
+baseline_delayed_feedback,time_to_peak,54.0,0.0,160.0,True,Peak should occur inside simulated horizon
+baseline_delayed_feedback,threshold_active_periods,135.0,0.0,161.0,True,Threshold-active period count should be valid
+baseline_delayed_feedback,maximum_balancing_outflow,12.0,0.0,60.0,True,Synthetic balancing response range
+higher_growth,minimum_state,12.0,0.0,250.0,True,Synthetic state lower and upper range
+higher_growth,maximum_state,250.0,0.0,250.0,True,Synthetic state lower and upper range
+higher_growth,final_state,250.0,0.0,250.0,True,Synthetic final-state range
+higher_growth,maximum_overshoot,238.0,0.0,240.0,True,Synthetic overshoot range
+higher_growth,time_to_peak,34.0,0.0,160.0,True,Peak should occur inside simulated horizon
+higher_growth,threshold_active_periods,141.0,0.0,161.0,True,Threshold-active period count should be valid
+higher_growth,maximum_balancing_outflow,12.0,0.0,60.0,True,Synthetic balancing response range
+long_delay,minimum_state,12.0,0.0,250.0,True,Synthetic state lower and upper range
+long_delay,maximum_state,250.0,0.0,250.0,True,Synthetic state lower and upper range
+long_delay,final_state,250.0,0.0,250.0,True,Synthetic final-state range
+long_delay,maximum_overshoot,238.0,0.0,240.0,True,Synthetic overshoot range
+long_delay,time_to_peak,44.0,0.0,160.0,True,Peak should occur inside simulated horizon
+long_delay,threshold_active_periods,135.0,0.0,161.0,True,Threshold-active period count should be valid
+long_delay,maximum_balancing_outflow,12.0,0.0,60.0,True,Synthetic balancing response range
+short_delay,minimum_state,12.0,0.0,250.0,True,Synthetic state lower and upper range
+short_delay,maximum_state,250.0,0.0,250.0,True,Synthetic state lower and upper range
+short_delay,final_state,250.0,0.0,250.0,True,Synthetic final-state range
+short_delay,maximum_overshoot,238.0,0.0,240.0,True,Synthetic overshoot range
+short_delay,time_to_peak,70.0,0.0,160.0,True,Peak should occur inside simulated horizon
+short_delay,threshold_active_periods,135.0,0.0,161.0,True,Threshold-active period count should be valid
+short_delay,maximum_balancing_outflow,12.0,0.0,60.0,True,Synthetic balancing response range
+strong_threshold_response,minimum_state,12.0,0.0,250.0,True,Synthetic state lower and upper range
+strong_threshold_response,maximum_state,164.757312,0.0,250.0,True,Synthetic state lower and upper range
+strong_threshold_response,final_state,163.332337,0.0,250.0,True,Synthetic final-state range
+strong_threshold_response,maximum_overshoot,152.757312,0.0,240.0,True,Synthetic overshoot range
+strong_threshold_response,time_to_peak,56.0,0.0,160.0,True,Peak should occur inside simulated horizon
+strong_threshold_response,threshold_active_periods,135.0,0.0,161.0,True,Threshold-active period count should be valid
+strong_threshold_response,maximum_balancing_outflow,6.885439,0.0,60.0,True,Synthetic balancing response range
+weak_balancing,minimum_state,12.0,0.0,250.0,True,Synthetic state lower and upper range
+weak_balancing,maximum_state,250.0,0.0,250.0,True,Synthetic state lower and upper range
+weak_balancing,final_state,250.0,0.0,250.0,True,Synthetic final-state range
+weak_balancing,maximum_overshoot,238.0,0.0,240.0,True,Synthetic overshoot range
+weak_balancing,time_to_peak,46.0,0.0,160.0,True,Peak should occur inside simulated horizon
+weak_balancing,threshold_active_periods,135.0,0.0,161.0,True,Threshold-active period count should be valid
+weak_balancing,maximum_balancing_outflow,6.0,0.0,60.0,True,Synthetic balancing response range
