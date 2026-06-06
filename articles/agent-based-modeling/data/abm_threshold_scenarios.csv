@@ -1,0 +1,7 @@
+scenario,n_agents,n_steps,initial_adopters,threshold_low,threshold_high,neighbor_radius,seed,description
+baseline_threshold_adoption,180,50,12,0.10,0.70,2,101,Reference threshold adoption model
+low_threshold_population,180,50,12,0.05,0.45,2,102,Lower thresholds should increase adoption diffusion
+high_threshold_population,180,50,12,0.35,0.85,2,103,Higher thresholds should slow or stall adoption
+wider_neighborhood,180,50,12,0.10,0.70,4,104,Wider neighborhood changes local influence exposure
+more_initial_adopters,180,50,28,0.10,0.70,2,105,More seeded adopters should increase diffusion potential
+sparse_seed_high_threshold,180,50,6,0.35,0.85,2,106,Sparse seed with high threshold should likely stall

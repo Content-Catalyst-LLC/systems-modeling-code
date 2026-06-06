@@ -1,0 +1,7 @@
+"scenario","initial_adoption_rate","final_adoption_rate","peak_new_adopters","time_to_half_adoption","mean_threshold","diagnostic"
+"baseline_threshold_adoption",0.127777777777778,0.3,11,NA,0.4212943988534,"adoption stalled under current assumptions"
+"low_threshold_population",0.188888888888889,1,30,4,0.254539954928785,"broad adoption emerged from local threshold dynamics"
+"high_threshold_population",0.0777777777777778,0.0777777777777778,2,NA,0.606397984565572,"adoption stalled under current assumptions"
+"wider_neighborhood",0.116666666666667,0.35,15,NA,0.393712434209107,"adoption stalled under current assumptions"
+"more_initial_adopters",0.305555555555556,0.55,27,4,0.406964767962539,"partial adoption emerged under current assumptions"
+"sparse_seed_high_threshold",0.0333333333333333,0.0333333333333333,0,NA,0.593140377593227,"adoption stalled under current assumptions"

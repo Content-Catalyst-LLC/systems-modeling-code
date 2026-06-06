@@ -1,0 +1,6 @@
+scenario,initial_adoption_rate,final_adoption_rate,peak_new_adopters,time_to_half_adoption,mean_threshold
+baseline_threshold_adoption,0.066667,0.311111,13,0,0.400000
+low_threshold_population,0.066667,1.000000,25,4,0.250000
+high_threshold_population,0.066667,0.094444,2,0,0.600000
+wider_neighborhood,0.066667,0.288889,10,0,0.400000
+more_initial_adopters,0.155556,0.650000,32,3,0.400000

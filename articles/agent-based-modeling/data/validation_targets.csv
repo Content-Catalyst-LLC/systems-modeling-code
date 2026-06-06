@@ -1,0 +1,7 @@
+metric,target_low,target_high,notes
+satisfied_share,0,1,Share should stay within probability range
+clustering_index,0,1,Mean same-type neighbor share should stay within probability range
+unhappy_agents,0,10000,Unhappy agent count should be nonnegative
+adoption_rate,0,1,Adoption rate should stay within probability range
+new_adopters,0,10000,New adopter count should be nonnegative
+time_to_half_adoption,1,50,Half adoption time should occur within simulation horizon when achieved

@@ -1,0 +1,7 @@
+scenario,steps_completed,initial_satisfied_share,final_satisfied_share,initial_clustering_index,final_clustering_index,final_unhappy_agents,diagnostic
+baseline_abm,23,0.576923,1.0,0.503414,0.918857,0,local preferences generated stronger clustering
+low_threshold,8,0.835095,1.0,0.507432,0.749444,0,local preferences generated stronger clustering
+high_threshold,60,0.338298,0.976596,0.492386,0.956102,11,local preferences generated stronger clustering
+fewer_empty_cells,17,0.592593,1.0,0.507765,0.889799,0,local preferences generated stronger clustering
+more_empty_cells,49,0.585308,1.0,0.503676,0.895359,0,local preferences generated stronger clustering
+larger_grid,28,0.579882,1.0,0.507691,0.878278,0,local preferences generated stronger clustering

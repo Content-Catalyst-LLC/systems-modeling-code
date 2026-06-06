@@ -1,0 +1,7 @@
+scenario,grid_size,empty_share,type_a_share,satisfaction_threshold,max_steps,seed,description
+baseline_abm,24,0.18,0.41,0.45,60,4201,Reference Schelling-style spatial interaction model
+low_threshold,24,0.18,0.41,0.30,60,4202,Lower satisfaction threshold should reduce relocation pressure
+high_threshold,24,0.18,0.41,0.60,60,4203,Higher satisfaction threshold should increase relocation pressure
+fewer_empty_cells,24,0.10,0.41,0.45,60,4204,Fewer vacancies restrict relocation opportunities
+more_empty_cells,24,0.28,0.41,0.45,60,4205,More vacancies allow easier relocation
+larger_grid,32,0.18,0.41,0.45,60,4206,Larger environment tests scaling behavior
