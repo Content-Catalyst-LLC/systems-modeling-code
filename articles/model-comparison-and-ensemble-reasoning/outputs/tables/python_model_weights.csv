@@ -1,0 +1,4 @@
+model,weight_type,weight
+exponential,validation_inverse_rmse,0.003367
+logistic,validation_inverse_rmse,0.470863
+managed_logistic,validation_inverse_rmse,0.52577

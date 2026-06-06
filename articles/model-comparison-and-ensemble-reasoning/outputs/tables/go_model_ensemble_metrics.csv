@@ -1,0 +1,5 @@
+model,calibration_rmse,validation_rmse,generalization_gap
+logistic_high,31.806316,36.394592,4.588276
+managed_reference,3.390789,1.401602,-1.989187
+managed_high_press,1.788625,3.065841,1.277215
+logistic_low,2.532632,2.975353,0.442722

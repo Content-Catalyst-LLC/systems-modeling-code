@@ -1,0 +1,9 @@
+criterion,question,metric_or_evidence,notes
+calibration_fit,How well does the model fit calibration data?,calibration_rmse,Fit alone is not validation
+validation_performance,How well does the model generalize?,validation_rmse,Uses held-out validation period
+bias,Does the model systematically overpredict or underpredict?,mean_residual,Positive and negative errors can cancel
+structural_plausibility,Does the structure represent plausible mechanisms?,model_metadata_review,Requires expert judgment
+benchmark_value,Does complexity improve on simpler alternatives?,rank_against_benchmarks,Complexity must earn its keep
+ensemble_spread,How much do models disagree?,prediction_range_or_sd,Spread is not full uncertainty unless ensemble is designed for it
+robust_policy,Which decision performs across model families?,regret_and_worst_score,Decision criteria may be value-laden
+model_dependence,Are models independent?,shared_data_and_assumption_notes,Agreement may reflect shared assumptions

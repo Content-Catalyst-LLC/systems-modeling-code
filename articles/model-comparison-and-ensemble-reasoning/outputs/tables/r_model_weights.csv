@@ -1,0 +1,4 @@
+"model","weight_type","weight"
+"exponential","validation_inverse_rmse",0.025953344114486
+"logistic","validation_inverse_rmse",0.48039022052012
+"managed_logistic","validation_inverse_rmse",0.493656435365394

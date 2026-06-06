@@ -1,0 +1,4 @@
+model,model_family,growth,capacity,extraction,calibration_sse,dependence_note
+exponential,exponential,0.041076,,,9308.660318,synthetic comparison; models share data and calibration target
+logistic,logistic,0.073729,112.20339,,60.531487,synthetic comparison; models share data and calibration target
+managed_logistic,managed_logistic,0.104545,160.0,0.031316,51.417217,synthetic comparison; models share data and calibration target

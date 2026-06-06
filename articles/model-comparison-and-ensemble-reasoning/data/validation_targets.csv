@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+rmse,0,10000,RMSE should remain nonnegative and bounded
+mae,0,10000,MAE should remain nonnegative and bounded
+bias,-10000,10000,Bias should remain finite
+validation_rank,1,20,Validation rank should remain positive
+ensemble_weight,0,1,Model weights should remain between zero and one
+performance_score,0,100,Policy performance score should remain bounded
+regret,0,100,Regret should remain nonnegative and bounded
+model_count,1,100,Comparison should include one or more models

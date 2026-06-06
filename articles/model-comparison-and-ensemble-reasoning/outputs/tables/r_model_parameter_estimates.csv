@@ -1,0 +1,4 @@
+"model","growth","capacity","extraction","calibration_sse","dependence_note"
+"exponential",0.0420253164556962,NA,NA,17384.5757057987,"synthetic comparison; models share data and calibration target"
+"logistic",0.0893220338983051,100.338983050847,NA,765.048068581979,"synthetic comparison; models share data and calibration target"
+"managed_logistic",0.124431818181818,140,0.035,763.076439581586,"synthetic comparison; models share data and calibration target"

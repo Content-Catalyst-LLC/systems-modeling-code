@@ -1,0 +1,6 @@
+model,dataset,rmse,mae,bias,observation_count,validation_rank
+managed_logistic,validation,1.07541,0.873344,-0.404985,30,1
+logistic,validation,1.200813,0.972292,-0.676358,30,2
+performance_weighted_ensemble,validation,1.461322,1.222222,-1.020123,30,3
+equal_weight_ensemble,validation,56.307083,48.740624,-48.740624,30,4
+exponential,validation,167.917613,145.14053,-145.14053,30,5

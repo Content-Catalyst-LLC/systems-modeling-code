@@ -1,0 +1,4 @@
+policy,mean_score,worst_score,mean_regret,maximum_regret,robustness_interpretation
+Policy_A_low_intervention,65.675753,12.20196,22.431556,30.71,sensitive to model family and scenario pressure
+Policy_B_balanced,83.594711,35.07696,4.512598,7.835,sensitive to model family and scenario pressure
+Policy_C_high_adaptation,88.107309,42.91196,0.0,0.0,robust across model families

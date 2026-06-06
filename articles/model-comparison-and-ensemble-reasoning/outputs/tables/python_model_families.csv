@@ -1,0 +1,6 @@
+model,model_family,structure,primary_use,known_limitation
+exponential,aggregate_growth,Unbounded growth recurrence,Simple benchmark and stress baseline,Can overstate growth when saturation exists
+logistic,capacity_limited_growth,Capacity-limited nonlinear recurrence,Models saturation and carrying capacity,Does not represent active extraction or management
+managed_logistic,managed_dynamic_system,Capacity-limited growth with extraction pressure,Represents managed system pressure,Still simplified and synthetic
+equal_weight_ensemble,ensemble_average,Equal-weight average across model families,Transparent ensemble comparison,Assumes equal credibility and dependence
+performance_weighted_ensemble,weighted_ensemble,Inverse-validation-error weighted model average,Validation-informed ensemble comparison,Can overfit validation metric

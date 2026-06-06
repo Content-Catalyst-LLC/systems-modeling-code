@@ -1,0 +1,4 @@
+policy,policy_strength,adaptation,description
+Policy_A_low_intervention,0.20,0.15,Lower-cost policy with limited adaptation
+Policy_B_balanced,0.38,0.30,Balanced intervention and adaptation capacity
+Policy_C_high_adaptation,0.30,0.55,Adaptation-heavy policy with flexible response capacity

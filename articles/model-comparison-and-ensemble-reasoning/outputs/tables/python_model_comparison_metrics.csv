@@ -1,0 +1,11 @@
+model,dataset,rmse,mae,bias,observation_count
+exponential,calibration,12.455695,10.620429,7.102796,60
+exponential,validation,167.917613,145.14053,-145.14053,30
+logistic,calibration,1.004419,0.741245,-0.270076,60
+logistic,validation,1.200813,0.972292,-0.676358,30
+managed_logistic,calibration,0.925718,0.737944,0.065995,60
+managed_logistic,validation,1.07541,0.873344,-0.404985,30
+equal_weight_ensemble,calibration,4.124415,3.520867,2.299572,60
+equal_weight_ensemble,validation,56.307083,48.740624,-48.740624,30
+performance_weighted_ensemble,calibration,0.937305,0.7234,-0.068554,60
+performance_weighted_ensemble,validation,1.461322,1.222222,-1.020123,30
