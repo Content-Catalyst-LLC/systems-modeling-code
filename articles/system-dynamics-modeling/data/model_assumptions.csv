@@ -1,0 +1,9 @@
+assumption,value,description
+initial_stock,20,Initial stock value
+periods,160,Number of simulated periods
+stock_update,S_next=S+inflow-outflow-threshold_penalty+shock,Discrete-time stock update rule
+reinforcing_inflow,r*S*(1-S/K),Capacity-limited reinforcing inflow
+balancing_outflow,k*max(S_delay-target,0),Delayed balancing response above target
+threshold_penalty,c*max(S-threshold,0),Nonlinear threshold-sensitive correction
+shock,one_time_negative_disturbance,Discrete shock applied at shock_time
+upper_bound,250,State cap for synthetic numerical stability

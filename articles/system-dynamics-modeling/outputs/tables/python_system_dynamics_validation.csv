@@ -1,0 +1,65 @@
+scenario,metric,value,target_low,target_high,passed,notes
+baseline_system_dynamics,minimum_stock,20.0,0.0,250.0,True,Synthetic state range
+baseline_system_dynamics,maximum_stock,84.480218,0.0,250.0,True,Synthetic state range
+baseline_system_dynamics,final_stock,83.484799,0.0,250.0,True,Synthetic final-state range
+baseline_system_dynamics,average_stock,76.302129,0.0,250.0,True,Synthetic average-state range
+baseline_system_dynamics,time_to_peak,40.0,0.0,160.0,True,Peak should occur within simulation horizon
+baseline_system_dynamics,maximum_inflow,2.249374,0.0,60.0,True,Synthetic inflow range
+baseline_system_dynamics,maximum_outflow,1.236412,0.0,60.0,True,Synthetic outflow range
+baseline_system_dynamics,threshold_active_periods,113.0,0.0,161.0,True,Threshold-active periods should be valid
+high_growth,minimum_stock,20.0,0.0,250.0,True,Synthetic state range
+high_growth,maximum_stock,87.325123,0.0,250.0,True,Synthetic state range
+high_growth,final_stock,85.805595,0.0,250.0,True,Synthetic final-state range
+high_growth,average_stock,80.015578,0.0,250.0,True,Synthetic average-state range
+high_growth,time_to_peak,32.0,0.0,160.0,True,Peak should occur within simulation horizon
+high_growth,maximum_inflow,2.999476,0.0,60.0,True,Synthetic inflow range
+high_growth,maximum_outflow,1.392882,0.0,60.0,True,Synthetic outflow range
+high_growth,threshold_active_periods,128.0,0.0,161.0,True,Threshold-active periods should be valid
+long_delay,minimum_stock,20.0,0.0,250.0,True,Synthetic state range
+long_delay,maximum_stock,88.502109,0.0,250.0,True,Synthetic state range
+long_delay,final_stock,83.359706,0.0,250.0,True,Synthetic final-state range
+long_delay,average_stock,76.592451,0.0,250.0,True,Synthetic average-state range
+long_delay,time_to_peak,42.0,0.0,160.0,True,Peak should occur within simulation horizon
+long_delay,maximum_inflow,2.249374,0.0,60.0,True,Synthetic inflow range
+long_delay,maximum_outflow,1.457616,0.0,60.0,True,Synthetic outflow range
+long_delay,threshold_active_periods,110.0,0.0,161.0,True,Threshold-active periods should be valid
+lower_capacity,minimum_stock,20.0,0.0,250.0,True,Synthetic state range
+lower_capacity,maximum_stock,70.291741,0.0,250.0,True,Synthetic state range
+lower_capacity,final_stock,69.850677,0.0,250.0,True,Synthetic final-state range
+lower_capacity,average_stock,64.015494,0.0,250.0,True,Synthetic average-state range
+lower_capacity,time_to_peak,46.0,0.0,160.0,True,Peak should occur within simulation horizon
+lower_capacity,maximum_inflow,1.687044,0.0,60.0,True,Synthetic inflow range
+lower_capacity,maximum_outflow,0.456046,0.0,60.0,True,Synthetic outflow range
+lower_capacity,threshold_active_periods,0.0,0.0,161.0,True,Threshold-active periods should be valid
+short_delay,minimum_stock,20.0,0.0,250.0,True,Synthetic state range
+short_delay,maximum_stock,83.483719,0.0,250.0,True,Synthetic state range
+short_delay,final_stock,83.483684,0.0,250.0,True,Synthetic final-state range
+short_delay,average_stock,76.052701,0.0,250.0,True,Synthetic average-state range
+short_delay,time_to_peak,95.0,0.0,160.0,True,Peak should occur within simulation horizon
+short_delay,maximum_inflow,2.249374,0.0,60.0,True,Synthetic inflow range
+short_delay,maximum_outflow,1.181605,0.0,60.0,True,Synthetic outflow range
+short_delay,threshold_active_periods,107.0,0.0,161.0,True,Threshold-active periods should be valid
+strong_balancing,minimum_stock,20.0,0.0,250.0,True,Synthetic state range
+strong_balancing,maximum_stock,82.170084,0.0,250.0,True,Synthetic state range
+strong_balancing,final_stock,78.756484,0.0,250.0,True,Synthetic final-state range
+strong_balancing,average_stock,72.71027,0.0,250.0,True,Synthetic average-state range
+strong_balancing,time_to_peak,36.0,0.0,160.0,True,Peak should occur within simulation horizon
+strong_balancing,maximum_inflow,2.249374,0.0,60.0,True,Synthetic inflow range
+strong_balancing,maximum_outflow,1.815308,0.0,60.0,True,Synthetic outflow range
+strong_balancing,threshold_active_periods,3.0,0.0,161.0,True,Threshold-active periods should be valid
+strong_threshold_correction,minimum_stock,20.0,0.0,250.0,True,Synthetic state range
+strong_threshold_correction,maximum_stock,84.108499,0.0,250.0,True,Synthetic state range
+strong_threshold_correction,final_stock,83.121545,0.0,250.0,True,Synthetic final-state range
+strong_threshold_correction,average_stock,76.032783,0.0,250.0,True,Synthetic average-state range
+strong_threshold_correction,time_to_peak,39.0,0.0,160.0,True,Peak should occur within simulation horizon
+strong_threshold_correction,maximum_inflow,2.249374,0.0,60.0,True,Synthetic inflow range
+strong_threshold_correction,maximum_outflow,1.215967,0.0,60.0,True,Synthetic outflow range
+strong_threshold_correction,threshold_active_periods,113.0,0.0,161.0,True,Threshold-active periods should be valid
+weak_balancing,minimum_stock,20.0,0.0,250.0,True,Synthetic state range
+weak_balancing,maximum_stock,88.458156,0.0,250.0,True,Synthetic state range
+weak_balancing,final_stock,88.451401,0.0,250.0,True,Synthetic final-state range
+weak_balancing,average_stock,80.056881,0.0,250.0,True,Synthetic average-state range
+weak_balancing,time_to_peak,59.0,0.0,160.0,True,Peak should occur within simulation horizon
+weak_balancing,maximum_inflow,2.249374,0.0,60.0,True,Synthetic inflow range
+weak_balancing,maximum_outflow,0.661454,0.0,60.0,True,Synthetic outflow range
+weak_balancing,threshold_active_periods,123.0,0.0,161.0,True,Threshold-active periods should be valid

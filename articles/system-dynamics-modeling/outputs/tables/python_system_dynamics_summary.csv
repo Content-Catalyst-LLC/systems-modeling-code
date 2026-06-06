@@ -1,0 +1,9 @@
+scenario,minimum_stock,maximum_stock,final_stock,average_stock,time_to_peak,maximum_inflow,maximum_outflow,threshold_active_periods,diagnostic
+baseline_system_dynamics,20.0,84.480218,83.484799,76.302129,40,2.249374,1.236412,113,persistent nonlinear threshold pressure
+high_growth,20.0,87.325123,85.805595,80.015578,32,2.999476,1.392882,128,persistent nonlinear threshold pressure
+long_delay,20.0,88.502109,83.359706,76.592451,42,2.249374,1.457616,110,persistent nonlinear threshold pressure
+lower_capacity,20.0,70.291741,69.850677,64.015494,46,1.687044,0.456046,0,contained trajectory under current assumptions
+short_delay,20.0,83.483719,83.483684,76.052701,95,2.249374,1.181605,107,persistent nonlinear threshold pressure
+strong_balancing,20.0,82.170084,78.756484,72.71027,36,2.249374,1.815308,3,contained trajectory under current assumptions
+strong_threshold_correction,20.0,84.108499,83.121545,76.032783,39,2.249374,1.215967,113,persistent nonlinear threshold pressure
+weak_balancing,20.0,88.458156,88.451401,80.056881,59,2.249374,0.661454,123,persistent nonlinear threshold pressure

@@ -1,0 +1,9 @@
+scenario,growth_rate,balancing_strength,target,delay,capacity,threshold,threshold_correction,shock_time,shock_size,description
+baseline_system_dynamics,0.090,0.055,62,7,100,82,0.040,95,-10,Reference stock-flow system dynamics model
+short_delay,0.090,0.055,62,2,100,82,0.040,95,-10,Shorter delay reduces late correction risk
+long_delay,0.090,0.055,62,14,100,82,0.040,95,-10,Longer delay increases overshoot risk
+weak_balancing,0.090,0.025,62,7,100,82,0.040,95,-10,Weak balancing feedback allows larger excursions
+strong_balancing,0.090,0.090,62,7,100,82,0.040,95,-10,Strong balancing feedback constrains stock growth
+lower_capacity,0.090,0.055,62,7,75,82,0.040,95,-10,Lower carrying capacity tightens nonlinear constraint
+strong_threshold_correction,0.090,0.055,62,7,100,82,0.090,95,-10,Stronger threshold correction limits overshoot
+high_growth,0.120,0.055,62,7,100,82,0.040,95,-10,Higher reinforcing growth stresses correction loops

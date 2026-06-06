@@ -1,0 +1,6 @@
+loop_id,loop_name,loop_type,variables,interpretation,stock_flow_translation
+R1,capacity_growth,reinforcing,stock inflow visibility adoption,More stock increases reinforcing inflow until capacity constraints bind,stock creates inflow through growth_rate
+B1,target_correction,balancing,stock delayed_stock target outflow,Delayed stock above target triggers corrective outflow,outflow depends on delayed stock above target
+B2,capacity_constraint,balancing,stock capacity inflow,Growth slows as stock approaches capacity,inflow uses logistic capacity term
+B3,threshold_pressure,balancing,stock threshold penalty,Stock above threshold triggers nonlinear correction,threshold_penalty activates above threshold
+S1,shock_response,disturbance,shock stock recovery,A discrete shock disturbs the stock and tests recovery,shock enters stock update directly

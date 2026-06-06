@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+minimum_stock,0,250,Synthetic state range
+maximum_stock,0,250,Synthetic state range
+final_stock,0,250,Synthetic final-state range
+average_stock,0,250,Synthetic average-state range
+time_to_peak,0,160,Peak should occur within simulation horizon
+maximum_inflow,0,60,Synthetic inflow range
+maximum_outflow,0,60,Synthetic outflow range
+threshold_active_periods,0,161,Threshold-active periods should be valid
