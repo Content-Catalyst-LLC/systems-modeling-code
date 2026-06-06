@@ -1,0 +1,9 @@
+stock_type,example_stock,inflow_examples,outflow_examples,modeling_question
+material_stock,inventory,production delivery procurement,sales consumption spoilage,Does replenishment keep pace with demand
+population_stock,workforce,hiring training transfer_in,attrition retirement transfer_out,Does capability accumulate or decay
+environmental_stock,resource_stock,regeneration recharge restoration,extraction pollution mortality,Does use exceed regeneration
+infrastructure_stock,asset_condition,maintenance renewal repair,wear damage corrosion shocks,Does renewal exceed degradation
+operational_stock,backlog,new_cases arrivals defects,completed_cases repairs resolutions,Does processing capacity exceed arrivals
+financial_stock,debt,borrowing interest accrual,repayment forgiveness writeoff,Does repayment exceed new accumulation
+social_stock,trust,reliability accountability fairness,failures opacity exclusion betrayal,Is legitimacy accumulating or eroding
+knowledge_stock,institutional_memory,learning documentation retention,turnover forgetting fragmentation,Is organizational knowledge retained

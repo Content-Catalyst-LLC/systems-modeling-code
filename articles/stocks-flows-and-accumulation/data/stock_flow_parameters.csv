@@ -1,0 +1,12 @@
+parameter,value,description
+time_steps,120,Number of discrete simulation steps
+initial_backlog,80,Initial service backlog
+initial_resource,600,Initial renewable resource stock
+resource_capacity,1000,Carrying capacity for regenerative stock
+resource_growth_rate,0.045,Regeneration growth rate
+initial_condition,72,Initial infrastructure condition index
+base_arrivals,18,Base backlog arrivals per period
+base_completion_capacity,12,Base backlog completion capacity
+completion_pressure_response,0.08,Completion increase per backlog unit
+condition_base_wear,1.4,Base infrastructure wear
+condition_wear_pressure,0.012,Additional wear as condition declines

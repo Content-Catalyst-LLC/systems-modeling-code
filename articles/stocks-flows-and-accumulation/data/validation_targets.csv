@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+backlog,0,1000000,Backlog should remain nonnegative and finite
+resource,0,1000000,Resource stock should remain nonnegative and finite
+infrastructure_condition,0,100,Condition index should remain bounded
+net_flow,-1000000,1000000,Net flow should remain finite
+recovery_time,0,1000000,Recovery time should be nonnegative when present
+minimum_value,0,1000000,Minimum stock value should be nonnegative
+maximum_value,0,1000000,Maximum stock value should be finite
+mean_net_flow,-1000000,1000000,Mean net flow should remain finite

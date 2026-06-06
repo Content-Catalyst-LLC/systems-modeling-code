@@ -1,0 +1,13 @@
+scenario,stock,initial_value,final_value,minimum_value,maximum_value,mean_net_flow
+baseline,backlog,79.600000,75.000226,75.000226,79.600000,-0.041665
+baseline,resource,586.800000,0.000000,0.000000,586.800000,-21.093037
+baseline,infrastructure_condition,71.164000,0.000000,0.000000,71.164000,-1.457056
+capacity_and_conservation,backlog,74.900000,0.000000,0.000000,74.900000,-0.666667
+capacity_and_conservation,resource,588.800000,0.000000,0.000000,588.800000,-14.364827
+capacity_and_conservation,infrastructure_condition,71.464000,72.443955,26.377887,72.443955,0.003700
+delayed_response,backlog,78.100000,0.000000,0.000000,78.100000,-0.666667
+delayed_response,resource,586.800000,0.000000,0.000000,586.800000,-17.493037
+delayed_response,infrastructure_condition,71.164000,8.939655,0.000000,71.164000,-0.872559
+adaptive_recovery,backlog,74.800000,0.000000,0.000000,74.800000,-0.666667
+adaptive_recovery,resource,588.800000,0.000000,0.000000,588.800000,-12.014827
+adaptive_recovery,infrastructure_condition,71.664000,100.000000,49.765377,100.000000,0.915499

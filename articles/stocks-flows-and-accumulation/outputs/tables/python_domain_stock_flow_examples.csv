@@ -1,0 +1,8 @@
+domain,stock,inflow,outflow,governance_issue
+climate_policy,atmospheric_greenhouse_gases,emissions,removals_and_absorption,Annual emissions can fall while the stock still rises
+infrastructure,asset_condition,maintenance_and_renewal,wear_and_damage,Budget flows may be too small to reverse accumulated degradation
+health_systems,care_backlog,new_cases,completed_cases,Capacity increases only help if completions exceed arrivals
+housing,housing_stock,new_units,demolition_conversion_loss,Affordability depends on stock distribution not only new construction
+organizations,institutional_memory,learning_documentation,turnover_forgetting,Capability can decay despite ongoing activity
+water_systems,groundwater_storage,recharge,pumping_evaporation,Extraction can exceed recharge for long periods before crisis appears
+public_finance,outstanding_debt,borrowing_interest,repayment,Payments do not reduce debt if interest and new borrowing exceed repayment
