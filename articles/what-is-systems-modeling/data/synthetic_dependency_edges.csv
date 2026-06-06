@@ -1,0 +1,12 @@
+from_node,to_node,dependency_weight,relationship_type
+power,water,0.32,infrastructure_dependency
+power,communications,0.45,infrastructure_dependency
+communications,transport,0.24,coordination_dependency
+transport,food_distribution,0.38,logistics_dependency
+water,public_health,0.41,service_dependency
+public_health,workforce,0.28,capacity_dependency
+workforce,transport,0.22,operational_dependency
+food_distribution,public_health,0.19,welfare_dependency
+finance,suppliers,0.34,liquidity_dependency
+suppliers,manufacturing,0.47,input_dependency
+manufacturing,transport,0.26,flow_dependency

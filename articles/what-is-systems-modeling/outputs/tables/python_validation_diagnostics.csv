@@ -1,0 +1,101 @@
+model,scenario_or_run,metric,value,target_low,target_high,passed,notes
+network_shock_propagation,baseline,minimum_system_performance,0.92329,0.6,1.0,True,Synthetic plausibility range for network stress scenarios
+network_shock_propagation,baseline,final_system_performance,1.056418,0.8,1.08,True,Synthetic recovery range after shock
+network_shock_propagation,baseline,time_to_minimum_system_performance,43.0,35.0,70.0,True,Expected window around shock propagation
+network_shock_propagation,baseline,maximum_system_loss,0.07671,0.0,0.4,True,Illustrative loss bound for synthetic model
+network_shock_propagation,delayed_recovery,minimum_system_performance,0.598774,0.6,1.0,False,Synthetic plausibility range for network stress scenarios
+network_shock_propagation,delayed_recovery,final_system_performance,0.653356,0.8,1.08,False,Synthetic recovery range after shock
+network_shock_propagation,delayed_recovery,time_to_minimum_system_performance,83.0,35.0,70.0,False,Expected window around shock propagation
+network_shock_propagation,delayed_recovery,maximum_system_loss,0.401226,0.0,0.4,False,Illustrative loss bound for synthetic model
+network_shock_propagation,high_coupling,minimum_system_performance,0.597117,0.6,1.0,False,Synthetic plausibility range for network stress scenarios
+network_shock_propagation,high_coupling,final_system_performance,0.6292,0.8,1.08,False,Synthetic recovery range after shock
+network_shock_propagation,high_coupling,time_to_minimum_system_performance,49.0,35.0,70.0,True,Expected window around shock propagation
+network_shock_propagation,high_coupling,maximum_system_loss,0.402883,0.0,0.4,False,Illustrative loss bound for synthetic model
+network_shock_propagation,higher_redundancy,minimum_system_performance,0.959665,0.6,1.0,True,Synthetic plausibility range for network stress scenarios
+network_shock_propagation,higher_redundancy,final_system_performance,1.014049,0.8,1.08,True,Synthetic recovery range after shock
+network_shock_propagation,higher_redundancy,time_to_minimum_system_performance,43.0,35.0,70.0,True,Expected window around shock propagation
+network_shock_propagation,higher_redundancy,maximum_system_loss,0.040335,0.0,0.4,True,Illustrative loss bound for synthetic model
+network_shock_propagation,severe_shock,minimum_system_performance,0.885051,0.6,1.0,True,Synthetic plausibility range for network stress scenarios
+network_shock_propagation,severe_shock,final_system_performance,0.93239,0.8,1.08,True,Synthetic recovery range after shock
+network_shock_propagation,severe_shock,time_to_minimum_system_performance,114.0,35.0,70.0,False,Expected window around shock propagation
+network_shock_propagation,severe_shock,maximum_system_loss,0.114949,0.0,0.4,True,Illustrative loss bound for synthetic model
+stock_flow_ensemble,5001,recovery_ratio,2.55853,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5001,max_drawdown,-2.677073,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5002,recovery_ratio,1.370488,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5002,max_drawdown,-1.317171,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5003,recovery_ratio,1.459138,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5003,max_drawdown,-1.691999,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5004,recovery_ratio,1.432661,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5004,max_drawdown,-0.882971,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5005,recovery_ratio,1.242724,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5005,max_drawdown,-1.03074,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5006,recovery_ratio,14.037616,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5006,max_drawdown,-10.639121,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5007,recovery_ratio,8.915754,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5007,max_drawdown,-7.151509,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5008,recovery_ratio,1.984275,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5008,max_drawdown,-2.170241,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5009,recovery_ratio,1.144184,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5009,max_drawdown,0.770529,0.0,120.0,True,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5010,recovery_ratio,1.613063,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5010,max_drawdown,-2.035958,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5011,recovery_ratio,1.784521,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5011,max_drawdown,-1.510913,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5012,recovery_ratio,1.815982,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5012,max_drawdown,-1.250823,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5013,recovery_ratio,2.569065,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5013,max_drawdown,-2.585672,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5014,recovery_ratio,21.121451,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5014,max_drawdown,-13.235435,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5015,recovery_ratio,1.379381,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5015,max_drawdown,11.612434,0.0,120.0,True,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5016,recovery_ratio,1.328328,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5016,max_drawdown,-0.203277,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5017,recovery_ratio,5.459682,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5017,max_drawdown,-5.396131,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5018,recovery_ratio,4.11421,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5018,max_drawdown,-5.082429,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5019,recovery_ratio,1.984351,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5019,max_drawdown,-1.560514,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5020,recovery_ratio,1.527855,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5020,max_drawdown,-0.709358,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5021,recovery_ratio,6.812049,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5021,max_drawdown,-5.491781,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5022,recovery_ratio,30.950504,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5022,max_drawdown,-24.982026,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5023,recovery_ratio,10.820637,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5023,max_drawdown,-9.781545,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5024,recovery_ratio,1.794698,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5024,max_drawdown,-1.518061,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5025,recovery_ratio,8.641485,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5025,max_drawdown,-1.541814,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5026,recovery_ratio,1.071231,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5026,max_drawdown,24.91783,0.0,120.0,True,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5027,recovery_ratio,2.042071,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5027,max_drawdown,-2.181274,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5028,recovery_ratio,1.415338,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5028,max_drawdown,-0.47299,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5029,recovery_ratio,0.666468,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5029,max_drawdown,88.294707,0.0,120.0,True,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5030,recovery_ratio,1.218706,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5030,max_drawdown,18.800509,0.0,120.0,True,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5031,recovery_ratio,1.726725,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5031,max_drawdown,-2.038918,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5032,recovery_ratio,2.060054,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5032,max_drawdown,-1.585821,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5033,recovery_ratio,4.475674,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5033,max_drawdown,-3.802982,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5034,recovery_ratio,0.922987,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5034,max_drawdown,28.305453,0.0,120.0,True,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5035,recovery_ratio,5.631,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5035,max_drawdown,-6.195864,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5036,recovery_ratio,3.611763,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5036,max_drawdown,-2.550813,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5037,recovery_ratio,103.484404,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5037,max_drawdown,-33.242695,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5038,recovery_ratio,7.347458,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5038,max_drawdown,-8.005814,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5039,recovery_ratio,1.626677,0.75,2.5,True,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5039,max_drawdown,-1.603896,0.0,120.0,False,Illustrative drawdown range for stock-flow model
+stock_flow_ensemble,5040,recovery_ratio,10.336896,0.75,2.5,False,Illustrative recovery ratio for stock-flow ensemble
+stock_flow_ensemble,5040,max_drawdown,-9.04146,0.0,120.0,False,Illustrative drawdown range for stock-flow model

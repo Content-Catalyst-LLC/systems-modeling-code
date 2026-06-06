@@ -1,0 +1,16 @@
+from_node,to_node,dependency_weight,domain,relationship_type
+power,water,0.34,infrastructure,service_dependency
+power,communications,0.48,infrastructure,service_dependency
+communications,transport,0.21,infrastructure,coordination_dependency
+transport,food_distribution,0.43,logistics,flow_dependency
+water,public_health,0.39,public_systems,service_dependency
+public_health,workforce,0.25,social_systems,capacity_dependency
+workforce,transport,0.24,social_systems,operational_dependency
+food_distribution,public_health,0.18,public_systems,welfare_dependency
+finance,suppliers,0.31,economy,liquidity_dependency
+suppliers,manufacturing,0.46,economy,input_dependency
+manufacturing,transport,0.29,logistics,flow_dependency
+transport,retail_access,0.36,urban_systems,access_dependency
+retail_access,household_resilience,0.27,social_systems,welfare_dependency
+communications,emergency_response,0.44,public_systems,coordination_dependency
+emergency_response,public_health,0.32,public_systems,response_dependency

@@ -1,0 +1,9 @@
+parameter,value,low,high,description
+coupling_strength,0.18,0.08,0.30,Average strength of network dependency
+recovery_rate,0.075,0.03,0.14,Rate of recovery toward baseline
+redundancy,0.20,0.00,0.60,Substitution capacity that weakens dependency losses
+shock_size,-0.55,-0.85,-0.15,Initial loss applied to shocked node
+noise_sd,0.006,0.000,0.025,Random disturbance around state updates
+growth_a,0.045,0.020,0.070,Reinforcing growth parameter for stock A
+growth_b,0.032,0.010,0.060,Reinforcing growth parameter for stock B
+balancing_b,0.026,0.010,0.060,Balancing feedback strength for stock B

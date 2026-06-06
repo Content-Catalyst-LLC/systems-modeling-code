@@ -1,0 +1,5 @@
+metric,target_low,target_high,notes
+minimum_system_performance,0.72,1.00,Synthetic plausibility range for baseline scenario
+final_system_performance,0.88,1.05,Synthetic recovery range after shock
+time_to_minimum_system_performance,35,65,Expected time window around shock and propagation
+maximum_system_loss,0.00,0.28,Illustrative loss bound for simple network model

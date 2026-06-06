@@ -1,0 +1,46 @@
+#include <stdio.h>
+#include <math.h>
+
+static double clamp(double value, double low, double high) {
+    if (value < low) return low;
+    if (value > high) return high;
+    return value;
+}
+
+int main(void) {
+    const int n_steps = 140;
+    double stock_a = 24.0;
+    double stock_b = 18.0;
+    double pressure = 30.0;
+
+    const double growth_a = 0.045;
+    const double coupling_ab = 0.018;
+    const double growth_b = 0.032;
+    const double coupling_ba = 0.041;
+    const double balancing_b = 0.026;
+    const double target_b = 55.0;
+
+    printf("time,stock_a,stock_b,pressure,total_state\n");
+
+    for (int t = 1; t <= n_steps; ++t) {
+        printf("%d,%.6f,%.6f,%.6f,%.6f\n", t, stock_a, stock_b, pressure, stock_a + stock_b);
+
+        double shock = (t == 75) ? -12.0 : 0.0;
+        double reinforcing_a = growth_a * stock_a;
+        double pressure_from_b = -coupling_ab * stock_b;
+        double reinforcing_b = growth_b * stock_b;
+        double support_from_a = coupling_ba * stock_a;
+        double correction_b = balancing_b * fmax(stock_b - target_b, 0.0);
+        double pressure_feedback = 0.018 * fmax(stock_b - target_b, 0.0) + 0.012 * fmax(stock_a - 70.0, 0.0);
+
+        double next_a = stock_a + reinforcing_a + pressure_from_b + shock - 0.018 * pressure;
+        double next_b = stock_b + reinforcing_b + support_from_a - correction_b - 0.010 * pressure;
+        double next_pressure = pressure + pressure_feedback - 0.045 * pressure;
+
+        stock_a = clamp(next_a, 0.0, 1e9);
+        stock_b = clamp(next_b, 0.0, 1e9);
+        pressure = clamp(next_pressure, 0.0, 1e9);
+    }
+
+    return 0;
+}

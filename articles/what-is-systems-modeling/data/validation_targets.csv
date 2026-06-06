@@ -1,0 +1,7 @@
+metric,target_low,target_high,notes
+minimum_system_performance,0.60,1.00,Synthetic plausibility range for network stress scenarios
+final_system_performance,0.80,1.08,Synthetic recovery range after shock
+time_to_minimum_system_performance,35,70,Expected window around shock propagation
+maximum_system_loss,0.00,0.40,Illustrative loss bound for synthetic model
+recovery_ratio,0.75,2.50,Illustrative recovery ratio for stock-flow ensemble
+max_drawdown,0.00,120.00,Illustrative drawdown range for stock-flow model

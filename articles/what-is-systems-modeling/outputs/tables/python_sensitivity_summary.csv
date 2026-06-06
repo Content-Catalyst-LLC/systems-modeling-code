@@ -1,0 +1,9 @@
+parameter,correlation_with_recovery,correlation_with_drawdown,correlation_with_volatility,absolute_recovery_correlation
+growth_a,0.284108,-0.164333,0.309288,0.284108
+coupling_ba,-0.183149,0.101589,-0.165362,0.183149
+coupling_ab,-0.169338,0.037642,-0.208565,0.169338
+growth_b,0.033551,-0.3268,0.006884,0.033551
+shock_size,0.023313,0.018129,-0.001294,0.023313
+target_b,0.017246,0.021872,0.015609,0.017246
+balancing_b,-0.012638,0.185895,0.015444,0.012638
+noise_sd,-0.010184,-0.008721,-0.019953,0.010184

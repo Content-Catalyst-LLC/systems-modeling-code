@@ -1,0 +1,9 @@
+parameter,baseline,low,high,description
+growth_a,0.045,0.025,0.065,Reinforcing growth parameter for stock A
+growth_b,0.032,0.020,0.050,Reinforcing growth parameter for stock B
+coupling_ab,0.018,0.010,0.030,Pressure from stock B on stock A
+coupling_ba,0.041,0.025,0.055,Support from stock A to stock B
+balancing_b,0.026,0.015,0.040,Balancing feedback strength when stock B exceeds target
+target_b,55.0,48.0,65.0,Target or capacity threshold for stock B
+shock_size,-12.0,-18.0,-6.0,Discrete disturbance applied to stock A
+noise_sd,0.35,0.15,0.60,Stochastic process variation

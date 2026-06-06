@@ -1,0 +1,6 @@
+scenario,minimum_system_performance,maximum_system_loss,final_system_performance,final_unrecovered_system_loss,worst_node_state_over_run,time_to_minimum_system_performance
+baseline,0.92329,0.07671,1.056418,-0.056418,0.335977,43
+delayed_recovery,0.598774,0.401226,0.653356,0.346644,0.0,83
+high_coupling,0.597117,0.402883,0.6292,0.3708,0.0,49
+higher_redundancy,0.959665,0.040335,1.014049,-0.014049,0.418145,43
+severe_shock,0.885051,0.114949,0.93239,0.06761,0.104373,114

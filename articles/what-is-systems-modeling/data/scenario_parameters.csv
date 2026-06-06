@@ -1,0 +1,6 @@
+scenario,coupling_strength,recovery_rate,redundancy,shock_size,shock_time,noise_sd,description
+baseline,0.18,0.075,0.20,-0.55,42,0.006,Reference network shock scenario
+high_coupling,0.29,0.070,0.12,-0.55,42,0.006,More tightly coupled network with weaker redundancy
+higher_redundancy,0.16,0.105,0.44,-0.55,42,0.006,More redundant network with faster recovery
+severe_shock,0.18,0.064,0.20,-0.74,42,0.006,Larger shock with slower recovery
+delayed_recovery,0.20,0.042,0.18,-0.55,42,0.006,Shock with limited repair and recovery capacity
