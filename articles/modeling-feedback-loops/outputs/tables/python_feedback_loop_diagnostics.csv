@@ -1,0 +1,5 @@
+process,initial_value,final_value,maximum_value,minimum_value,interpretation
+reinforcing,2.0,9660.041112,9660.041112,2.0,self-amplifying compounding process
+balancing,2.0,19.999991,19.999991,2.0,target-seeking stabilizing process
+logistic,2.0,24.995419,24.995419,2.0,reinforcing growth constrained by balancing capacity limit
+stock_flow,40.0,58.666657,58.666657,40.0,accumulation process governed by inflow outflow and corrective feedback

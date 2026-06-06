@@ -1,0 +1,6 @@
+scenario,initial_pressure,final_pressure,minimum_pressure,maximum_pressure,pressure_reduction,policy_resistance_label
+capacity_expansion,100.0,48.689139,48.689139,100.0,51.310861,intervention reduces modeled pressure
+metric_targeting,100.0,62.5,62.5,100.0,37.5,intervention reduces modeled pressure
+maintenance_push,100.0,23.781213,23.781213,100.0,76.218787,intervention reduces modeled pressure
+congestion_pricing,100.0,0.0,0.0,100.0,100.0,intervention reduces modeled pressure
+trust_rebuilding,100.0,0.0,0.0,100.0,100.0,intervention reduces modeled pressure

@@ -1,0 +1,6 @@
+scenario,intervention_strength,behavioral_response,implementation_delay,description
+capacity_expansion,0.35,0.26,4,Capacity increase partly offset by induced demand
+metric_targeting,0.30,0.35,3,Performance target improves reported score but increases gaming response
+maintenance_push,0.42,0.12,5,Maintenance intervention reduces degradation after implementation delay
+congestion_pricing,0.28,-0.10,2,Pricing intervention reduces demand pressure
+trust_rebuilding,0.22,-0.18,8,Slow institutional trust intervention reduces noncompliance after delay

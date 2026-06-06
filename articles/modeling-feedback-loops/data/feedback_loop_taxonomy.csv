@@ -1,0 +1,9 @@
+loop_type,primary_effect,common_pattern,modeling_method
+reinforcing,Amplifies change,Exponential growth collapse escalation contagion,Recursive growth equations system dynamics agent rules
+balancing,Counteracts change,Stabilization target seeking regulation,Control equations stock-flow adjustment equilibrium models
+delayed,Separates action from consequence,Oscillation overshoot policy resistance,Lagged variables delay functions discrete-time recurrences
+nonlinear,Changes feedback strength by state,Thresholds saturation tipping points,Nonlinear equations response curves stress tests
+adaptive,Changes behavior through learning,Lock-in imitation strategic response,Agent-based models game theory adaptive control
+network,Uses relational structure as feedback pathway,Diffusion cascade clustering contagion,Graphs centrality network diffusion cascade models
+stock_flow,Operates through accumulation,Overshoot depletion backlog recovery,Stocks inflows outflows feedback functions
+policy_resistance,Activates counter-feedback,Unintended consequences rebound effects,Scenario models behavioral response institutional delay

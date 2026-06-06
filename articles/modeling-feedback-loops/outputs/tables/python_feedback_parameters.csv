@@ -1,0 +1,11 @@
+parameter,value,description
+reinforcing_rate,0.10,Base compounding rate for reinforcing feedback
+balancing_target,20.0,Target value for balancing feedback
+balancing_correction,0.15,Correction strength for standard balancing feedback
+logistic_capacity,25.0,Capacity limit for logistic feedback
+logistic_rate,0.12,Base growth rate for logistic feedback
+delay_initial_state,5.0,Initial state for delayed balancing feedback
+delay_target,20.0,Target state for delayed feedback scenarios
+stock_initial,40.0,Initial stock value for stock-flow example
+stock_inflow_base,4.0,Base inflow value
+stock_outflow_fraction,0.07,Fractional outflow from stock

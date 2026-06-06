@@ -1,0 +1,6 @@
+scenario_id,delay,correction_strength,final_state,maximum_state,minimum_state,overshoot_above_target,undershoot_below_target,target_crossings,mean_absolute_target_gap,oscillation_risk
+1,1,0.12,19.999828,19.999828,5.0,0.0,15.0,0,1.388875,low
+2,3,0.2,20.0,20.6,5.0,0.6,15.0,9,0.569306,moderate
+3,5,0.28,20.28925,31.544,5.0,11.544,15.0,9,3.048525,high
+4,8,0.36,2075.711132,2075.711132,-1017.180912,2055.711132,1037.180912,7,291.994151,high
+5,12,0.36,5416.50596,5416.50596,-1695.079607,5396.50596,1715.079607,5,709.967929,high

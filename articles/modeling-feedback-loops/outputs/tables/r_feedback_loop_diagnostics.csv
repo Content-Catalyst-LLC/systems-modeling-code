@@ -1,0 +1,6 @@
+"process","initial_value","final_value","maximum_value","minimum_value","target_crossings","interpretation"
+"reinforcing",2,15461.5769644279,15461.5769644279,2,NA,"self-amplifying compounding process"
+"balancing",2,19.999952206632,19.999952206632,2,0,"target-seeking stabilizing process"
+"logistic",2,24.9835587063673,24.9835587063673,2,NA,"reinforcing growth constrained by balancing capacity limit"
+"delayed_balancing",5,19.4826978656162,31.544,5,8,"balancing feedback with delay that can generate oscillation"
+"stock_flow",40,58.6666171031739,58.6666171031739,40,0,"stock-flow accumulation governed by corrective inflow and fractional outflow"

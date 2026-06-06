@@ -1,0 +1,6 @@
+scenario_id,delay,correction_strength,description
+1,1,0.12,Short delay and weak correction
+2,3,0.20,Moderate delay and moderate correction
+3,5,0.28,Longer delay and stronger correction
+4,8,0.36,Long delay and strong correction
+5,12,0.36,Very long delay and strong correction
