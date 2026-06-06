@@ -1,0 +1,7 @@
+variant_id,variant_name,structural_change,expected_effect,notes
+V1,baseline_logistic_delay,logistic growth with delayed recovery feedback,reference behavior,Default nonlinear recurrence
+V2,no_recovery_feedback,feedback_strength set to zero,lower recovery and more depletion,Tests omitted feedback
+V3,strong_recovery_feedback,feedback_strength doubled,higher recovery and possible overshoot,Tests feedback strength
+V4,no_capacity_limit,carrying capacity term removed,unbounded growth risk,Tests saturation structure
+V5,shock_added,external shock introduced at midpoint,tests disturbance sensitivity,Stress-style variant
+V6,long_delay,recovery_delay increased,delayed response and possible instability,Tests timing sensitivity

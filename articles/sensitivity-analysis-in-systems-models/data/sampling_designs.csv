@@ -1,0 +1,5 @@
+design,sample_count,purpose,notes
+local_one_at_a_time,41,local sensitivity around baseline,One parameter varies while others remain fixed
+monte_carlo,600,global uncertainty propagation,Random independent sampling across ranges
+latin_hypercube_style,300,stratified global exploration,Simple dependency-light stratified sample
+screening_grid,300,compiled-language screening,Randomized parameter sweep for low-level workflows

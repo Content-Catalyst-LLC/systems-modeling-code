@@ -1,0 +1,7 @@
+parameter,minimum,baseline,maximum,units,description
+growth_rate,0.04,0.08,0.12,per_time_step,Intrinsic growth or accumulation pressure
+carrying_capacity,60,100,140,state_units,Upper system capacity or saturation level
+extraction_pressure,0.005,0.025,0.060,share_per_time_step,Removal pressure or service demand load
+recovery_delay,1,5,12,time_steps,Delay before recovery feedback affects the state
+feedback_strength,0.005,0.020,0.050,share_per_time_step,Strength of delayed recovery feedback
+shock_intensity,0,8,24,state_units,External shock imposed during sensitivity runs

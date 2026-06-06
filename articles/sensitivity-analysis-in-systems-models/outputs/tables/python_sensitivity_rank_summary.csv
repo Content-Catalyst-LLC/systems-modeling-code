@@ -1,0 +1,13 @@
+sample_type,parameter,spearman_correlation,absolute_correlation,direction,sensitivity_rank
+latin_hypercube_style,extraction_pressure,-0.574279,0.574279,negative,1
+latin_hypercube_style,carrying_capacity,0.451037,0.451037,positive,2
+latin_hypercube_style,feedback_strength,0.413689,0.413689,positive,3
+latin_hypercube_style,growth_rate,0.289879,0.289879,positive,4
+latin_hypercube_style,recovery_delay,-0.147083,0.147083,negative,5
+latin_hypercube_style,shock_intensity,-0.038248,0.038248,negative,6
+monte_carlo,extraction_pressure,-0.632967,0.632967,negative,1
+monte_carlo,carrying_capacity,0.450052,0.450052,positive,2
+monte_carlo,feedback_strength,0.412348,0.412348,positive,3
+monte_carlo,growth_rate,0.282159,0.282159,positive,4
+monte_carlo,shock_intensity,-0.09891,0.09891,negative,5
+monte_carlo,recovery_delay,-0.096946,0.096946,negative,6

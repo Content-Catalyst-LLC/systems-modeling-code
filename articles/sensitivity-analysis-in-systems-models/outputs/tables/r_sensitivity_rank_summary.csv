@@ -1,0 +1,7 @@
+"parameter","spearman_correlation","absolute_correlation","direction","sensitivity_rank"
+"extraction_pressure",-0.619444577257152,0.619444577257152,"negative",1
+"feedback_strength",0.456183736224588,0.456183736224588,"positive",2
+"carrying_capacity",0.396447431949112,0.396447431949112,"positive",3
+"growth_rate",0.317086737635528,0.317086737635528,"positive",4
+"recovery_delay",-0.0628116016581416,0.0628116016581416,"negative",5
+"shock_intensity",-0.0297005620321282,0.0297005620321282,"negative",6

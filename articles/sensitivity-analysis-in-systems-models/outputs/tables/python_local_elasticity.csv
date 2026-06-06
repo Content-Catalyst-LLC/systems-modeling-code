@@ -1,0 +1,7 @@
+parameter,baseline_value,low_value,high_value,baseline_final_state,finite_difference,elasticity
+growth_rate,0.08,0.076,0.084,89.5404,366.414288,0.327373
+carrying_capacity,100.0,95.0,105.0,89.5404,0.865073,0.966126
+extraction_pressure,0.025,0.02375,0.02625,89.5404,-1444.558145,-0.403326
+recovery_delay,5.0,5.0,5.0,89.5404,0.0,0.0
+feedback_strength,0.02,0.019,0.021,89.5404,1368.506276,0.305673
+shock_intensity,8.0,7.6,8.4,89.5404,-0.164987,-0.014741

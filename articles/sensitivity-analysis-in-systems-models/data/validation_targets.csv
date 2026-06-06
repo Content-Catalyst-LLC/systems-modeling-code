@@ -1,0 +1,8 @@
+metric,target_low,target_high,notes
+final_state,0,10000,Final state should remain nonnegative and bounded
+maximum_state,0,10000,Maximum state should remain nonnegative and bounded
+minimum_state,0,10000,Minimum state should remain nonnegative and bounded
+mean_state,0,10000,Mean state should remain nonnegative and bounded
+absolute_correlation,0,1,Rank correlation magnitude should remain between zero and one
+elasticity,-1000,1000,Elasticity should remain finite in synthetic analysis
+sensitivity_rank,1,20,Rank value should remain positive and bounded
