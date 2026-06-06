@@ -1,0 +1,3 @@
+parameter,estimated_value,true_synthetic_value,lower_bound,upper_bound,calibration_method
+growth_rate,0.095,0.095,0.04,0.2,grid_search
+carrying_capacity,120.0,120.0,70.0,180.0,grid_search

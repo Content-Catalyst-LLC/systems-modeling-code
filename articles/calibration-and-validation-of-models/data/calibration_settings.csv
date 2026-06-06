@@ -1,0 +1,11 @@
+setting,value,units,description
+n_steps,80,time_steps,Synthetic observed series length
+train_cutoff,52,time_step,Last observation used for calibration
+true_growth_rate,0.095,per_time_step,Synthetic data-generating growth parameter
+true_carrying_capacity,120,state_units,Synthetic data-generating carrying capacity
+noise_sd,0.85,state_units,Synthetic observation noise standard deviation
+initial_state,10,state_units,Initial model state
+grid_growth_min,0.040,per_time_step,Lower growth-rate search bound
+grid_growth_max,0.200,per_time_step,Upper growth-rate search bound
+grid_capacity_min,70,state_units,Lower carrying-capacity search bound
+grid_capacity_max,180,state_units,Upper carrying-capacity search bound

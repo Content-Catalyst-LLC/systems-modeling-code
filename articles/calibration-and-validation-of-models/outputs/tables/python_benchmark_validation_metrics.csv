@@ -1,0 +1,4 @@
+benchmark,validation_rmse,validation_mae,validation_bias
+calibrated_logistic,0.832666,0.69681,0.030002
+persistence,6.566953,6.107431,6.107431
+linear_trend,26.531133,22.609829,-22.609829

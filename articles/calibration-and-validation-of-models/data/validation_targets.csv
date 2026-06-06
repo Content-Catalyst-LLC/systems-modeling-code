@@ -1,0 +1,8 @@
+metric,target_low,target_high,notes
+rmse,0,10000,RMSE should remain nonnegative and bounded
+mae,0,10000,MAE should remain nonnegative and bounded
+bias,-10000,10000,Bias should remain finite
+generalization_gap,-10000,10000,Validation minus calibration error should remain finite
+growth_rate,0.001,0.500,Estimated growth rate should remain within plausible synthetic bounds
+carrying_capacity,20,300,Estimated capacity should remain within plausible synthetic bounds
+residual,-10000,10000,Residuals should remain finite

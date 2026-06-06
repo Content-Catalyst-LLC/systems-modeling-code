@@ -1,0 +1,7 @@
+check,value,passed
+calibration_rmse_nonnegative,0.709287,True
+validation_rmse_nonnegative,0.832666,True
+generalization_gap_reported,0.123379,True
+growth_rate_within_bounds,0.095,True
+carrying_capacity_within_bounds,120.0,True
+benchmark_comparison_completed,calibrated_logistic,True

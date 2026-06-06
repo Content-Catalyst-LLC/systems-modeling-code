@@ -1,0 +1,4 @@
+benchmark_id,benchmark_name,model_form,purpose
+B1,persistence,last observed value repeated,Simple baseline for validation comparison
+B2,linear_trend,linear extrapolation from training endpoints,Tests whether nonlinear model adds value
+B3,calibrated_logistic,logistic growth recurrence,Main calibrated systems model

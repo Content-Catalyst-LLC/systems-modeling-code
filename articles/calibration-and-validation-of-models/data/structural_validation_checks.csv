@@ -1,0 +1,9 @@
+check_id,check_name,validation_type,question,evidence_required
+S1,boundary_check,structural,Are system boundaries explicit and defensible?,Document included and excluded mechanisms
+S2,equation_check,verification,Do implemented equations match intended model?,Equation review and code inspection
+S3,parameter_plausibility,calibration,Are calibrated values within defensible ranges?,Parameter bounds and source notes
+S4,out_of_sample_check,empirical,Does the model perform on held-out data?,Validation-period metrics
+S5,residual_pattern_check,empirical,Do residuals show systematic structure?,Residual table and plot
+S6,extreme_condition_check,validation,Does the model behave under boundary cases?,Stress and zero-input checks
+S7,benchmark_check,comparative,Does the model improve on a simpler benchmark?,Benchmark error comparison
+S8,purpose_fit_check,credibility,Is evidence adequate for intended use?,Credibility summary

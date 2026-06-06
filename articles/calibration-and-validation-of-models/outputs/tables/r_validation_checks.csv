@@ -1,0 +1,7 @@
+"check","value","passed"
+"calibration_rmse_nonnegative",1.12488342838055,TRUE
+"validation_rmse_nonnegative",2.06785213000711,TRUE
+"generalization_gap_reported",0.942968701626561,TRUE
+"growth_rate_within_bounds",0.0887351592973528,TRUE
+"capacity_within_bounds",123.385016082452,TRUE
+"benchmark_comparison_completed",1,TRUE

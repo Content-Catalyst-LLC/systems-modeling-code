@@ -1,0 +1,3 @@
+"parameter","estimated_value","true_synthetic_value","lower_bound","upper_bound","calibration_method"
+"growth_rate",0.0887351592973528,0.095,0.04,0.2,"optim_L_BFGS_B"
+"carrying_capacity",123.385016082452,120,70,180,"optim_L_BFGS_B"
