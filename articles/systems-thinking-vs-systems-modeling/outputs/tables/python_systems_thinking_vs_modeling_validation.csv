@@ -1,0 +1,31 @@
+scenario,metric,value,target_low,target_high,passed,notes
+conceptual_systems_frame,final_modeled_score,5.857,35.0,100.0,False,Synthetic plausibility range for modeled improvement
+conceptual_systems_frame,average_absolute_conceptual_model_gap,21.738,0.0,45.0,True,Large gaps indicate conceptual-formal divergence
+conceptual_systems_frame,maximum_backlog,200.0,0.0,150.0,False,Synthetic backlog range for demonstration model
+conceptual_systems_frame,minimum_trust,15.428,10.0,100.0,True,Synthetic trust range after intervention
+conceptual_systems_frame,final_service_quality,0.0,20.0,100.0,False,Synthetic service quality range
+conceptual_systems_frame,final_learning,100.0,0.0,100.0,True,Synthetic learning capacity range
+delayed_feedback_frame,final_modeled_score,0.0,35.0,100.0,False,Synthetic plausibility range for modeled improvement
+delayed_feedback_frame,average_absolute_conceptual_model_gap,36.59,0.0,45.0,True,Large gaps indicate conceptual-formal divergence
+delayed_feedback_frame,maximum_backlog,200.0,0.0,150.0,False,Synthetic backlog range for demonstration model
+delayed_feedback_frame,minimum_trust,0.0,10.0,100.0,False,Synthetic trust range after intervention
+delayed_feedback_frame,final_service_quality,0.0,20.0,100.0,False,Synthetic service quality range
+delayed_feedback_frame,final_learning,87.04,0.0,100.0,True,Synthetic learning capacity range
+formal_model_learning_frame,final_modeled_score,95.0,35.0,100.0,True,Synthetic plausibility range for modeled improvement
+formal_model_learning_frame,average_absolute_conceptual_model_gap,14.483,0.0,45.0,True,Large gaps indicate conceptual-formal divergence
+formal_model_learning_frame,maximum_backlog,27.602,0.0,150.0,True,Synthetic backlog range for demonstration model
+formal_model_learning_frame,minimum_trust,58.0,10.0,100.0,True,Synthetic trust range after intervention
+formal_model_learning_frame,final_service_quality,100.0,20.0,100.0,True,Synthetic service quality range
+formal_model_learning_frame,final_learning,100.0,0.0,100.0,True,Synthetic learning capacity range
+linear_pressure_frame,final_modeled_score,0.0,35.0,100.0,False,Synthetic plausibility range for modeled improvement
+linear_pressure_frame,average_absolute_conceptual_model_gap,21.717,0.0,45.0,True,Large gaps indicate conceptual-formal divergence
+linear_pressure_frame,maximum_backlog,200.0,0.0,150.0,False,Synthetic backlog range for demonstration model
+linear_pressure_frame,minimum_trust,0.0,10.0,100.0,False,Synthetic trust range after intervention
+linear_pressure_frame,final_service_quality,0.0,20.0,100.0,False,Synthetic service quality range
+linear_pressure_frame,final_learning,21.76,0.0,100.0,True,Synthetic learning capacity range
+overfit_metric_frame,final_modeled_score,0.0,35.0,100.0,False,Synthetic plausibility range for modeled improvement
+overfit_metric_frame,average_absolute_conceptual_model_gap,33.411,0.0,45.0,True,Large gaps indicate conceptual-formal divergence
+overfit_metric_frame,maximum_backlog,200.0,0.0,150.0,False,Synthetic backlog range for demonstration model
+overfit_metric_frame,minimum_trust,0.0,10.0,100.0,False,Synthetic trust range after intervention
+overfit_metric_frame,final_service_quality,0.0,20.0,100.0,False,Synthetic service quality range
+overfit_metric_frame,final_learning,56.56,0.0,100.0,True,Synthetic learning capacity range

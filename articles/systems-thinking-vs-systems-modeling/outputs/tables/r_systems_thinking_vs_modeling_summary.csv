@@ -1,0 +1,6 @@
+"scenario","final_modeled_score","final_conceptual_score","final_service_quality","final_learning","average_absolute_conceptual_model_gap","average_modeled_score","maximum_backlog","minimum_trust","diagnostic"
+"linear_pressure_frame",0,19.6287490939746,0,21.76,21.7172219725323,6.0412798176587,200,0,"conceptual map and formal model diverge; assumptions need revision"
+"conceptual_systems_frame",5.85710176414949,50.82,0,100,21.7380027406037,36.0232485634345,200,15.428407056598,"conceptual map and formal model diverge; assumptions need revision"
+"formal_model_learning_frame",95,77.96,100,100,14.4829386002674,84.4751204840609,27.6020360496628,58,"conceptual framing and formal model support systemic improvement"
+"delayed_feedback_frame",0,46.22,0,87.0400000000001,36.5897569019072,12.0872420754282,200,0,"conceptual map and formal model diverge; assumptions need revision"
+"overfit_metric_frame",0,40.64,0,56.5600000000001,33.4113869604257,9.23033690405729,200,0,"conceptual map and formal model diverge; assumptions need revision"

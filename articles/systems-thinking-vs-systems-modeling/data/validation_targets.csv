@@ -1,0 +1,7 @@
+metric,target_low,target_high,notes
+final_modeled_score,35,100,Synthetic plausibility range for modeled improvement
+average_absolute_conceptual_model_gap,0,45,Large gaps indicate conceptual-formal divergence
+maximum_backlog,0,150,Synthetic backlog range for demonstration model
+minimum_trust,10,100,Synthetic trust range after intervention
+final_service_quality,20,100,Synthetic service quality range
+final_learning,0,100,Synthetic learning capacity range

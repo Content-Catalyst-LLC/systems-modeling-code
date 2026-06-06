@@ -1,0 +1,6 @@
+scenario,final_modeled_score,final_conceptual_score,final_service_quality,final_learning,average_absolute_conceptual_model_gap,average_modeled_score,maximum_backlog,minimum_trust,diagnostic
+conceptual_systems_frame,5.857,50.82,0.0,100.0,21.738,36.023,200.0,15.428,conceptual map and formal model diverge; assumptions need revision
+delayed_feedback_frame,0.0,46.22,0.0,87.04,36.59,12.087,200.0,0.0,conceptual map and formal model diverge; assumptions need revision
+formal_model_learning_frame,95.0,77.96,100.0,100.0,14.483,84.475,27.602,58.0,conceptual framing and formal model support systemic improvement
+linear_pressure_frame,0.0,19.629,0.0,21.76,21.717,6.041,200.0,0.0,conceptual map and formal model diverge; assumptions need revision
+overfit_metric_frame,0.0,40.64,0.0,56.56,33.411,9.23,200.0,0.0,conceptual map and formal model diverge; assumptions need revision

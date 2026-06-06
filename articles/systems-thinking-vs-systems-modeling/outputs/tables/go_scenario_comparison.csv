@@ -1,0 +1,4 @@
+scenario,final_conceptual_score,final_modeled_score,conceptual_model_gap,maximum_backlog,minimum_trust
+linear_pressure_frame,19.628749,0.000000,19.628749,200.000000,0.000000
+conceptual_systems_frame,50.820000,5.857102,44.962898,200.000000,15.428407
+formal_model_learning_frame,77.960000,95.000000,-17.040000,27.602036,58.000000

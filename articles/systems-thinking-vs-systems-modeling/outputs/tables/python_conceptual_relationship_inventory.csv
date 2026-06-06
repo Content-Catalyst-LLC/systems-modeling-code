@@ -1,0 +1,13 @@
+source,target,polarity,relationship_strength,relationship_type,description
+demand,backlog,positive,0.72,stock_flow,Higher demand increases backlog when capacity is constrained
+capacity,backlog,negative,0.66,stock_flow,Higher capacity reduces backlog
+backlog,trust,negative,0.58,feedback,Higher backlog reduces trust
+trust,service_quality,positive,0.41,feedback,Higher trust improves cooperation and perceived service quality
+service_quality,trust,positive,0.47,feedback,Higher service quality rebuilds trust
+intervention_pressure,rework,positive,0.52,unintended_consequence,Pressure increases rework when structure is unchanged
+rework,capacity,negative,0.44,feedback,Rework consumes usable capacity
+learning,capacity,positive,0.50,adaptive_feedback,Learning improves effective capacity
+systems_redesign_strength,learning,positive,0.61,leverage,Structural redesign increases learning
+systems_redesign_strength,rework,negative,0.55,leverage,Structural redesign reduces rework
+delay_factor,capacity,negative,0.39,delay,Longer delay slows capacity improvement
+uncertainty_humility,learning,positive,0.48,learning,Humility supports evidence updating and learning
