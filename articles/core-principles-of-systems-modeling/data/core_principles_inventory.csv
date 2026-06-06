@@ -1,0 +1,14 @@
+principle,modeling_question,formal_representation,diagnostic
+purpose,why is the model being built,model objective and use case,use-validity review
+boundary,what is inside and outside,endogenous and exogenous variables,boundary critique
+state,what conditions define the system,state variables stocks agents nodes events,state range checks
+stocks_and_flows,what accumulates and what changes it,stock-flow equations,accumulation diagnostics
+feedback,how effects return as causes,reinforcing and balancing loops,loop dominance
+delay,where responses lag causes,delayed state or lagged variable,overshoot and oscillation checks
+nonlinearity,where response changes with scale,thresholds saturation piecewise functions,threshold-active periods
+emergence,what system behavior arises from interaction,agent rules networks and interactions,macro-pattern diagnostics
+scale,which levels interact,micro meso macro cross-scale structure,scale consistency checks
+scenarios,which futures are compared,scenario parameter sets,scenario comparison
+uncertainty,which assumptions are fragile,parameter ranges and ensembles,sensitivity analysis
+validation,is the model credible for purpose,targets historical checks expert review,validation report
+interpretation,what should users conclude,model caveats and uncertainty notes,responsible-use review

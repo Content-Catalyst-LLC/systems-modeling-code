@@ -1,0 +1,8 @@
+scenario,minimum_stock,maximum_stock,final_stock,average_stock,time_to_peak,maximum_reinforcing_inflow,maximum_balancing_outflow,threshold_active_periods,diagnostic
+baseline_core_principles,15.0,76.046218,75.828781,68.230977,46,2.024868,1.052311,106,persistent threshold pressure
+high_growth,15.0,78.065149,77.57419,71.282818,37,2.586769,1.153257,123,persistent threshold pressure
+long_delay,15.0,78.969075,75.851208,68.470545,44,2.024868,1.198454,107,persistent threshold pressure
+lower_capacity,15.0,64.472767,64.349672,58.161531,50,1.57458,0.473638,0,contained trajectory under current assumptions
+short_delay,15.0,75.828721,75.828721,68.02888,160,2.024868,1.041435,97,persistent threshold pressure
+strong_threshold_correction,15.0,75.881066,75.623049,68.095085,45,2.024868,1.044053,106,persistent threshold pressure
+weak_balancing,15.0,79.814558,79.814558,71.208501,159,2.024868,0.620364,118,persistent threshold pressure
