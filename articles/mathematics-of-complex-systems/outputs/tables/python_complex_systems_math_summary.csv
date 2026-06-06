@@ -1,0 +1,10 @@
+metric,value,interpretation
+node_count,15,number of system components
+edge_count,20,number of undirected dependencies
+mean_degree,2.666667,average local connectivity
+logistic_maximum_absolute_difference,0.874343,maximum divergence between similar initial conditions
+first_divergence_time,15,first time absolute difference exceeds configured threshold
+logistic_trajectory_entropy,2.181155,simple binned entropy of nonlinear trajectory
+initial_state_dispersion,0.270801,initial variation across node states
+final_state_dispersion,0.048455,final variation after diffusion and stochastic shocks
+final_mean_state,0.026046,network-level state after diffusion process

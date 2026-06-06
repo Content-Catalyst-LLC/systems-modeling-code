@@ -1,0 +1,9 @@
+framework,primary_question,formal_objects,systems_modeling_use
+dynamical_systems,How does state evolve through time?,state vectors differential equations difference equations,Equilibria attractors trajectories stability and transition analysis
+nonlinear_dynamics,How do disproportionate responses emerge?,nonlinear functions bifurcation maps recurrence relations,Thresholds tipping points saturation chaos and path dependence
+network_science,How does structure shape flow and failure?,graphs adjacency matrices Laplacians centrality measures,Diffusion contagion dependency robustness and cascading failure
+stochastic_processes,How does uncertainty affect trajectories?,random variables distributions Markov chains Monte Carlo,Shocks variability uncertainty propagation and risk analysis
+information_theory,How much uncertainty or structure exists?,entropy mutual information signal redundancy,State diversity predictability monitoring and signal interpretation
+statistical_mechanics,How do micro interactions create macro patterns?,ensembles distributions phase transitions scaling,Emergence collective behavior scaling and criticality
+optimization_control,Which interventions perform under constraints?,objective functions constraints feedback rules,Policy design control adaptive response and robustness
+computational_simulation,What behavior emerges under rules?,algorithms agents iterations numerical experiments,Scenario exploration model comparison and stress testing

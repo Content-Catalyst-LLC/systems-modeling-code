@@ -1,0 +1,9 @@
+parameter,value,description
+logistic_map_r,3.9,Chaotic logistic map parameter used for sensitivity demonstration
+initial_state_1,0.4000,First initial condition
+initial_state_2,0.4001,Second initial condition for sensitivity test
+divergence_threshold,0.10,Absolute trajectory difference used as divergence marker
+diffusion_alpha,0.18,Network diffusion coefficient
+shock_sigma,0.035,Standard deviation of stochastic node shocks
+network_steps,80,Number of diffusion time steps
+logistic_steps,120,Number of nonlinear trajectory time steps

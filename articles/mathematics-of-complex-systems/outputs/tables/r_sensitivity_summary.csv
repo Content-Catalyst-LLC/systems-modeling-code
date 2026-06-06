@@ -1,0 +1,10 @@
+"metric","value"
+"r_parameter",3.9
+"initial_condition_1",0.4
+"initial_condition_2",0.4001
+"initial_difference",9.9999999999989e-05
+"maximum_absolute_difference",0.87434301632925
+"mean_absolute_difference",0.336238889903684
+"trajectory_entropy",2.18115529476137
+"divergence_threshold",0.1
+"first_divergence_time",15

@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+logistic_state,0,1,Logistic-map states should remain bounded for r in tested range
+absolute_difference,0,1,Trajectory difference should remain bounded
+entropy,0,10,Discrete entropy diagnostic should remain finite
+degree,0,100,Network degree should remain plausible
+network_mean_state,-100,100,Network mean state should remain finite
+network_state_sd,0,100,Network state dispersion should remain nonnegative and finite
+final_state_dispersion,0,100,Final dispersion should remain nonnegative and finite
+node_count,1,1000,Network should include one or more nodes

@@ -1,0 +1,4 @@
+metric,value
+maximum_absolute_difference,0.87434302
+mean_absolute_difference,0.33623889
+trajectory_entropy,2.18115529
