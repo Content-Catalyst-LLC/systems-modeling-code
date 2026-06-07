@@ -1,0 +1,7 @@
+metric,target_low,target_high,notes
+risk_score,0,1,Assumption risk should remain in the unit interval
+composite_score,0,1,Boundary scenario score should remain in the unit interval
+assumption_count,1,1000000,Assumption register should include at least one assumption
+boundary_count,1,1000000,Boundary scenario comparison should include at least one boundary
+high_risk_count,0,1000000,High risk assumption count should be nonnegative
+exclusion_count,1,1000000,Exclusion log should include at least one entry

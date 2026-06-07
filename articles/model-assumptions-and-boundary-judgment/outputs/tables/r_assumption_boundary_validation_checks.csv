@@ -1,0 +1,6 @@
+"check","passed"
+"assumption_register_created",TRUE
+"risk_scores_between_zero_and_one",TRUE
+"boundary_scenarios_created",TRUE
+"composite_scores_between_zero_and_one",TRUE
+"exclusion_log_created",TRUE

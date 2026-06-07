@@ -1,0 +1,10 @@
+"category","average_risk_score","assumption_count","high_risk_count"
+"behavioral",0.21,1,0
+"boundary",0.54,1,1
+"causal",0.288,1,0
+"data",0.231,1,0
+"measurement",0.4165,1,0
+"normative",0.64125,1,1
+"parameter",0.221,1,0
+"scale",0.24375,1,0
+"scenario",0.442,1,0

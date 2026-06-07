@@ -1,0 +1,7 @@
+check,passed,value
+assumption_register_created,True,9
+risk_scores_between_zero_and_one,True,all_risk_scores_checked
+boundary_scenarios_created,True,5
+composite_scores_between_zero_and_one,True,all_boundary_scores_checked
+exclusion_log_created,True,5
+boundary_critique_questions_created,True,6

@@ -1,0 +1,10 @@
+assumption_id,category,uncertainty,sensitivity,consequence,risk_score,risk_label
+A1,boundary,0.800000,0.750000,0.900000,0.540000,high
+A2,data,0.550000,0.600000,0.700000,0.231000,lower
+A3,parameter,0.400000,0.850000,0.650000,0.221000,lower
+A4,behavioral,0.700000,0.500000,0.600000,0.210000,lower
+A5,scenario,0.650000,0.800000,0.850000,0.442000,moderate
+A6,normative,0.750000,0.900000,0.950000,0.641250,high
+A7,scale,0.500000,0.650000,0.750000,0.243750,lower
+A8,causal,0.450000,0.800000,0.800000,0.288000,moderate
+A9,measurement,0.700000,0.700000,0.850000,0.416500,moderate

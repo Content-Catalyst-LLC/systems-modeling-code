@@ -1,0 +1,6 @@
+"evidence_level","description","appropriate_use","warning_sign"
+"strong","multiple_independent_sources_support_the_assumption","use_for_core_model_structure_with_documented_uncertainty","still_requires_context_and_boundary_review"
+"moderate","some_empirical_or_expert_support_but_context_limits_remain","use_with_sensitivity_testing_and_documentation","treated_as_settled_fact_without_review"
+"weak","limited_evidence_or_high_transfer_uncertainty","use_only_with_explicit_caveats_and_stress_testing","drives_decision_without_alternative_scenarios"
+"contested","stakeholders_or_sources_disagree_about_the_assumption","represent_as_alternative_scenarios_or_contested_boundary","forced_consensus_hides_disagreement"
+"unknown","insufficient_evidence_to_assess_confidence","use_as_research_gap_not_decision_anchor","presented_with_false_precision"
