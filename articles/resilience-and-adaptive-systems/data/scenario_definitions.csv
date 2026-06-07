@@ -1,0 +1,9 @@
+scenario,initial_adaptive_capacity,recovery_erosion,learning_gain,shock_multiplier,adaptation_floor,description
+baseline_adaptation,0.22,0.0009,0.0007,1.00,0.03,Moderate adaptive capacity and moderate repeated shocks
+weakened_capacity,0.16,0.0014,0.0003,1.00,0.03,Lower initial capacity and faster erosion
+compound_stress,0.18,0.0012,0.0004,1.35,0.03,Higher shock magnitude with weaker learning
+learning_investment,0.24,0.0006,0.0012,1.00,0.03,Greater learning and slower erosion improve recovery
+high_redundancy,0.27,0.0008,0.0008,0.85,0.05,Redundancy lowers effective disturbance and raises minimum capacity
+fragile_efficiency,0.14,0.0018,0.0002,1.20,0.02,Efficiency-oriented system with little slack and high erosion
+transformative_adaptation,0.20,0.0007,0.0016,1.10,0.04,Learning improves after disturbance and supports structural adaptation
+chronic_stress,0.17,0.0015,0.0004,1.05,0.03,Repeated stress with lower capacity and persistent recovery burden

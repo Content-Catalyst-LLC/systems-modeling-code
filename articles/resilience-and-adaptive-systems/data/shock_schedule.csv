@@ -1,0 +1,6 @@
+time,baseline_shock,description
+25,1.5,first disturbance tests absorptive capacity
+55,1.7,second disturbance tests recovery after partial adaptation
+90,2.0,larger disturbance tests cumulative resilience
+125,2.2,late disturbance tests capacity erosion and learning
+155,2.5,largest disturbance tests degraded or adaptive response

@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+state,-1000000,1000000,System state should remain finite
+absolute_state,0,1000000,Absolute deviation should remain nonnegative and finite
+adaptive_capacity,0,100,Adaptive capacity should remain nonnegative and bounded
+performance,0,1,Performance should remain between 0 and 1
+performance_loss,0,1,Performance loss should remain between 0 and 1
+average_recovery_time,0,1000000,Recovery time should be nonnegative when available
+unrecovered_shocks,0,1000,Unrecovered-shock count should be nonnegative
+cumulative_performance_loss,0,1000000,Cumulative loss should remain nonnegative and finite

@@ -1,0 +1,9 @@
+dimension,system_meaning,modeling_indicator,common_tradeoff
+absorptive_capacity,ability to absorb disturbance without major function loss,maximum performance loss,buffers may reduce short-term efficiency
+recovery_capacity,ability to restore function after disruption,recovery time and downtime,fast restoration may preserve fragile structures
+adaptive_capacity,ability to learn and adjust behavior rules or resources,adaptive capacity trajectory,frequent adaptation can reduce stability
+transformability,ability to shift to a new viable configuration,transition pathway availability,transformation can impose transition costs
+redundancy,backup capacity alternate routes and overlapping functions,backup capacity and alternate paths,redundancy can be expensive or underused
+diversity,variation in components strategies and knowledge,component or strategy diversity,diversity can complicate coordination
+modularity,ability to contain failure within parts of the system,contained-failure share,too much modularity can reduce integration
+learning_memory,ability to retain lessons and update behavior,learning gain and institutional memory,past lessons can become rigid assumptions

@@ -1,0 +1,9 @@
+scenario,final_state,maximum_abs_state,minimum_performance,mean_performance,initial_adaptive_capacity,final_adaptive_capacity,adaptive_capacity_change,average_recovery_time,unrecovered_shocks,cumulative_performance_loss,diagnostic_label
+baseline_adaptation,0.043739,2.522562,0.36936,0.918857,0.22,0.15103,-0.06897,12.0,0,14.60572,resilience weakening
+chronic_stress,1.929558,3.875286,0.031179,0.714211,0.17,0.03,-0.14,17.5,3,51.442076,resilience weakening
+compound_stress,2.117867,4.278539,0.0,0.729295,0.18,0.03,-0.15,20.666667,2,48.726874,resilience weakening
+fragile_efficiency,3.443009,5.468373,0.0,0.506413,0.14,0.02,-0.12,25.0,4,88.845651,resilience weakening
+high_redundancy,-0.004333,2.133645,0.466589,0.949304,0.27,0.244829,-0.025171,7.4,0,9.125364,managed disturbance
+learning_investment,-0.008784,2.506489,0.373378,0.945953,0.24,0.309731,0.069731,7.4,0,9.728426,resilience weakening
+transformative_adaptation,-0.00842,2.756885,0.310779,0.936678,0.2,0.304193,0.104193,8.4,0,11.398014,resilience weakening
+weakened_capacity,1.861681,3.72993,0.067518,0.715055,0.16,0.03,-0.13,19.0,3,51.290079,resilience weakening
