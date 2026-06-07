@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+largest_component_fraction,0,1,Largest connected component fraction should remain between zero and one
+component_count,0,1000000,Component count should remain nonnegative
+edge_count,0,1000000,Edge count should remain nonnegative
+average_degree,0,1000000,Average degree should remain nonnegative
+order_parameter_magnitude,0,1000000,Order parameter magnitude should remain nonnegative
+control_parameter,-1000000,1000000,Control parameter should remain finite
+giant_component_probability,0,1,Approximate giant component probability should be bounded when detected
+critical_threshold,-1000000,1000000,Critical threshold should remain finite

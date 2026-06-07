@@ -1,0 +1,11 @@
+concept,system_meaning,modeling_representation,diagnostic_question
+phase,macroscopic system regime or collective state,state label or regime class,Which large-scale state describes the system
+order_parameter,variable summarizing collective organization,system-level state metric,Which variable reveals the macroscopic transition
+control_parameter,variable that drives the transition,parameter sweep or forcing variable,What pressure changes the stability of the system
+critical_point,threshold region where qualitative behavior changes,critical parameter value or range,Where does the system reorganize
+criticality,behavior near a critical point,sensitivity fluctuation and correlation diagnostics,Is the system near a region of heightened sensitivity
+bifurcation,qualitative change in equilibrium structure,equilibrium branch analysis,Do stable states appear disappear or change stability
+percolation,connectivity transition in networks,largest component and average degree,Does local connectivity become system-wide reachability
+giant_component,large connected cluster in a network,largest connected component fraction,When does system-wide connectivity emerge
+hysteresis,different forward and recovery paths,separate collapse and recovery thresholds,Does reversal require stronger action than prevention
+universality,shared transition patterns across different systems,comparison of transition structure,Do different systems share similar critical behavior

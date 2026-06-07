@@ -1,0 +1,6 @@
+"metric","value"
+"minimum_control_parameter",-1.5
+"maximum_control_parameter",1.5
+"critical_threshold",0
+"maximum_order_parameter_magnitude",1.22474487139159
+"ordered_phase_count",150

@@ -1,0 +1,7 @@
+strategy,best_suited_for,key_diagnostic,professional_caution
+bifurcation_model,continuous state systems with changing stability,equilibrium branches and stability,do not infer exact thresholds without evidence
+percolation_model,connectivity accessibility and fragmentation,largest connected component fraction,topology alone may not capture behavior
+network_cascade_model,infrastructure finance and supply chains,failed-node fraction or cascade size,capacity and repair rules strongly affect results
+agent_based_threshold_model,adoption norms and social contagion,adoption fraction and threshold distribution,include heterogeneity and social context
+system_dynamics_model,feedback delays stocks and hysteresis,regime state and recovery path,parameter uncertainty can dominate conclusions
+scenario_ensemble,uncertain thresholds and contested futures,transition frequency across assumptions,scenario selection can bias interpretation

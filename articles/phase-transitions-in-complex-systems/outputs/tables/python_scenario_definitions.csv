@@ -1,0 +1,9 @@
+scenario,node_count,probability_start,probability_end,probability_steps,seed,giant_component_threshold,description
+small_network,60,0.000,0.100,45,42,0.50,Small random network connectivity transition
+medium_network,120,0.000,0.080,45,84,0.50,Medium random network connectivity transition
+larger_network,240,0.000,0.050,45,126,0.50,Larger random network connectivity transition
+high_resolution_medium,120,0.000,0.080,80,168,0.50,Medium network with finer probability sweep
+low_connectivity_scan,120,0.000,0.030,45,210,0.50,Scan that may remain below giant component region
+fragmentation_test,160,0.080,0.000,45,252,0.50,Reverse connectivity scan as fragmentation analogue
+dense_scan,120,0.000,0.120,60,294,0.50,Dense scan beyond the expected connectivity transition
+threshold_sensitive,100,0.000,0.070,70,336,0.40,Alternative threshold definition for earlier detection

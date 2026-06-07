@@ -1,0 +1,9 @@
+scenario,node_count,minimum_link_probability,maximum_link_probability,maximum_largest_component_fraction,mean_component_count,minimum_average_degree,maximum_average_degree,approximate_giant_component_probability,approximate_giant_component_average_degree,diagnostic_label
+dense_scan,120,0.0,0.12,1.0,12.083333,0.0,15.383333,0.012203,1.683333,giant component emerged
+fragmentation_test,160,0.08,0.0,1.0,17.733333,0.0,12.675,0.08,12.675,giant component emerged
+high_resolution_medium,120,0.0,0.08,1.0,16.4,0.0,9.55,0.010127,1.45,giant component emerged
+larger_network,240,0.0,0.05,1.0,26.755556,0.0,11.933333,0.006818,1.783333,giant component emerged
+low_connectivity_scan,120,0.0,0.03,0.983333,40.022222,0.0,3.5,0.010909,1.383333,giant component emerged
+medium_network,120,0.0,0.08,1.0,16.888889,0.0,9.566667,0.012727,1.5,giant component emerged
+small_network,60,0.0,0.1,1.0,14.133333,0.0,6.133333,0.018182,1.333333,giant component emerged
+threshold_sensitive,100,0.0,0.07,1.0,17.314286,0.0,6.66,0.013188,1.42,giant component emerged

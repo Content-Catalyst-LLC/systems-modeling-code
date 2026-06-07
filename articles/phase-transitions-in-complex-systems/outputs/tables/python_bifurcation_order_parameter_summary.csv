@@ -1,0 +1,6 @@
+metric,value,interpretation
+minimum_control_parameter,-1.5,lowest scanned control parameter
+maximum_control_parameter,1.5,highest scanned control parameter
+critical_threshold,0.0,stylized threshold where ordered branches emerge
+maximum_order_parameter_magnitude,1.224745,largest order-parameter magnitude in scan
+ordered_phase_count,150,number of scanned points with nonzero ordered branches
