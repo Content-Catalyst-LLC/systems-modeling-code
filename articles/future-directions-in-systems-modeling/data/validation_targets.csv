@@ -1,0 +1,7 @@
+metric,target_low,target_high,notes
+absolute_error_observed,0,1000000,Observed absolute error should be nonnegative
+absolute_error_estimated,0,1000000,Estimated absolute error should be nonnegative
+drift_indicator,0,1000000,Drift indicator should be nonnegative
+intervention_flag,0,1,Intervention flag should remain binary
+time_steps,1,1000000,Workflow should include at least one time step
+governance_controls,1,1000000,Governance table should include at least one control

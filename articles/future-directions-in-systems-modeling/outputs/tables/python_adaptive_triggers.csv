@@ -1,0 +1,7 @@
+trigger_id,trigger_condition,action,governance_note
+T1,residual_greater_than_3,flag anomaly and require review,avoid automatic intervention without human review
+T2,rolling_error_greater_than_2,open model drift investigation,check data pipeline and parameter assumptions
+T3,capacity_margin_below_2,stress-test immediate intervention pathways,include uncertainty and service consequences
+T4,shock_flag_equals_1,run post-shock validation check,compare model forecast with observed recovery
+T5,three_consecutive_interventions,escalate to governance board,review whether model is controlling too much operational behavior
+T6,missing_data_rate_above_10_percent,suspend automated recommendations,document data gaps and restore data integrity

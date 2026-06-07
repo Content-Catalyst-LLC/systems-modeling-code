@@ -1,0 +1,9 @@
+check,passed,value
+time_steps_created,True,120
+estimated_state_created,True,all_estimates_checked
+observed_errors_nonnegative,True,all_observed_errors_checked
+estimated_errors_nonnegative,True,all_estimated_errors_checked
+drift_indicator_nonnegative,True,all_drift_indicators_checked
+intervention_flags_binary,True,all_intervention_flags_checked
+governance_controls_created,True,8
+adaptive_triggers_created,True,6

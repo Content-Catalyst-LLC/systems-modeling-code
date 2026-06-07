@@ -1,0 +1,14 @@
+time,baseline_load,observed_load,capacity,shock_flag,description
+0,12.0,12.2,18.0,0,Initial monitored system state
+1,11.7,12.4,18.0,0,Normal operating condition
+2,11.3,11.9,18.0,0,Normal operating condition
+3,10.9,11.6,18.0,0,Normal operating condition
+4,10.5,11.2,18.0,0,Normal operating condition
+5,10.1,10.7,18.0,0,Normal operating condition
+6,9.7,10.5,18.0,0,Normal operating condition
+7,9.4,9.9,18.0,0,Normal operating condition
+8,9.1,9.6,18.0,0,Normal operating condition
+9,8.8,9.2,18.0,0,Normal operating condition
+10,8.6,14.4,18.0,1,Shock observation requiring monitoring review
+11,8.4,12.7,18.0,1,Post-shock elevated observation
+12,8.2,10.8,18.0,0,Recovery observation

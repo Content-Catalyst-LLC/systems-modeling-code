@@ -1,0 +1,9 @@
+capability_id,capability,systems_modeling_role,governance_requirement
+C1,streaming_state_estimation,updates beliefs about current system state,data quality and drift monitoring
+C2,digital_twin_monitoring,connects model outputs to live system observations,security validation and operational safeguards
+C3,hybrid_ai_simulation,combines mechanistic models with data-driven residual learning,interpretability and validation by operating domain
+C4,model_ensembles,compares outputs across structures and assumptions,transparent uncertainty and disagreement reporting
+C5,adaptive_governance,links monitoring to policy revision,decision records and stakeholder accountability
+C6,scenario_stress_testing,tests futures shocks and boundary conditions,clear scenario framing and misuse warnings
+C7,interoperable_model_ecosystems,links submodels across domains,version control standards and provenance
+C8,public_facing_model_communication,makes assumptions and uncertainty legible,plain-language documentation and appeal pathways

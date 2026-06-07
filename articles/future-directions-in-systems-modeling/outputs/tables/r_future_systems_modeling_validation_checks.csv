@@ -1,0 +1,9 @@
+"check","passed"
+"time_steps_created",TRUE
+"estimated_state_created",TRUE
+"observed_errors_nonnegative",TRUE
+"estimated_errors_nonnegative",TRUE
+"drift_indicator_nonnegative",TRUE
+"intervention_flags_binary",TRUE
+"governance_controls_created",TRUE
+"adaptive_triggers_created",TRUE

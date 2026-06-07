@@ -1,0 +1,9 @@
+control_id,control,purpose,warning_sign
+G1,data_provenance_record,tracks source and transformation of data streams,observations appear without source or quality metadata
+G2,drift_monitoring,detects model performance degradation,error rises without review trigger
+G3,valid_use_statement,limits unsupported model use,operational outputs are reused for policy decisions without review
+G4,security_review,protects connected model infrastructure,model connects to operational systems without access controls
+G5,uncertainty_display,prevents false precision,dashboard shows point estimates without range or confidence
+G6,human_override_log,preserves accountability,automated recommendations cannot be challenged or overridden
+G7,stakeholder_review,checks boundary and consequence assumptions,affected groups cannot inspect model purpose or outputs
+G8,model_retirement_rule,defines when the model should be suspended or replaced,known model drift does not change model use

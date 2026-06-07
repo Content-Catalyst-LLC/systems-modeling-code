@@ -1,0 +1,6 @@
+metric,value
+MAE_observed,0.8057
+MAE_estimated,0.630719
+Max_drift_indicator,1.352349
+Intervention_count,6
+Minimum_capacity_margin,6.14409
