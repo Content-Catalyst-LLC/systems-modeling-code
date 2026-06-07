@@ -1,0 +1,9 @@
+scenario,final_population,final_housing,final_transport,final_service_capacity,final_accessibility,final_congestion,maximum_congestion,maximum_service_pressure,maximum_housing_gap,average_accessibility,diagnostic_label
+baseline_neighborhood,321.873602,481.485276,405.940498,146.824048,96.223252,0.792908,1.129665,2.19224,0.0,67.689864,capacity constrained pathway
+congestion_sensitive,306.04789,471.338564,403.140905,146.824048,99.284078,0.759159,1.121864,2.084453,0.0,68.800558,capacity constrained pathway
+high_accessibility_attraction,360.290969,513.315544,416.762411,146.824048,90.543252,0.8645,1.179667,2.453896,0.0,64.653007,capacity constrained pathway
+housing_constraint,316.080054,441.192796,382.642969,146.824048,91.963786,0.826044,1.142231,2.152781,0.0,65.56225,capacity constrained pathway
+low_policy_investment,299.987527,468.320228,382.821513,108.910286,95.708363,0.783622,1.156853,2.754446,0.0,66.134679,capacity constrained pathway
+managed_growth,342.039622,531.330437,481.326907,227.960223,108.887729,0.710618,1.052632,1.500436,0.0,76.905609,capacity constrained pathway
+strong_growth_pressure,356.058459,514.906226,418.164754,146.824048,91.691042,0.851479,1.193199,2.425069,0.0,64.564426,capacity constrained pathway
+transport_investment,354.000772,505.0224,482.30978,196.625733,106.235454,0.73397,1.111111,1.800379,0.0,75.215207,capacity constrained pathway

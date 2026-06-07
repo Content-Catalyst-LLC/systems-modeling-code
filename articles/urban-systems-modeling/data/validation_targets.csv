@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+population,0,1000000,Population should remain nonnegative and finite
+housing,0,1000000,Housing capacity should remain nonnegative and finite
+transport,0,1000000,Transport capacity should remain nonnegative and finite
+service_capacity,0,1000000,Service capacity should remain nonnegative and finite
+accessibility,0,1000000,Accessibility proxy should remain nonnegative and finite
+congestion,0,1000000,Congestion should remain nonnegative and finite
+housing_gap,0,1000000,Housing gap should remain nonnegative and finite
+service_pressure,0,1000000,Service pressure should remain nonnegative and finite

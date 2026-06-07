@@ -1,0 +1,9 @@
+scenario,n_steps,initial_population,initial_housing,initial_transport,initial_service_capacity,growth_pressure,accessibility_attraction,congestion_penalty,housing_constraint_penalty,housing_build_rate,transport_investment_rate,service_investment_rate,periodic_policy_investment,policy_interval,pressure_penalty,seed,description
+baseline_neighborhood,100,100,112,90,120,1.10,1.25,0.70,0.45,0.65,0.45,0.35,8,20,0.70,42,Baseline urban growth and capacity pathway
+strong_growth_pressure,100,100,112,90,120,1.65,1.25,0.70,0.45,0.65,0.45,0.35,8,20,0.70,43,Higher growth pressure increases capacity stress
+housing_constraint,100,100,106,90,120,1.10,1.25,0.70,0.55,0.25,0.45,0.35,8,20,0.70,44,Lower housing build rate increases shortage risk
+transport_investment,100,100,112,90,120,1.10,1.25,0.70,0.45,0.65,1.15,0.85,10,20,0.70,45,Higher transport and service investment
+congestion_sensitive,100,100,112,90,120,1.10,1.25,1.10,0.45,0.65,0.45,0.35,8,20,1.10,46,Higher penalty when congestion and pressure rise
+high_accessibility_attraction,100,100,112,90,120,1.10,1.75,0.70,0.45,0.65,0.45,0.35,8,20,0.70,47,Accessibility attracts stronger population growth
+low_policy_investment,100,100,112,90,120,1.10,1.25,0.70,0.45,0.65,0.25,0.15,2,20,0.70,48,Lower public investment increases pressure
+managed_growth,100,100,118,95,130,1.00,1.15,0.80,0.35,1.05,0.90,0.80,12,15,0.80,49,Coordinated capacity and growth management

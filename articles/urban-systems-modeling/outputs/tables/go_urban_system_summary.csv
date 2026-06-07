@@ -1,0 +1,5 @@
+scenario,final_population,final_housing,final_transport,final_service_capacity,final_accessibility,maximum_service_pressure,maximum_housing_gap,diagnostic_label
+baseline_neighborhood,323.683172,486.675783,411.321319,154.733576,96.363740,2.188504,0.000000,capacity constrained pathway
+strong_growth_pressure,358.877120,520.724267,423.922683,154.733576,91.676227,2.426319,0.000000,capacity constrained pathway
+housing_constraint,318.878594,446.314199,387.640922,154.733576,91.869350,2.156323,0.000000,capacity constrained pathway
+transport_investment,356.172807,509.990101,488.272701,206.885856,106.333103,1.796886,0.000000,capacity constrained pathway
