@@ -1,0 +1,9 @@
+scenario,steps,stability_start,stability_end,noise_sd,window,description
+baseline_destabilization,320,0.55,0.985,1.00,25,Stability parameter rises toward threshold under moderate noise
+moderate_destabilization,320,0.45,0.900,1.00,25,Recovery weakens less severely than baseline
+high_noise_destabilization,320,0.55,0.985,1.40,25,Higher noise makes indicator interpretation harder
+low_noise_destabilization,320,0.55,0.985,0.65,25,Lower noise clarifies rolling signal behavior
+short_window,320,0.55,0.985,1.00,15,Shorter window produces more volatile indicators
+long_window,320,0.55,0.985,1.00,45,Longer window smooths indicators but delays detection
+rapid_destabilization,220,0.55,0.990,1.00,25,Faster movement toward weak recovery
+slow_destabilization,520,0.55,0.985,1.00,25,Slower movement produces longer monitoring record

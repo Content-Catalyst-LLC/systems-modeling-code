@@ -1,0 +1,7 @@
+network_system,structural_warning_indicator,possible_instability_meaning,modeling_test
+power_grid,rising_load_to_capacity_ratio,components are closer to overload,simulate line failure and load redistribution
+supply_chain,dependency_concentration,flows rely on fewer critical suppliers,remove central suppliers and measure shortage propagation
+financial_network,counterparty_centrality,losses may spread through concentrated exposures,simulate default cascade and liquidity stress
+public_health_referrals,hub_dependency,patients depend on overloaded central facilities,simulate surge and referral diversion
+transportation_network,declining_redundant_paths,rerouting options are disappearing,simulate link closure and travel-time increase
+information_network,highly_clustered_misinformation_pathways,false signals can propagate rapidly,simulate diffusion from influential nodes

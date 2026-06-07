@@ -1,0 +1,7 @@
+spatial_system,spatial_warning_indicator,possible_instability_meaning,modeling_test
+dryland_ecosystem,vegetation_patchiness,landscape may be approaching desertification,measure patch-size distribution and spatial correlation
+forest_landscape,canopy_stress_clustering,disturbance susceptibility may be spatially coherent,track clusters under drought and pest stress
+coral_reef,bleaching_coherence,thermal stress may exceed local recovery capacity,compare reef patches across heat events
+urban_infrastructure,outage_hotspots,service failure may be spatially concentrated,map repeated failures and repair delay
+public_health,demand_surge_clusters,capacity stress may concentrate geographically,compare service area demand and travel time
+food_system,crop_yield_correlation,common-mode climate stress may reduce regional diversity,measure yield covariance across production zones

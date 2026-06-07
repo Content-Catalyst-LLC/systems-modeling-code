@@ -1,0 +1,9 @@
+scenario,final_stability,final_state,maximum_abs_state,final_rolling_variance,final_rolling_autocorrelation,variance_slope,autocorrelation_slope,warning_label
+baseline_destabilization,0.985,0.124516,6.63647,2.181005,0.730334,0.01439624,0.00094499,strengthening warning pattern
+high_noise_destabilization,0.985,0.174323,9.291058,4.27477,0.730334,0.02821664,0.00094499,strengthening warning pattern
+long_window,0.985,0.124516,6.63647,2.711206,0.814848,0.02085,0.00101674,strengthening warning pattern
+low_noise_destabilization,0.985,0.080936,4.313705,0.921475,0.730334,0.00608241,0.00094499,strengthening warning pattern
+moderate_destabilization,0.9,0.242694,5.076944,1.752158,0.645335,0.010246,0.00106129,strengthening warning pattern
+rapid_destabilization,0.99,3.402673,6.083154,1.860218,0.569959,0.00527774,0.00080245,strengthening warning pattern
+short_window,0.985,0.124516,6.63647,1.171419,0.458596,0.00850951,0.00070895,strengthening warning pattern
+slow_destabilization,0.985,1.431727,4.900438,4.617131,0.92879,0.00397157,0.00051978,strengthening warning pattern

@@ -1,0 +1,5 @@
+scenario,final_stability,final_state,maximum_abs_state,final_rolling_variance
+baseline_destabilization,0.985000,0.122185,0.998885,0.253579
+moderate_destabilization,0.900000,0.158080,0.998885,0.276040
+high_noise_destabilization,0.985000,0.171059,1.398438,0.497015
+low_noise_destabilization,0.985000,0.079420,0.649275,0.107137

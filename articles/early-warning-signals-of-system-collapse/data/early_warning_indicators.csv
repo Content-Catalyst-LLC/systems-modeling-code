@@ -1,0 +1,11 @@
+indicator,system_meaning,modeling_representation,diagnostic_question
+critical_slowing_down,recovery weakens as a system approaches a threshold,recovery rate or local stability parameter,Are perturbations decaying more slowly
+rolling_variance,fluctuations grow as stabilizing feedback weakens,moving-window variance,Are disturbances becoming more amplified
+lag1_autocorrelation,current state increasingly resembles recent past,moving-window lag-1 autocorrelation,Are deviations persisting longer over time
+recovery_time,time needed to return near baseline after disturbance,shock-response return time,Is recovery taking longer after comparable shocks
+skewness_change,state distribution becomes asymmetric near a boundary,moving-window skewness,Is the system drifting toward one side of state space
+flickering,temporary switching between alternative states,regime-state switching count,Is the system visiting an alternative regime before transition
+spatial_correlation,neighboring units become more similar in stress,spatial autocorrelation or clustering,Is stress becoming spatially coherent
+patchiness,spatial pattern becomes fragmented or clustered,patch-size and fragmentation metrics,Is landscape organization changing before collapse
+centrality_concentration,dependencies concentrate in critical nodes,network centrality distribution,Are failure pathways becoming more concentrated
+modularity_loss,network modules become less able to contain failure,modularity or community structure,Can disruption still be contained
