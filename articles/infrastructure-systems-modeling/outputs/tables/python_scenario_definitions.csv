@@ -1,0 +1,9 @@
+scenario,n_steps,shock_start,shock_end,power_loss_rate,power_recovery_rate,communications_dependency,water_power_dependency,water_comms_dependency,transport_power_dependency,transport_comms_dependency,power_demand_base,water_demand_base,demand_growth,dependency_strength,description
+baseline_cascade,80,20,36,0.035,0.025,0.72,0.55,0.25,0.30,0.25,78,58,0.35,0.85,Baseline interdependent infrastructure cascade
+larger_power_loss,80,20,36,0.055,0.025,0.72,0.55,0.25,0.30,0.25,78,58,0.35,0.85,Larger power loss produces deeper cascade
+faster_recovery,80,20,36,0.035,0.045,0.72,0.55,0.25,0.30,0.25,78,58,0.35,0.85,Faster restoration improves recovery trajectory
+high_digital_dependency,80,20,36,0.035,0.025,0.88,0.55,0.32,0.30,0.35,78,58,0.35,0.85,Higher communications dependency changes cascade shape
+longer_shock,80,20,48,0.035,0.025,0.72,0.55,0.25,0.30,0.25,78,58,0.35,0.85,Longer disruption extends service loss
+stronger_interdependence,80,20,36,0.035,0.025,0.72,0.62,0.30,0.38,0.30,78,58,0.35,1.00,Stronger cross-system dependency
+lower_demand_growth,80,20,36,0.035,0.025,0.72,0.55,0.25,0.30,0.25,78,58,0.18,0.85,Lower demand growth reduces load pressure
+resilient_backup,80,20,36,0.028,0.040,0.55,0.45,0.18,0.22,0.18,78,58,0.25,0.65,Backup capacity and lower dependencies improve resilience

@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+power,0,1,Power service availability should remain within 0 to 1
+communications,0,1,Communications service availability should remain within 0 to 1
+water,0,1,Water service availability should remain within 0 to 1
+transport,0,1,Transport service availability should remain within 0 to 1
+composite_service,0,1,Composite service availability should remain within 0 to 1
+unmet_service,0,1,Unmet service share should remain within 0 to 1
+total_unmet_service,0,1000000,Cumulative unmet service should remain nonnegative and finite
+capacity,0,1000000,Capacity values should remain nonnegative and finite

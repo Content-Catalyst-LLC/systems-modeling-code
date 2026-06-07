@@ -1,0 +1,5 @@
+scenario,final_composite_service,minimum_power,minimum_communications,minimum_water,minimum_transport,maximum_unmet_service,total_unmet_service,diagnostic_label
+baseline_cascade,1.000000,0.450000,0.453027,0.452817,0.464087,0.545017,11.075000,severe cascade pathway
+larger_power_loss,1.000000,0.450000,0.450003,0.450003,0.450236,0.549940,12.650000,severe cascade pathway
+faster_recovery,1.000000,0.450000,0.453027,0.452817,0.464087,0.545017,8.390000,severe cascade pathway
+longer_shock,0.999994,0.450000,0.450000,0.450000,0.450001,0.550000,17.674996,severe cascade pathway

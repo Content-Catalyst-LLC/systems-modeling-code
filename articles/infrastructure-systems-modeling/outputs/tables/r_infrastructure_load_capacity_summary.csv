@@ -1,0 +1,7 @@
+"scenario","max_unmet_power","max_unmet_water","max_total_unmet","total_unmet_service","minimum_power_availability","minimum_water_capacity","diagnostic_label"
+"baseline_shock",22.7,0,22.7,554.45,0.75512405609493,71.2669902912621,"managed disruption pathway"
+"larger_power_loss",37.7,2.78665048543689,40.4866504854369,1108.58480144111,0.593311758360302,58.8883495145631,"severe disruption pathway"
+"faster_recovery",22.7,0,22.7,469.05,0.75512405609493,71.2669902912621,"managed disruption pathway"
+"stronger_interdependence",22.7,0,22.7,554.45,0.75512405609493,67.9611650485437,"managed disruption pathway"
+"lower_demand_growth",15.56,0,15.56,311.5,0.818139317438055,76.0876577840112,"managed disruption pathway"
+"resilient_backup",16.7,0,16.7,331.8,0.819848975188781,79.4611650485437,"managed disruption pathway"

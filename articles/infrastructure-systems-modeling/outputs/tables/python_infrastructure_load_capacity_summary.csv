@@ -1,0 +1,9 @@
+scenario,max_unmet_power,max_unmet_water,max_total_unmet,total_unmet_service,minimum_power_availability,minimum_water_capacity,diagnostic_label
+baseline_cascade,20.6,0.0,20.6,475.55,0.772627,72.60596,managed disruption pathway
+faster_recovery,20.6,0.0,20.6,405.3,0.772627,72.60596,managed disruption pathway
+high_digital_dependency,20.6,0.0,20.6,475.55,0.772627,72.60596,managed disruption pathway
+larger_power_loss,35.6,1.209603,36.809603,981.857894,0.607064,59.940397,severe disruption pathway
+longer_shock,24.8,0.0,24.8,805.5,0.738397,69.987342,managed disruption pathway
+lower_demand_growth,14.48,0.0,14.48,272.08,0.828598,76.887784,managed disruption pathway
+resilient_backup,17.0,0.0,17.0,329.25,0.804598,78.568966,managed disruption pathway
+stronger_interdependence,20.6,0.0,20.6,475.55,0.772627,69.536424,managed disruption pathway

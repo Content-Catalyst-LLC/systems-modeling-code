@@ -1,0 +1,9 @@
+scenario,final_composite_service,minimum_power,minimum_communications,minimum_water,minimum_transport,maximum_unmet_service,total_unmet_service,diagnostic_label
+baseline_cascade,1.0,0.45,0.453027,0.452817,0.464087,0.545017,11.074999,severe cascade pathway
+faster_recovery,1.0,0.45,0.453027,0.452817,0.464087,0.545017,8.389999,severe cascade pathway
+high_digital_dependency,1.0,0.45,0.450429,0.450826,0.456274,0.548118,11.075001,severe cascade pathway
+larger_power_loss,1.0,0.45,0.450003,0.450003,0.450236,0.54994,12.649999,severe cascade pathway
+longer_shock,0.999994,0.45,0.45,0.45,0.450001,0.55,17.674998,severe cascade pathway
+lower_demand_growth,1.0,0.45,0.453027,0.452817,0.464087,0.545017,11.074999,severe cascade pathway
+resilient_backup,1.0,0.524,0.546909,0.54699,0.569995,0.451451,6.879999,severe cascade pathway
+stronger_interdependence,1.0,0.45,0.453027,0.451375,0.456807,0.547197,11.074999,severe cascade pathway
