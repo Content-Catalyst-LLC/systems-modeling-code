@@ -1,0 +1,6 @@
+"check","passed"
+"at_least_one_scenario_generated",TRUE
+"all_population_nonnegative",TRUE
+"all_hazard_between_zero_and_one",TRUE
+"all_vulnerability_between_zero_and_one",TRUE
+"priority_zones_created",TRUE

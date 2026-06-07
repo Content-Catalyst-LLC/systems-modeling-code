@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+cell_count,1,1000000,Grid should generate a positive number of cells
+population,0,100000000,Population should remain nonnegative
+hazard,0,1,Hazard scores should remain in unit interval
+vulnerability,0,1,Vulnerability scores should remain in unit interval
+risk_score,0,100000000,Risk score should remain nonnegative
+accessibility,0,100000000,Accessibility should remain nonnegative
+service_gap_score,0,100000000,Service gap score should remain nonnegative
+priority_zone_count,1,1000000,Priority classification should produce at least one group

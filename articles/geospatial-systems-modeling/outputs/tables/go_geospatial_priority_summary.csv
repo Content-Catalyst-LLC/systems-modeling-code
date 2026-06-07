@@ -1,0 +1,6 @@
+scenario,cell_count,population,total_risk_score,average_risk_score,average_accessibility,average_service_gap_score,diagnostic_label
+baseline_spatial_system,625,165890.853902,24383.587859,39.013741,68.016934,6.165370,standard spatial pressure
+higher_hazard_system,625,165890.853902,31275.048981,50.040078,68.016934,6.165370,standard spatial pressure
+high_vulnerability_system,625,165890.853902,32917.843609,52.668550,68.016934,6.165370,standard spatial pressure
+low_access_system,625,165890.853902,24383.587859,39.013741,44.211007,9.332278,standard spatial pressure
+resilient_service_system,625,165890.853902,19781.094912,31.649752,91.808334,4.916005,standard spatial pressure

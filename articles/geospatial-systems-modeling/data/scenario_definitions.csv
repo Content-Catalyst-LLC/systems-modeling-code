@@ -1,0 +1,7 @@
+scenario,grid_size,hazard_multiplier,vulnerability_multiplier,population_multiplier,service_capacity_multiplier,service_shift,description
+baseline_spatial_system,25,1.00,1.00,1.00,1.00,0,Baseline synthetic spatial exposure and access system
+higher_hazard_system,25,1.35,1.00,1.00,1.00,0,Higher hazard intensity increases exposure pressure
+high_vulnerability_system,25,1.00,1.35,1.00,1.00,0,Higher vulnerability raises social risk burden
+low_access_system,25,1.00,1.00,1.00,0.65,0,Lower service capacity creates larger service gaps
+population_growth_system,25,1.00,1.00,1.25,1.00,0,Higher population increases exposure and access demand
+resilient_service_system,25,0.90,0.90,1.00,1.30,3,Reduced hazard and vulnerability plus shifted service placement improve resilience
