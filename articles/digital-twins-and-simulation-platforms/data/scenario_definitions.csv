@@ -1,0 +1,7 @@
+scenario,n_steps,initial_state,state_persistence,drift_amplitude,process_noise,observation_noise,update_gain,anomaly_threshold,intervention_effect,shock_times,shock_magnitude,seed,description
+baseline_twin,120,50,0.95,0.15,0.60,1.80,0.35,3.50,1.00,35|80|105,4.0,42,Baseline digital twin state tracking with recurring shocks
+high_noise_twin,120,50,0.95,0.15,0.60,3.20,0.30,4.80,1.00,35|80|105,4.0,43,Noisier observations make synchronization harder
+shock_heavy_twin,120,50,0.95,0.15,0.75,1.80,0.35,3.50,1.00,25|45|65|85|105,5.5,44,More frequent and larger shocks create repeated anomalies
+slow_update_twin,120,50,0.95,0.15,0.60,1.80,0.18,3.50,1.00,35|80|105,4.0,45,Lower update gain makes the twin slower to synchronize
+resilient_twin,120,50,0.95,0.15,0.45,1.25,0.45,3.25,1.25,35|80|105,3.5,46,Better sensing and stronger update behavior improve tracking
+sensor_drift_twin,120,50,0.95,0.15,0.60,1.80,0.35,3.50,1.00,35|80|105,4.0,47,Observation stream includes gradual sensor drift in the workflow

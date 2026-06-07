@@ -1,0 +1,4 @@
+"check","passed"
+"at_least_one_scenario_generated",TRUE
+"all_twin_rmse_nonnegative",TRUE
+"all_anomaly_counts_nonnegative",TRUE

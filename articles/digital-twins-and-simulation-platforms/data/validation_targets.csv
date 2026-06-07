@@ -1,0 +1,8 @@
+metric,target_low,target_high,notes
+MAE_observed,0,1000000,Observed MAE should be nonnegative and finite
+MAE_twin,0,1000000,Twin MAE should be nonnegative and finite
+RMSE_observed,0,1000000,Observed RMSE should be nonnegative and finite
+RMSE_twin,0,1000000,Twin RMSE should be nonnegative and finite
+anomaly_count,0,1000000,Anomaly count should be nonnegative
+intervention_count,0,1000000,Intervention count should be nonnegative
+tracking_improvement_ratio,-1000000,1000000,Positive values mean the twin improved over noisy observations

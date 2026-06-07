@@ -1,0 +1,5 @@
+scenario,MAE_observed,MAE_twin,RMSE_observed,RMSE_twin,anomaly_count,intervention_count,tracking_improvement_ratio,diagnostic_label
+baseline_twin,1.145938,0.675338,1.271015,0.876482,2,2,0.310408,twin improved noisy observation
+high_noise_twin,2.037223,0.862246,2.259583,1.069547,2,2,0.526662,twin improved noisy observation
+slow_update_twin,1.145938,0.816989,1.271015,1.222810,5,5,0.037926,twin improved noisy observation
+resilient_twin,0.795790,0.543925,0.882650,0.701111,2,2,0.205675,twin improved noisy observation
