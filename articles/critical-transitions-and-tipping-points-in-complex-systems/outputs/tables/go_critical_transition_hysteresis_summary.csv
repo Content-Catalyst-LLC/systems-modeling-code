@@ -1,0 +1,9 @@
+scenario,path,initial_state,final_state,minimum_state,maximum_state,maximum_jump_size,transition_flags
+baseline_hysteresis,forward_forcing,-1.000000,1.363339,-1.338270,1.363339,0.065456,0
+baseline_hysteresis,backward_forcing,1.363339,-1.363339,-1.363339,1.364822,0.065456,0
+slow_forcing,forward_forcing,-1.000000,1.364140,-1.341509,1.364140,0.044015,0
+slow_forcing,backward_forcing,1.364140,-1.364140,-1.364140,1.365520,0.044015,0
+fast_forcing,forward_forcing,-1.000000,1.335925,-1.331055,1.335925,0.106360,0
+fast_forcing,backward_forcing,1.335925,-1.335925,-1.335925,1.354697,0.106360,0
+wide_forcing,forward_forcing,-1.100000,1.416480,-1.395488,1.416480,0.065489,0
+wide_forcing,backward_forcing,1.416480,-1.416480,-1.416480,1.417506,0.065489,0

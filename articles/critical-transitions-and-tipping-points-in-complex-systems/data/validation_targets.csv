@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+system_state,-1000000,1000000,System state should remain finite
+control_parameter,-1000000,1000000,Control parameter should remain finite
+transition_step,0,1000000,Transition step should be nonnegative when detected
+rolling_variance_20,0,1000000,Rolling variance should be nonnegative and finite
+rolling_autocorrelation_20,-1,1,Lag-1 autocorrelation should remain bounded when available
+minimum_state,-1000000,1000000,Minimum state should remain finite
+maximum_state,-1000000,1000000,Maximum state should remain finite
+hysteresis_gap,0,1000000,Estimated hysteresis gap should be nonnegative when detected

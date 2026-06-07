@@ -1,0 +1,9 @@
+scenario,forward_start,forward_end,steps,initial_state,dt,transition_jump_threshold,description
+baseline_hysteresis,-1.20,1.20,300,-1.00,0.050,0.150,Standard forward and backward forcing path
+slow_forcing,-1.20,1.20,500,-1.00,0.035,0.120,Slower forcing with smaller time step
+fast_forcing,-1.20,1.20,150,-1.00,0.075,0.220,Faster forcing with larger time step
+wide_forcing,-1.45,1.45,360,-1.10,0.050,0.150,Wider control-parameter range
+near_threshold_start,-0.80,1.20,260,-0.60,0.050,0.130,Starts closer to middle branch and transition region
+recovery_stress,-1.20,1.05,300,-1.00,0.055,0.150,Backward path tests incomplete recovery pressure range
+high_resolution,-1.20,1.20,700,-1.00,0.025,0.080,High-resolution forcing path for smoother diagnostics
+policy_delay,-1.00,1.30,260,-1.00,0.060,0.180,Delayed intervention analogue with forcing beyond baseline

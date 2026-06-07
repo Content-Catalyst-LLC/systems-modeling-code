@@ -1,0 +1,9 @@
+mechanism,system_meaning,modeling_representation,diagnostic_question
+bifurcation_tipping,stable state disappears as a control parameter changes,nonlinear state equation and equilibrium tracking,Does a gradual forcing path eliminate the current equilibrium
+noise_induced_tipping,shock pushes the system outside its basin of attraction,stochastic perturbation or pulse shock,Can a disturbance trigger transition before deterministic threshold
+rate_induced_tipping,external change is too fast for the system to track,time-varying forcing speed,Does transition depend on the rate of pressure change
+hysteresis,recovery path differs from collapse path,separate forward and backward forcing trajectories,Does reversing pressure restore the previous regime
+critical_slowing_down,recovery weakens near threshold,rolling autocorrelation and variance,Are recovery indicators weakening before transition
+network_cascade,local failure propagates through interdependence,node threshold or load redistribution model,Can one failure trigger systemic propagation
+feedback_amplification,reinforcing feedback accelerates transition,positive feedback term or regime-dependent flow,Which feedbacks amplify departure from the old state
+regime_switching,system follows different rules in different states,state-dependent parameter rule,Do model parameters change after threshold crossing
