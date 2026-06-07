@@ -1,0 +1,9 @@
+scenario,n_steps,initial_capacity,initial_demand,initial_trust,demand_growth,prevention_effect,workforce_recovery,burnout_sensitivity,attrition_sensitivity,hiring_rate,access_barrier,trust_loss_rate,trust_gain_rate,surge_start,surge_end,surge_intensity,seed,description
+baseline_health_system,120,100,92,0.64,0.35,0.015,0.035,0.085,0.030,0.50,0.18,0.020,0.012,45,65,18,42,Baseline demand capacity backlog and trust pathway
+higher_demand_growth,120,100,92,0.64,0.65,0.015,0.035,0.085,0.030,0.50,0.18,0.020,0.012,45,65,18,43,Higher underlying demand growth increases care pressure
+stronger_prevention,120,100,92,0.70,0.35,0.060,0.035,0.085,0.030,0.50,0.16,0.018,0.018,45,65,18,44,Prevention and trust reduce future demand
+larger_surge,120,100,92,0.64,0.35,0.015,0.035,0.085,0.030,0.50,0.18,0.020,0.012,45,65,32,45,Larger surge event tests emergency capacity
+faster_hiring,120,100,92,0.64,0.35,0.015,0.035,0.085,0.030,1.20,0.18,0.020,0.012,45,65,18,46,Faster hiring improves capacity after transition
+higher_access_barrier,120,100,92,0.54,0.35,0.015,0.035,0.085,0.030,0.50,0.32,0.035,0.012,45,65,18,47,Higher access barriers increase unmet need and reduce trust
+burnout_sensitive,120,100,92,0.60,0.45,0.015,0.020,0.135,0.045,0.50,0.22,0.030,0.010,45,65,22,48,Greater burnout sensitivity creates workforce deterioration
+resilient_prepared_system,120,108,88,0.74,0.28,0.055,0.060,0.060,0.020,0.95,0.12,0.014,0.020,45,65,14,49,Prevention workforce recovery and lower access barriers improve resilience

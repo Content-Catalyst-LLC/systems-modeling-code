@@ -1,0 +1,8 @@
+"scenario","final_capacity","final_backlog","maximum_pressure","maximum_burnout","total_unmet_need","average_access_gap","diagnostic_label"
+"baseline_health_system",0,174756.972445133,13134.809186204,14749.1676004927,187891.781631337,1856.14343557377,"high strain health system pathway"
+"higher_demand_growth",0,678499.346658193,50675.1093854388,57573.6993828288,729174.456043632,7175.8977585348,"high strain health system pathway"
+"stronger_prevention",0,152197.381448104,11450.0776083238,12825.8165858154,163647.459056428,1617.95246841148,"high strain health system pathway"
+"larger_surge",0,240952.427568969,18063.4755117832,20376.6085130319,259015.903080753,2554.9569286519,"high strain health system pathway"
+"faster_hiring",237.237539482952,0,0.92,0.12,0,20.7746475,"manageable health system pathway"
+"higher_access_barrier",0,174756.972445133,13134.809186204,14749.1676004927,187891.781631337,2081.99344896507,"high strain health system pathway"
+"resilient_prepared_system",219.818829841604,0,0.814814814814815,0.12,0,12.487275,"manageable health system pathway"

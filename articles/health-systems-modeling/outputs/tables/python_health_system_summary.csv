@@ -1,0 +1,9 @@
+scenario,final_capacity,final_backlog,final_trust,maximum_pressure,maximum_burnout,total_unmet_need,average_access_gap,minimum_trust,diagnostic_label
+baseline_health_system,0.5,229536.902439,0.0,17124.757077,19396.168984,229536.902437,2265.931533,0.0,high strain health system pathway
+burnout_sensitive,0.5,986843.121321,0.0,73232.180556,133083.31093,986843.121325,10039.671938,0.0,high strain health system pathway
+faster_hiring,238.555046,0.0,0.974788,0.92,0.1172,0.0,20.720764,0.629191,manageable health system pathway
+higher_access_barrier,0.5,230209.268603,0.0,17174.757411,19452.921052,230209.268607,2547.966268,0.0,high strain health system pathway
+higher_demand_growth,0.0,1018003.212526,0.0,75562.859228,86427.285256,1018003.212525,10016.209587,0.0,high strain health system pathway
+larger_surge,0.5,322865.493202,0.0,24037.780492,27329.511423,322865.493207,3183.081588,0.0,high strain health system pathway
+resilient_prepared_system,220.775124,0.0,1.0,0.814815,0.108889,0.0,12.461655,0.746995,manageable health system pathway
+stronger_prevention,0.5,196422.146802,0.0,14667.450314,16579.342108,196422.146802,1906.79428,0.0,high strain health system pathway

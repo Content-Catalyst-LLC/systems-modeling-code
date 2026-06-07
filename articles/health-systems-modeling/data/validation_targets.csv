@@ -1,0 +1,12 @@
+metric,target_low,target_high,notes
+demand,0,1000000,Demand should remain nonnegative and finite
+capacity,0,1000000,Capacity should remain nonnegative and finite
+effective_capacity,0,1000000,Effective capacity should remain nonnegative and finite
+backlog,0,1000000,Backlog should remain nonnegative and finite
+pressure,0,1000000,Pressure should remain nonnegative and finite
+burnout,0,1000000,Burnout should remain nonnegative and finite
+attrition,0,1000000,Attrition should remain nonnegative and finite
+served,0,1000000,Served volume should remain nonnegative and finite
+unmet_need,0,1000000,Unmet need should remain nonnegative and finite
+access_gap,0,1000000,Access gap should remain nonnegative and finite
+trust,0,1,Trust should remain bounded between 0 and 1
