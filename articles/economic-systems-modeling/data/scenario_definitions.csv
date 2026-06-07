@@ -1,0 +1,9 @@
+scenario,n_steps,demand_sensitivity,investment_sensitivity,interest_rate,depreciation,credit_sensitivity,shock_step,shock_size,seed,description
+baseline_feedback,120,0.62,0.16,0.035,0.045,0.10,70,-8,42,Moderate demand investment and credit feedback
+higher_investment,120,0.62,0.21,0.035,0.045,0.10,70,-8,43,Higher investment response to demand
+tighter_credit,120,0.62,0.16,0.055,0.045,0.10,70,-8,44,Higher interest rate tightens investment and debt dynamics
+larger_shock,120,0.62,0.16,0.035,0.045,0.10,70,-18,45,Larger negative demand shock
+higher_debt_growth,120,0.62,0.16,0.035,0.045,0.18,70,-8,46,Credit expands more aggressively with investment
+weak_demand,120,0.52,0.16,0.035,0.045,0.10,70,-8,47,Lower consumption demand response
+rapid_depreciation,120,0.62,0.16,0.035,0.070,0.10,70,-8,48,Faster capital depreciation reduces capacity
+policy_support,120,0.66,0.18,0.030,0.045,0.10,70,-4,49,Stronger demand conditions and smaller shock

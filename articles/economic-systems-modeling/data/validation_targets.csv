@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+output,0,1000000,Output should remain nonnegative and finite
+capital,0,1000000,Capital stock should remain nonnegative and finite
+debt,0,1000000,Debt stock should remain nonnegative and finite
+fragility,0,1000000,Fragility ratio should remain nonnegative and finite
+consumption,0,1000000,Consumption should remain nonnegative and finite
+investment,0,1000000,Investment should remain nonnegative and finite
+debt_service,0,1000000,Debt service should remain nonnegative and finite
+demand_gap,-1000000,1000000,Demand gap should remain finite

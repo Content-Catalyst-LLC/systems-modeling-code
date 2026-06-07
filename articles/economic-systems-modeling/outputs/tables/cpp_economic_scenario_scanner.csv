@@ -1,0 +1,5 @@
+scenario,final_output,final_capital,final_debt,final_fragility,maximum_fragility,minimum_output,average_output,diagnostic_label
+baseline_feedback,1311609.226555,1695558.900764,203608.764179,0.120084,0.315789,100.000000,157448.603294,moderate fragility pathway
+higher_investment,41038120.772233,55156498.502689,6349976.452262,0.115127,0.315789,100.000000,3531587.018854,moderate fragility pathway
+tighter_credit,1038130.755363,1338480.361677,161306.715788,0.120515,0.315789,100.000000,127961.450633,moderate fragility pathway
+larger_shock,1311522.773957,1695447.133828,203595.364306,0.120084,0.315789,100.000000,157438.348367,moderate fragility pathway
