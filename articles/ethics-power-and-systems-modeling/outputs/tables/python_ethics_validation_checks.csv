@@ -1,0 +1,7 @@
+check,passed,value
+stakeholder_table_created,True,7
+power_burden_gaps_nonnegative,True,all_power_burden_gaps_checked
+governance_register_created,True,8
+model_use_risks_created,True,8
+ethical_risk_scores_nonnegative,True,all_ethical_risk_scores_checked
+safeguards_created,True,8

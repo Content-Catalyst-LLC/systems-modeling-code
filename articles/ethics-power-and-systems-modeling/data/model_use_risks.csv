@@ -1,0 +1,9 @@
+risk_id,risk_type,uncertainty,consequence,representation_gap,misuse_potential,description
+R1,boundary_power,0.75,0.85,0.60,0.70,Boundary choices exclude affected causes or consequences
+R2,data_power,0.65,0.80,0.50,0.65,Data systems privilege institutional evidence over missing knowledge
+R3,proxy_bias,0.70,0.75,0.70,0.60,Measurable proxies fail to represent target concepts
+R4,false_certainty,0.60,0.70,0.45,0.80,Uncertainty is stripped from model outputs
+R5,authority_transfer,0.80,0.90,0.65,0.85,Human accountability is displaced onto the model
+R6,optimization_narrowing,0.70,0.80,0.55,0.75,Objective function hides values and tradeoffs
+R7,participation_tokenism,0.75,0.78,0.80,0.70,Stakeholders are consulted but cannot change model choices
+R8,surveillance_asymmetry,0.68,0.82,0.72,0.78,Some groups are measured more intensely than others

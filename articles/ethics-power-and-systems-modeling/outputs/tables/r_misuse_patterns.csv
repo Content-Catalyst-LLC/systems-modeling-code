@@ -1,0 +1,7 @@
+"pattern_id","misuse_pattern","institutional_incentive","safeguard"
+"M1","model_as_justification","use technical output to support a decision already made","document timeline alternatives and dissent"
+"M2","model_as_shield","move accountability from decision makers to the model","require human decision ownership"
+"M3","selective_scenario_use","show only scenarios that support preferred policy","publish scenario selection criteria"
+"M4","uncertainty_suppression","create confidence for political or operational action","require uncertainty statements"
+"M5","metric_gaming","optimize what is measured instead of what matters","review proxies and unintended consequences"
+"M6","validation_overreach","use model outside tested scope","attach valid use and invalid use statements"

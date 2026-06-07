@@ -1,0 +1,7 @@
+"question_id","question","why_it_matters","review_output"
+"B1","who_defines_the_problem","Problem framing shapes model purpose and solution space","Document sponsor modeler and stakeholder roles"
+"B2","what_is_inside_the_model","Included variables receive analytical attention","List system elements included in scope"
+"B3","what_is_excluded","Excluded harms may disappear from decisions","Create exclusion log and review actions"
+"B4","whose_knowledge_counts","Formal data may displace lived local or operational knowledge","Document evidence sources and missing knowledge"
+"B5","what_outcomes_count","Metrics define success and failure","Publish outcome set and value tradeoffs"
+"B6","who_can_challenge_the_model","Contestability is required for accountability","Create review appeal and correction process"

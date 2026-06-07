@@ -1,0 +1,7 @@
+metric,target_low,target_high,notes
+power_burden_gap,0,1,Power burden gap should remain normalized between zero and one for synthetic data
+ethical_risk_score,0,10,Ethical risk score should remain nonnegative and bounded for this synthetic workflow
+stakeholder_count,1,1000000,Stakeholder table should include at least one group
+governance_item_count,1,1000000,Governance register should include at least one item
+model_use_risk_count,1,1000000,Model-use risk register should include at least one item
+safeguard_count,1,1000000,Safeguard table should include at least one safeguard

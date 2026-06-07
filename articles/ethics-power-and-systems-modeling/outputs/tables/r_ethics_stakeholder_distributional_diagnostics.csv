@@ -1,0 +1,8 @@
+"group","affected","represented","influence","expected_benefit","expected_burden","description","net_benefit","burden_gap","power_burden_gap","risk_label"
+"public_agency",0.4,1,0.95,0.8,0.2,"High decision influence and institutional benefit",0.6,-0.6,0.004,"lower_power_burden_gap"
+"technical_modelers",0.2,1,0.85,0.65,0.15,"High technical influence but lower direct exposure",0.5,-0.5,0.0045,"lower_power_burden_gap"
+"frontline_workers",0.7,1,0.45,0.55,0.35,"Operational knowledge with moderate influence and burden",0.2,-0.2,0.13475,"lower_power_burden_gap"
+"affected_residents",0.95,1,0.35,0.5,0.6,"High exposure and burden with limited influence",-0.1,0.1,0.3705,"moderate_power_burden_gap"
+"low_access_households",1,0,0.1,0.35,0.8,"High burden and low representation in model governance",-0.45,0.45,0.72,"high_power_burden_gap"
+"future_generations",0.9,0,0,0.4,0.75,"Long-horizon affected group with no direct representation",-0.35,0.35,0.675,"high_power_burden_gap"
+"local_environment",0.85,0,0.05,0.3,0.7,"Ecological burden represented weakly through institutional proxies",-0.4,0.4,0.56525,"high_power_burden_gap"

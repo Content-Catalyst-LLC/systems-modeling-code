@@ -1,0 +1,9 @@
+risk_id,risk_type,uncertainty,consequence,representation_gap,misuse_potential,description,ethical_risk_score
+R5,authority_transfer,0.80,0.90,0.65,0.85,Human accountability is displaced onto the model,1.35945
+R1,boundary_power,0.75,0.85,0.60,0.70,Boundary choices exclude affected causes or consequences,1.118812
+R7,participation_tokenism,0.75,0.78,0.80,0.70,Stakeholders are consulted but cannot change model choices,1.10565
+R8,surveillance_asymmetry,0.68,0.82,0.72,0.78,Some groups are measured more intensely than others,1.054087
+R6,optimization_narrowing,0.70,0.80,0.55,0.75,Objective function hides values and tradeoffs,0.98175
+R3,proxy_bias,0.70,0.75,0.70,0.60,Measurable proxies fail to represent target concepts,0.921375
+R2,data_power,0.65,0.80,0.50,0.65,Data systems privilege institutional evidence over missing knowledge,0.86125
+R4,false_certainty,0.60,0.70,0.45,0.80,Uncertainty is stripped from model outputs,0.7203
