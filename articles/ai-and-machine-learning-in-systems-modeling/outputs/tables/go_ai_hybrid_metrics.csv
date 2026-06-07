@@ -1,0 +1,5 @@
+scenario,baseline_rmse,hybrid_rmse,baseline_mae,hybrid_mae,hybrid_improvement_ratio,diagnostic_label
+baseline_hybrid,4.943565,0.353552,3.573346,0.318159,0.928482,hybrid improved baseline
+high_noise_system,4.974448,0.671749,3.626575,0.604502,0.864960,hybrid improved baseline
+strong_residual_system,7.662644,0.353552,5.525478,0.318159,0.953860,hybrid improved baseline
+drifting_system,5.230472,0.388907,3.765475,0.349975,0.925646,hybrid improved baseline

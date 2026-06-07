@@ -1,0 +1,4 @@
+"check","passed"
+"surrogate_rmse_less_than_baseline_rmse",TRUE
+"hybrid_rmse_less_than_baseline_rmse",TRUE
+"hybrid_mae_less_than_baseline_mae",TRUE

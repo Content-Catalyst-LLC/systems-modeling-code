@@ -1,0 +1,7 @@
+scenario,n,noise_scale,structural_weight,residual_strength,interaction_strength,drift_strength,description
+baseline_hybrid,1000,0.50,1.00,0.70,0.25,0.00,Baseline structural model with nonlinear residual learning opportunity
+high_noise_system,1000,0.95,1.00,0.70,0.25,0.00,Noisier system makes residual learning harder
+strong_residual_system,1000,0.50,1.00,1.10,0.38,0.00,Large unmodeled residual creates strong hybrid improvement
+weak_structure_system,1000,0.50,0.65,0.90,0.32,0.00,Structural baseline is weaker and residual learner carries more burden
+drifting_system,1000,0.55,1.00,0.70,0.25,0.45,Data generating process shifts over observation index
+low_noise_system,1000,0.25,1.00,0.70,0.25,0.00,Lower noise makes model comparison clearer

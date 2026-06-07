@@ -1,0 +1,2 @@
+scenario,baseline_rmse,hybrid_rmse,baseline_mae,hybrid_mae,hybrid_improvement_ratio,diagnostic_label
+baseline_hybrid,    4.943565,    0.353552,    3.573346,    0.318159,    0.928482,hybrid improved baseline
