@@ -1,0 +1,9 @@
+node,sector,capacity,threshold,recovery_rate,criticality
+1,energy,100,0.75,0.08,high
+2,water,85,0.70,0.07,high
+3,telecom,90,0.72,0.06,high
+4,transport,80,0.68,0.05,medium
+5,health,95,0.78,0.04,high
+6,finance,88,0.73,0.06,medium
+7,logistics,76,0.66,0.05,medium
+8,public_services,70,0.64,0.05,medium
