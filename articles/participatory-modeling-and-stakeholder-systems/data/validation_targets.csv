@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+stakeholder_weight_sum,1,1,Weights should sum to one for each stakeholder group
+scenario_score,0,1,Scenario scores should remain normalized between zero and one
+mean_score,0,1,Mean scenario score should remain normalized between zero and one
+disagreement_sd,0,1,Disagreement should be nonnegative
+legitimacy_adjusted_score,-1,1,Legitimacy adjusted score can be lower than mean if disagreement is high
+assumption_count,1,1000000,Assumption register should include at least one assumption
+stakeholder_group_count,1,1000000,Workflow should include at least one stakeholder group
+scenario_count,1,1000000,Workflow should include at least one scenario

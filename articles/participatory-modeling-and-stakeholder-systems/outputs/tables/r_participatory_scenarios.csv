@@ -1,0 +1,6 @@
+"scenario","access","cost","resilience","equity","feasibility","description"
+"targeted_service_expansion",0.85,0.55,0.65,0.9,0.6,"Expands access in high-need areas with strong equity value but moderate cost and feasibility"
+"infrastructure_repair_priority",0.55,0.65,0.85,0.5,0.75,"Prioritizes repair of critical infrastructure with high resilience and implementation feasibility"
+"digital_monitoring_platform",0.6,0.5,0.7,0.45,0.7,"Adds monitoring and analytics but raises equity and access concerns"
+"community_led_resilience",0.75,0.7,0.8,0.85,0.55,"Invests in community-led adaptation with strong equity and resilience but harder implementation"
+"baseline_policy_continuation",0.4,0.9,0.35,0.3,0.85,"Maintains current policy with low cost burden and high feasibility but weak system outcomes"

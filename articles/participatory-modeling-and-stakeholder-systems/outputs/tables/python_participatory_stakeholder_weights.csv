@@ -1,0 +1,7 @@
+stakeholder_group,access,cost,resilience,equity,feasibility,description
+community_residents,0.30,0.10,0.20,0.30,0.10,Residents emphasize access equity and practical service impact
+frontline_staff,0.20,0.15,0.25,0.20,0.20,Frontline staff emphasize resilience feasibility and operational constraints
+technical_experts,0.15,0.20,0.30,0.15,0.20,Technical experts emphasize resilience cost and implementation feasibility
+public_agency,0.20,0.25,0.25,0.15,0.15,Public agency emphasizes cost resilience access and feasible implementation
+service_users,0.35,0.10,0.15,0.30,0.10,Service users emphasize access equity and lived service burden
+resource_managers,0.15,0.20,0.30,0.15,0.20,Resource managers emphasize resilience cost and long-term feasibility

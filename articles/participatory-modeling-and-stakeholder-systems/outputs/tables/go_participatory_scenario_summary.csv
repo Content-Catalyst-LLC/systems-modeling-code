@@ -1,0 +1,6 @@
+scenario,mean_score,disagreement_sd,minimum_score,maximum_score,score_range,legitimacy_adjusted_score,consensus_label
+targeted_service_expansion,0.722500,0.038351,0.687500,0.780000,0.092500,0.703324,low disagreement
+infrastructure_repair_priority,0.660417,0.031866,0.610000,0.692500,0.082500,0.644484,low disagreement
+digital_monitoring_platform,0.592083,0.014820,0.570000,0.607500,0.037500,0.584674,low disagreement
+community_led_resilience,0.742917,0.014890,0.730000,0.765000,0.035000,0.735472,low disagreement
+baseline_policy_continuation,0.521667,0.047427,0.455000,0.565000,0.110000,0.497953,moderate disagreement

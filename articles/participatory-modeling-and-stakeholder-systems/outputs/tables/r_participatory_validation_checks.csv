@@ -1,0 +1,5 @@
+"check","passed"
+"stakeholder_weights_sum_to_one",TRUE
+"scenario_scores_between_zero_and_one",TRUE
+"scenario_summary_created",TRUE
+"assumption_register_created",TRUE

@@ -1,0 +1,6 @@
+"scenario","mean_score","disagreement_sd","minimum_score","maximum_score","score_range","legitimacy_adjusted_score","consensus_label"
+"community_led_resilience",0.742916666666667,0.0163107837539055,0.73,0.765,0.0350000000000001,0.734761274789714,"low disagreement"
+"targeted_service_expansion",0.7225,0.0420119030752,0.6875,0.78,0.0925,0.7014940484624,"moderate disagreement"
+"infrastructure_repair_priority",0.660416666666667,0.0349076161699229,0.61,0.6925,0.0824999999999999,0.642962858581705,"low disagreement"
+"digital_monitoring_platform",0.592083333333333,0.0162339664489818,0.57,0.6075,0.0375000000000001,0.583966350108842,"low disagreement"
+"baseline_policy_continuation",0.521666666666667,0.0519535048545011,0.455,0.565,0.11,0.495689914239416,"moderate disagreement"

@@ -1,0 +1,8 @@
+assumption_id,assumption,source,status,risk_if_wrong
+A1,Stakeholder outcome weights sum to one within each group,workshop_elicitation,documented,Scenario rankings may overstate consensus
+A2,Scenario performance values are normalized from zero to one,modeler_translation,needs_review,Scores may compare unlike quantities
+A3,Disagreement is represented as score dispersion across stakeholder groups,model_design,documented,Important qualitative disagreement may be hidden
+A4,Legitimacy-adjusted score penalizes high disagreement,participatory_design_choice,contested,The process may overvalue consensus or undervalue principled disagreement
+A5,All relevant stakeholder groups are represented in the scoring table,stakeholder_mapping,needs_review,Missing groups may invalidate the participatory claim
+A6,Scenario definitions are understandable to nontechnical participants,facilitation_design,needs_review,Participants may not be able to meaningfully evaluate model outputs
+A7,Workshop evidence can be linked to model structure without losing context,knowledge_translation,contested,Local knowledge may be oversimplified or extracted
