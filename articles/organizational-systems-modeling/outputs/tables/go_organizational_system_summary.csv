@@ -1,0 +1,5 @@
+scenario,final_capacity,final_workload,final_backlog,final_trust,maximum_pressure,maximum_burnout,total_attrition,average_delivery,minimum_trust,diagnostic_label
+baseline_organization,203.109983,140.000000,0.000000,0.740483,0.953234,0.100000,9.021132,117.275000,0.619472,manageable operating pathway
+high_demand_growth,0.650000,131274.852279,1310948.522794,0.000000,119340.061163,117883.316651,13891.900417,30.473116,0.000000,unsustainable operating pathway
+faster_hiring,564.290163,140.000000,0.000000,1.000000,0.950000,0.100000,4.954014,117.275000,0.619991,manageable operating pathway
+high_coordination_burden,203.109983,140.000000,0.000000,0.740483,0.953234,0.100000,9.021132,117.275000,0.619472,manageable operating pathway

@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+capacity,0,1000000,Capacity should remain nonnegative and finite
+workload,0,1000000,Workload should remain nonnegative and finite
+backlog,0,1000000,Backlog should remain nonnegative and finite
+pressure,0,1000000,Pressure should remain nonnegative and finite
+burnout,0,1000000,Burnout should remain nonnegative and finite
+attrition,0,1000000,Attrition should remain nonnegative and finite
+trust,0,1,Trust should remain bounded between 0 and 1
+delivery,0,1000000,Delivery should remain nonnegative and finite
