@@ -1,0 +1,6 @@
+"scenario","final_affected_share","final_affected_count","cascade_duration","maximum_new_failures","mean_degree","maximum_degree","diagnostic_label"
+"baseline_threshold",0.9875,79,5,25,4.7,11,"systemic cascade"
+"lower_threshold",0.9875,79,4,29,4.175,10,"systemic cascade"
+"higher_connectivity",1,80,5,27,6.575,15,"systemic cascade"
+"larger_initial_shock",1,80,4,28,4.7,10,"systemic cascade"
+"high_threshold_containment",0.225,18,5,6,4.525,10,"contained cascade"

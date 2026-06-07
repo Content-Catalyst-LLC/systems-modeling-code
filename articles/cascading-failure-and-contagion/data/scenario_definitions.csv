@@ -1,0 +1,9 @@
+scenario,node_count,link_probability,threshold,seed_count,max_steps,seed,description
+baseline_threshold,90,0.055,0.25,4,40,42,Moderate connectivity and threshold with targeted seed failures
+lower_threshold,90,0.055,0.18,4,40,43,Lower tolerance makes contagion easier
+higher_connectivity,90,0.075,0.25,4,40,44,More links create additional propagation pathways
+larger_initial_shock,90,0.055,0.25,8,40,45,Larger seed failure tests shock-size sensitivity
+high_threshold_containment,90,0.055,0.35,4,40,46,Higher threshold improves containment
+sparse_network,90,0.035,0.25,4,40,47,Sparser network reduces exposure pathways
+dense_low_threshold,90,0.085,0.18,5,40,48,Dense low-threshold case tests systemic cascade risk
+small_containment_test,60,0.050,0.30,3,35,49,Smaller network containment comparison

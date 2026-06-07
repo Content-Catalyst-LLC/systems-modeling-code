@@ -1,0 +1,9 @@
+strategy,what_it_prevents,modeling_representation,tradeoff
+redundancy,single_point_failure,alternate paths reserve capacity or substitute nodes,higher cost or apparent inefficiency
+modularity,systemwide_propagation,community boundaries or segmented subnetworks,less integration or slower coordination
+buffers,immediate_threshold_crossing,inventory slack capital reserve or spare capacity,carrying cost or lower efficiency
+firebreaks,transmission_across_critical_links,edge removal isolation quarantine or circuit breaker,temporary reduction in flow or access
+adaptive_rerouting,local_service_loss,path reassignment under capacity constraints,rerouting can overload substitutes
+rapid_recovery,long_propagation_window,repair rate response time and restoration capacity,requires sustained institutional capability
+monitoring,delayed_detection,early warning indicators and escalation triggers,false alarms and data burden
+targeted_hardening,hub_or_bridge_failure,protect high-centrality nodes and dependencies,may neglect peripheral vulnerability

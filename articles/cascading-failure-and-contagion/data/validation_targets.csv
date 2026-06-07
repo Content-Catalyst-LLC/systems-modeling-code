@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+affected_share,0,1,Affected share should remain between zero and one
+affected_count,0,1000000,Affected count should remain nonnegative
+new_failures,0,1000000,New failures should remain nonnegative
+cascade_duration,0,1000000,Cascade duration should remain nonnegative
+mean_degree,0,1000000,Mean degree should remain nonnegative
+maximum_degree,0,1000000,Maximum degree should remain nonnegative
+threshold,0,1,Threshold share should remain between zero and one
+link_probability,0,1,Link probability should remain between zero and one

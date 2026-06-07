@@ -1,0 +1,5 @@
+scenario,final_affected_count,final_affected_share,cascade_duration,maximum_new_failures,diagnostic_label
+baseline_threshold,89,0.988889,5,28,systemic cascade
+lower_threshold,89,0.988889,4,34,systemic cascade
+higher_connectivity,90,1.000000,6,28,systemic cascade
+larger_initial_shock,89,0.988889,5,32,systemic cascade

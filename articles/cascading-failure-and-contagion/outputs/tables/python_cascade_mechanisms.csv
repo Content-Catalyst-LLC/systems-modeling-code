@@ -1,0 +1,9 @@
+mechanism,system_meaning,modeling_representation,diagnostic_question
+load_redistribution,failed components shift load to remaining components,load-capacity network model,Where does load go after failure
+dependency_failure,components fail when required inputs or services are unavailable,directed dependency graph,Which upstream failures disable downstream function
+exposure_transmission,loss infection or stress moves through contact or exposure links,weighted exposure network,Which exposures transmit risk across the system
+threshold_contagion,nodes change state when affected-neighbor share exceeds tolerance,neighbor threshold rule,When does local exposure trigger state change
+behavioral_response,actors amplify disruption through panic withdrawal rerouting or noncompliance,agent rule or response function,How do decisions change propagation
+information_propagation,signals rumors warnings or narratives change expectations,communication diffusion network,How does information alter behavior and trust
+recovery_delay,slow repair allows disruption to spread before containment,response-time or repair-rate process,Can the system recover before spread accelerates
+common_exposure,many nodes are hit by the same external pressure,shared shock or factor exposure model,Is apparent contagion actually shared cause
