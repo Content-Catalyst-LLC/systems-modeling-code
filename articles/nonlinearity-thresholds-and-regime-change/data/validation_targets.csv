@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+system_state,0,100,System state should remain bounded between 0 and 100
+pressure,0,1000000,Pressure should remain nonnegative and finite
+damage_flow,0,1000000,Damage flow should remain nonnegative and finite
+recovery_flow,0,1000000,Recovery flow should remain nonnegative and finite
+net_flow,-1000000,1000000,Net flow should remain finite
+degraded_periods,0,1000000,Degraded-period count should be nonnegative
+rolling_variance_12,0,1000000,Rolling variance should remain nonnegative and finite
+rolling_autocorrelation_12,-1,1,Autocorrelation should remain bounded when available

@@ -1,0 +1,9 @@
+scenario,initial_state,final_state,minimum_state,maximum_pressure,collapse_threshold,recovery_threshold,hysteresis_gap,first_degraded_time,degraded_periods,final_regime,mean_net_flow,maximum_rolling_variance_12,maximum_rolling_autocorrelation_12,diagnostic_label
+compound_pressure,82.0,0.0,0.0,100.3,62.0,42.0,20.0,40,101,degraded,-40.559349,331.30711,0.999995,persistent degraded regime
+early_intervention,82.0,0.0,0.0,65.05,70.0,45.0,25.0,,0,stable,-4.429314,268.179631,0.999998,threshold avoided
+high_resilience_buffer,88.0,0.0,0.0,80.4,82.0,52.0,30.0,,0,stable,-7.055005,289.605354,0.999999,threshold avoided
+hysteresis_trap,82.0,0.0,0.0,97.4,66.0,30.0,36.0,53,88,degraded,-34.124239,281.15545,0.999998,persistent degraded regime
+late_intervention,82.0,0.0,0.0,90.55,70.0,45.0,25.0,60,81,degraded,-29.094317,268.179631,0.999998,persistent degraded regime
+lower_threshold_stress,82.0,0.0,0.0,84.6,58.0,38.0,20.0,41,100,degraded,-30.091872,294.586463,0.999997,persistent degraded regime
+rapid_prevention,82.0,100.0,0.0,52.3,70.0,45.0,25.0,,0,stable,0.10922,268.179631,1.0,threshold avoided
+strong_recovery,82.0,0.0,0.0,90.55,70.0,45.0,25.0,60,64,stable,-20.224186,268.179631,0.999998,regime recovery after degradation

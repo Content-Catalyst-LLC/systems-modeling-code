@@ -1,0 +1,7 @@
+scenario,initial_state,final_state,minimum_state,maximum_pressure,degraded_periods,final_regime,mean_net_flow,hysteresis_gap
+early_intervention,82.000000,0.000000,0.000000,65.050000,0,stable,-4.429314,25.000000
+late_intervention,82.000000,0.000000,0.000000,90.550000,81,degraded,-29.094317,25.000000
+strong_recovery,82.000000,0.000000,0.000000,90.550000,64,stable,-20.224186,25.000000
+lower_threshold_stress,82.000000,0.000000,0.000000,84.600000,100,degraded,-30.091872,20.000000
+hysteresis_trap,82.000000,0.000000,0.000000,97.400000,88,degraded,-34.124239,36.000000
+rapid_prevention,82.000000,100.000000,0.000000,52.300000,0,stable,0.109220,25.000000

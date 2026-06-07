@@ -1,0 +1,9 @@
+domain,threshold_type,pre_threshold_behavior,post_threshold_behavior,modeling_question
+ecology,regime_shift,ecosystem absorbs pressure,degraded state reinforces itself,Does restoration require crossing a separate recovery threshold
+infrastructure,failure_threshold,asset condition declines gradually,failure risk accelerates,When does preventive maintenance stop being sufficient
+health_systems,capacity_threshold,service delay remains manageable,overload produces triage burnout and quality loss,How close is the system to surge overload
+finance,liquidity_threshold,markets clear under stress,confidence loss causes withdrawal and fire sales,When do losses become self-reinforcing
+public_trust,social_threshold,communication and compliance remain effective,mistrust undermines cooperation,When does legitimacy loss alter policy response
+supply_chains,cascade_threshold,local disruption is absorbed,shortages propagate through dependencies,Which nodes trigger systemic disruption
+climate,critical_transition,system remains within operating range,feedbacks alter state or recovery dynamics,Which thresholds dominate long-horizon risk
+organizations,burnout_threshold,workload is absorbed by effort,attrition and errors reduce capacity,When does overload become self-reinforcing

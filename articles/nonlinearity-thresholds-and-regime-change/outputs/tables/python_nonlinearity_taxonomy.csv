@@ -1,0 +1,11 @@
+nonlinearity_type,system_meaning,example,modeling_representation
+saturation,response approaches a maximum capacity,service completions capped by workforce,capacity-limited flow
+threshold_response,relationship changes after a boundary,infrastructure failures accelerate below condition threshold,piecewise rule
+positive_feedback,change amplifies itself,adoption contagion erosion burnout,reinforcing loop
+diminishing_returns,marginal benefit declines,additional funding constrained by implementation capacity,concave function
+capacity_overload,performance deteriorates near utilization limit,hospital or queue delay near full capacity,utilization-sensitive delay
+regeneration_limit,recovery depends on remaining stock,fish forest soil trust recovery,stock-dependent growth
+interaction_effect,two pressures combine non-additively,heat plus drought or debt plus interest,multiplicative or conditional term
+hysteresis,recovery path differs from damage path,ecosystem or trust recovery after collapse,separate collapse and recovery thresholds
+multiple_stable_states,system can persist in more than one regime,clear lake vs turbid lake,bistable regime model
+cascade_threshold,local threshold crossing propagates,network failure load redistribution,network threshold rule

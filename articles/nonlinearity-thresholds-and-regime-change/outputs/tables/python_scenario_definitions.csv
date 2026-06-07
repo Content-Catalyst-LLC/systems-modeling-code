@@ -1,0 +1,9 @@
+scenario,collapse_threshold,recovery_threshold,intervention_time,pressure_growth,recovery_effort,initial_state,initial_pressure,description
+early_intervention,70.0,45.0,55,0.85,1.20,82.0,20.0,Intervention begins before collapse threshold is reached
+late_intervention,70.0,45.0,85,0.85,1.20,82.0,20.0,Intervention begins after degradation has accumulated
+strong_recovery,70.0,45.0,85,0.85,2.00,82.0,20.0,Late intervention but stronger recovery effort
+lower_threshold_stress,58.0,38.0,70,0.95,1.20,82.0,20.0,Lower collapse threshold and faster pressure growth
+high_resilience_buffer,82.0,52.0,80,0.80,1.30,88.0,18.0,Higher threshold and stronger initial condition
+hysteresis_trap,66.0,30.0,88,0.90,1.30,82.0,20.0,Large gap between collapse and recovery threshold makes return difficult
+compound_pressure,62.0,42.0,75,1.10,1.40,82.0,20.0,Compound stress pushes system quickly toward threshold
+rapid_prevention,70.0,45.0,40,0.85,1.80,82.0,20.0,Early and stronger intervention prevents regime shift
