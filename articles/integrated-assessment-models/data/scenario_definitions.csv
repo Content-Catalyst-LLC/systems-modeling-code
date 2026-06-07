@@ -1,0 +1,8 @@
+scenario,start_year,end_year,step,initial_output,productivity_growth,initial_emissions_intensity,emissions_intensity_decline,mitigation_start,mitigation_growth,max_mitigation,damage_coefficient,mitigation_cost_scale,discount_rate,description
+delayed_transition,2025,2100,5,100,0.012,0.42,0.006,0.02,0.010,0.90,0.012,0.040,0.015,Slow mitigation and slow emissions-intensity improvement create high climate pressure
+moderate_transition,2025,2100,5,100,0.012,0.42,0.012,0.06,0.025,0.95,0.010,0.040,0.015,Moderate policy and technology progress reduce emissions pressure
+accelerated_decarbonization,2025,2100,5,100,0.012,0.42,0.018,0.10,0.045,0.98,0.008,0.055,0.015,Fast mitigation reduces damages but increases near-term mitigation cost
+high_innovation_pathway,2025,2100,5,100,0.013,0.42,0.026,0.08,0.040,0.98,0.008,0.038,0.015,Technology learning lowers emissions intensity and mitigation cost
+high_damage_sensitivity,2025,2100,5,100,0.012,0.42,0.012,0.06,0.025,0.95,0.020,0.040,0.015,Higher climate damage sensitivity changes welfare tradeoffs
+low_discount_rate_pathway,2025,2100,5,100,0.012,0.42,0.018,0.10,0.040,0.98,0.010,0.050,0.005,Lower discounting gives greater weight to future outcomes
+resilient_transition_pathway,2025,2100,5,100,0.011,0.40,0.024,0.12,0.045,0.98,0.007,0.036,0.010,Early mitigation innovation and lower damages create more resilient pathway

@@ -1,0 +1,8 @@
+scenario,final_emissions,final_temperature_proxy,cumulative_emissions,cumulative_damages,cumulative_mitigation_cost,discounted_welfare_proxy,average_mitigation_rate,diagnostic_label
+accelerated_decarbonization,5.920138,2.285863,318.240881,66.959633,40.706938,47.908323,0.4375,lower climate pressure pathway
+delayed_transition,54.305604,3.178482,760.827332,151.027946,1.411816,47.799145,0.095,high climate pressure pathway
+high_damage_sensitivity,23.475077,2.679248,503.214937,202.824275,9.392789,47.602518,0.2475,lower climate pressure pathway
+high_innovation_pathway,4.909412,2.2058,287.892801,67.513234,22.743068,48.244102,0.38,lower climate pressure pathway
+low_discount_rate_pathway,7.893517,2.323034,336.620477,85.2268,30.522467,66.662096,0.4,lower climate pressure pathway
+moderate_transition,23.475077,2.679248,503.214937,101.412136,9.392789,47.896841,0.2475,lower climate pressure pathway
+resilient_transition_pathway,3.012221,2.097247,246.013632,50.006633,26.939044,55.874086,0.4575,lower climate pressure pathway

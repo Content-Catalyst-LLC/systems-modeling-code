@@ -1,0 +1,11 @@
+metric,target_low,target_high,notes
+output,0,1000000,Output should remain nonnegative and finite
+emissions_intensity,0,10,Emissions intensity should remain nonnegative and bounded in synthetic workflow
+mitigation_rate,0,1,Mitigation rate should remain bounded between 0 and 1
+emissions,0,1000000,Emissions should remain nonnegative and finite
+atmospheric_pressure,0,1000000,Atmospheric pressure proxy should remain nonnegative and finite
+temperature_proxy,0,1000000,Temperature proxy should remain nonnegative and finite
+damages,0,1000000,Damages should remain nonnegative and finite
+mitigation_cost,0,1000000,Mitigation cost should remain nonnegative and finite
+consumption_proxy,0,1000000,Consumption proxy should remain nonnegative and finite
+discounted_welfare_proxy,-1000000,1000000,Discounted welfare proxy should remain finite

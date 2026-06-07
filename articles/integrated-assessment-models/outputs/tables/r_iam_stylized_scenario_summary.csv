@@ -1,0 +1,6 @@
+"scenario","final_emissions","final_temperature_proxy","cumulative_emissions","cumulative_damages","cumulative_mitigation_cost","discounted_welfare_proxy","average_mitigation_rate","diagnostic_label"
+"delayed_transition",54.3056042463094,3.17848194486958,760.827334640095,151.027946363056,1.41181592595384,47.799147256945,0.095,"high climate pressure pathway"
+"moderate_transition",23.4750767088825,2.67924833201537,503.214937555946,101.412136453054,9.39278823490526,47.8968412125124,0.2475,"lower climate pressure pathway"
+"accelerated_decarbonization",5.92013799935363,2.28586327199742,318.240881705943,66.9596319382277,40.706940676113,47.9083227153309,0.4375,"lower climate pressure pathway"
+"high_innovation_pathway",4.55889376873764,2.18848473517746,281.04988472504,63.5318210483134,21.4596020744983,47.9617390823036,0.38,"lower climate pressure pathway"
+"resilient_transition_pathway",3.244058036439,2.1122440752409,251.736680131151,53.0364957178758,28.5290606087717,56.2314347297201,0.4575,"lower climate pressure pathway"
