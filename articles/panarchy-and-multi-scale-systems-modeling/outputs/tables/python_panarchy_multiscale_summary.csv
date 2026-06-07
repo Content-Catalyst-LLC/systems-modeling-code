@@ -1,0 +1,9 @@
+scenario,final_fast_cycle,final_slow_memory,release_events,maximum_fast_cycle,maximum_slow_memory,mean_cross_scale_coupling,growth_periods,conservation_periods,release_periods,reorganization_periods,diagnostic_label
+adaptive_transformation,2.030945,2.414052,10,2.664416,2.484757,3.950255,63,82,10,5,high revolt dynamics
+baseline_panarchy,2.262262,1.753629,4,2.550174,1.797512,2.74857,75,71,4,10,high revolt dynamics
+locked_conservation,0.0,1.265862,0,0.5,1.265862,0.010964,0,0,0,160,managed cross-scale cycling
+recurrent_release,1.417407,2.343232,12,2.253246,2.374331,3.041333,105,38,12,5,high revolt dynamics
+rigid_slow_structure,0.0,1.282761,0,0.5,1.282761,0.015495,0,0,0,160,managed cross-scale cycling
+strong_remember,2.157932,2.070142,9,2.620173,2.133749,3.255141,74,72,9,5,high revolt dynamics
+strong_revolt,2.022953,1.937223,4,2.404819,2.046819,2.6967,100,46,4,10,high revolt dynamics
+weak_memory_high_volatility,1.1402,1.912657,5,2.320065,1.947341,2.312904,109,38,5,8,high revolt dynamics

@@ -1,0 +1,11 @@
+concept,system_meaning,modeling_representation,diagnostic_question
+adaptive_cycle,recurring pattern of growth conservation release and reorganization,phase state or parameter regime,Which phase dominates system behavior
+growth_phase,expansion innovation resource accumulation,positive growth flow and low connectedness,Is the system expanding or overextending
+conservation_phase,efficiency connectedness specialization and rigidity,high resource stock and high connectedness,Is efficiency producing hidden fragility
+release_phase,disturbance collapse or loosening of accumulated structure,threshold-triggered loss or reset,Does disturbance remain local or cascade
+reorganization_phase,experimentation recombination and renewal,post-release learning and memory influence,Does the system adapt transform or become trapped
+revolt,fast lower-scale disruption influencing slower higher-scale systems,threshold-triggered upward coupling,Does local disturbance alter larger-scale state
+remember,slower higher-scale memory shaping lower-scale reorganization,downward memory term or stabilizing constraint,Does memory support or constrain recovery
+fast_variable,rapidly changing process or disturbance,short time constant state variable,Which visible changes are symptoms
+slow_variable,gradual structural process or memory,long time constant stock or parameter,Which slow variables structure system possibility
+cross_scale_coupling,influence between nested adaptive cycles,coupled state equations or network dependency,Which scales interact strongly

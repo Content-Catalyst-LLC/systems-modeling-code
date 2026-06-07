@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+fast_cycle,0,1000000,Fast-cycle state should remain nonnegative and finite
+slow_memory,0,1000000,Slow-memory state should remain nonnegative and finite
+release_events,0,1000000,Release-event count should be nonnegative
+cross_scale_coupling,0,1000000,Cross-scale coupling should remain nonnegative and finite
+growth_periods,0,1000000,Growth-period count should be nonnegative
+conservation_periods,0,1000000,Conservation-period count should be nonnegative
+release_periods,0,1000000,Release-period count should be nonnegative
+reorganization_periods,0,1000000,Reorganization-period count should be nonnegative

@@ -1,0 +1,9 @@
+scenario,fast_growth,fast_capacity,slow_constraint,release_threshold,release_magnitude,revolt_strength,remember_strength,slow_adjustment,slow_target,description
+baseline_panarchy,0.16,3.20,0.08,2.50,1.35,0.14,0.035,0.010,1.60,Moderate fast growth with moderate revolt and remember coupling
+strong_revolt,0.16,3.20,0.08,2.35,1.35,0.24,0.035,0.010,1.60,Fast-cycle release strongly shifts the slower memory scale
+strong_remember,0.16,3.20,0.08,2.50,1.35,0.14,0.065,0.014,1.60,Slow memory strongly stabilizes fast-cycle reorganization
+rigid_slow_structure,0.16,3.20,0.13,2.50,1.35,0.14,0.020,0.004,1.60,Slow structure strongly constrains the fast cycle and adjusts slowly
+weak_memory_high_volatility,0.17,3.10,0.06,2.30,1.45,0.20,0.015,0.008,1.45,Weak remember effects produce volatile fast-cycle release
+adaptive_transformation,0.15,3.40,0.07,2.55,1.20,0.18,0.055,0.018,1.80,Memory and learning support reorganization after release
+locked_conservation,0.12,3.60,0.15,2.80,1.10,0.08,0.025,0.003,1.70,High constraint and weak revolt keep the system near conservation
+recurrent_release,0.20,3.00,0.05,2.20,1.15,0.16,0.025,0.012,1.50,Fast growth and low threshold generate repeated release events

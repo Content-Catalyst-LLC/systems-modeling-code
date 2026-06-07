@@ -1,0 +1,6 @@
+scenario,final_fast_cycle,final_slow_memory,release_events,maximum_fast_cycle,maximum_slow_memory,mean_cross_scale_coupling
+baseline_panarchy,2.262262,1.753629,4,2.550174,1.797512,2.748570
+strong_revolt,2.022953,1.937223,4,2.404819,2.046819,2.696700
+strong_remember,2.157932,2.070142,9,2.620173,2.133749,3.255141
+rigid_slow_structure,0.000000,1.282761,0,0.500000,1.282761,0.015495
+weak_memory_high_volatility,1.140200,1.912657,5,2.320065,1.947341,2.312904
