@@ -1,0 +1,9 @@
+scenario,final_stock,minimum_stock,maximum_stock,final_resilience_index,average_extraction,average_restoration,diagnostic_label
+baseline_pressure,51.75419,40.836854,68.865,0.517542,2.119625,0.470094,degraded pathway
+high_exposure_weight,51.75419,40.836854,68.865,0.517542,2.119625,0.470094,degraded pathway
+high_extraction,31.585861,21.068149,67.115,0.315859,2.291178,0.647511,degraded pathway
+larger_disturbance,50.783508,28.836854,68.865,0.507835,2.029076,0.492731,degraded pathway
+low_flow_persistence,51.75419,40.836854,68.865,0.517542,2.119625,0.470094,degraded pathway
+lower_growth,37.899039,28.587613,68.34,0.37899,1.687414,0.578146,degraded pathway
+restoration_investment,66.038311,54.095126,69.615,0.660383,2.613586,1.213112,degraded pathway
+strong_intervention,59.232314,47.522321,69.165,0.592323,2.366742,0.816629,degraded pathway

@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+stock,0,1000000,Environmental stock should remain nonnegative and finite
+regeneration,0,1000000,Regeneration should remain nonnegative and finite
+extraction,0,1000000,Extraction should remain nonnegative and finite
+restoration,0,1000000,Restoration should remain nonnegative and finite
+resilience_index,0,1000000,Resilience index should remain nonnegative and finite
+concentration,0,1000000,Pollutant concentration should remain nonnegative and finite
+exposure,0,1000000,Exposure should remain nonnegative and finite
+cumulative_exposure,0,1000000,Cumulative exposure should remain nonnegative and finite

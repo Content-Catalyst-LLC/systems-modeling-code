@@ -1,0 +1,9 @@
+scenario,n_steps,initial_stock,carrying_capacity,growth_rate,extraction_rate,restoration_rate,disturbance_step,disturbance_size,initial_concentration,baseline_load,decay_rate,flow_rate,exposure_weight,intervention_step,load_reduction_fraction,description
+baseline_pressure,120,70,100,0.065,0.040,0.010,65,12,12,4.2,0.035,2.5,1.0,70,0.00,Baseline resource pressure and pollutant loading
+high_extraction,120,70,100,0.065,0.065,0.010,65,12,12,4.2,0.035,2.5,1.0,70,0.00,Higher extraction pressure reduces environmental stock
+restoration_investment,120,70,100,0.065,0.040,0.035,65,12,12,4.2,0.035,2.5,1.0,70,0.25,Restoration and moderate load intervention
+larger_disturbance,120,70,100,0.065,0.040,0.010,65,24,12,4.2,0.035,2.5,1.0,70,0.25,Larger ecological disturbance event
+lower_growth,120,70,100,0.040,0.040,0.010,65,12,12,4.2,0.035,2.5,1.0,70,0.25,Lower regeneration rate and moderate intervention
+strong_intervention,120,70,100,0.065,0.040,0.020,65,12,12,4.2,0.035,2.5,1.0,70,0.50,Stronger pollution load reduction and restoration
+high_exposure_weight,120,70,100,0.065,0.040,0.010,65,12,12,4.2,0.035,2.5,1.6,70,0.25,Higher exposure vulnerability despite intervention
+low_flow_persistence,120,70,100,0.065,0.040,0.010,65,12,12,4.2,0.035,1.2,1.0,70,0.25,Lower flushing increases pollutant persistence

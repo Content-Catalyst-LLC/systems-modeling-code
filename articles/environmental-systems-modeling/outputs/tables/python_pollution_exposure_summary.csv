@@ -1,0 +1,9 @@
+scenario,final_concentration,maximum_concentration,minimum_concentration,average_concentration,final_cumulative_exposure,average_exposure,diagnostic_label
+baseline_pressure,0.706736,11.322,0.706736,2.174398,260.927798,2.174398,reduced burden pathway
+high_exposure_weight,0.539193,11.322,0.539193,2.121897,407.404224,3.395035,reduced burden pathway
+high_extraction,0.706736,11.322,0.706736,2.174398,260.927798,2.174398,reduced burden pathway
+larger_disturbance,0.539193,11.322,0.539193,2.121897,254.62764,2.121897,reduced burden pathway
+low_flow_persistence,0.723805,11.478,0.723805,2.704027,324.483278,2.704027,reduced burden pathway
+lower_growth,0.539193,11.322,0.539193,2.121897,254.62764,2.121897,reduced burden pathway
+restoration_investment,0.539193,11.322,0.539193,2.121897,254.62764,2.121897,reduced burden pathway
+strong_intervention,0.37165,11.322,0.37165,2.069396,248.327482,2.069396,reduced burden pathway

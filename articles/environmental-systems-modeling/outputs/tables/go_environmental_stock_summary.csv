@@ -1,0 +1,5 @@
+scenario,final_stock,minimum_stock,maximum_stock,final_resilience_index,average_extraction,average_restoration,diagnostic_label
+baseline_pressure,51.754190,40.836854,70.000000,0.517542,2.119625,0.470094,degraded pathway
+high_extraction,31.585861,21.068149,70.000000,0.315859,2.291178,0.647511,degraded pathway
+restoration_investment,66.038311,54.095126,70.000000,0.660383,2.613586,1.213112,degraded pathway
+larger_disturbance,50.783508,28.836854,70.000000,0.507835,2.029076,0.492731,degraded pathway
