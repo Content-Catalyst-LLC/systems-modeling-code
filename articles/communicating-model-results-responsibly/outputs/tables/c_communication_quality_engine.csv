@@ -1,0 +1,7 @@
+result_id,result_type,uncertainty_width,communication_quality_score,false_precision_risk
+R1,scenario,0.330000,0.785000,lower_false_precision_risk
+R2,forecast,7000.000000,0.635000,lower_false_precision_risk
+R3,ranking,0.140000,0.595000,moderate_false_precision_risk
+R4,map,0.420000,0.435000,high_false_precision_risk
+R5,optimization,0.160000,0.605000,moderate_false_precision_risk
+R6,dashboard,0.240000,0.495000,high_false_precision_risk

@@ -1,0 +1,9 @@
+control_id,control,present,risk_if_absent
+C1,state_model_purpose,true,Users may not understand what question the model answers
+C2,show_uncertainty_range,true,Point estimates may appear certain
+C3,summarize_key_assumptions,true,Conditional results may appear unconditional
+C4,label_scenarios_as_conditional,true,Scenarios may be mistaken for forecasts
+C5,publish_valid_use_statement,false,Model may be used beyond scope
+C6,attach_misuse_warning,false,Likely misuse may go unchallenged
+C7,show_data_age_and_quality,false,Dashboard polish may overstate credibility
+C8,report_distributional_effects,true,Average results may hide unequal burden

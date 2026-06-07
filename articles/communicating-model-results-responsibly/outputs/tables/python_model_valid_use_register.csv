@@ -1,0 +1,7 @@
+result_type,valid_use,misuse_warning
+scenario,Compare conditional outcomes under stated assumptions,Do not present scenarios as predictions
+forecast,Estimate expected conditions within the validated operating domain,Do not ignore uncertainty ranges or structural change
+ranking,Support prioritization for review,Do not treat small score differences as decisive without sensitivity analysis
+map,Show spatial patterns at the stated resolution,Do not infer precision below the data resolution
+optimization,Compare options under stated objectives and constraints,Do not treat the objective function as a complete value judgment
+dashboard,Monitor current conditions and flag anomalies,Do not assume unmonitored conditions are safe or irrelevant

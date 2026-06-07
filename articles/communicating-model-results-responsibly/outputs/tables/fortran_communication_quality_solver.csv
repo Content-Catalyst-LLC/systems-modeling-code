@@ -1,0 +1,7 @@
+result_id,result_type,uncertainty_width,communication_quality_score
+R1,scenario,    0.330000,0.785000
+R2,forecast, 7000.000000,0.635000
+R3,ranking,    0.140000,0.595000
+R4,map,    0.420000,0.435000
+R5,optimization,    0.160000,0.605000
+R6,dashboard,    0.240000,0.495000

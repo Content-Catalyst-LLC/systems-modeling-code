@@ -1,0 +1,7 @@
+"audience","needs","communication_risk"
+"modeling_team","technical documentation assumptions validation code data sensitivity uncertainty","technical detail may obscure decision relevance"
+"decision_makers","purpose options tradeoffs uncertainty limitations valid uses implementation risks","caveats may be compressed into an overly simple recommendation"
+"stakeholders","plain language assumptions boundaries consequences contestability distributional effects","communication may become symbolic rather than meaningful"
+"public_audiences","what the model says what it does not say why it matters and who remains accountable","headlines may turn conditional results into certainty"
+"auditors_and_reviewers","data provenance reproducibility validation governance versioning misuse controls","documentation may be incomplete or inaccessible"
+"operators_and_implementers","action thresholds exceptions monitoring rules update conditions escalation procedures","users may apply outputs mechanically without judgment"

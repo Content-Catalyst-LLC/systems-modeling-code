@@ -1,0 +1,7 @@
+check,passed,value
+model_results_created,True,6
+communication_scores_between_zero_and_one,True,all_scores_checked
+uncertainty_widths_nonnegative,True,all_widths_checked
+communication_controls_created,True,8
+valid_use_register_created,True,6
+visualization_safeguards_created,True,8

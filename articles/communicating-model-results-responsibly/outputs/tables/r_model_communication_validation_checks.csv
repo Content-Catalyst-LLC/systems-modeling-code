@@ -1,0 +1,7 @@
+"check","passed"
+"model_results_created",TRUE
+"communication_scores_between_zero_and_one",TRUE
+"uncertainty_widths_nonnegative",TRUE
+"communication_controls_created",TRUE
+"valid_use_register_created",TRUE
+"visualization_safeguards_created",TRUE

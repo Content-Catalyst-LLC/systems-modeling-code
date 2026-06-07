@@ -1,0 +1,7 @@
+"result_id","result_type","point_estimate","lower_bound","upper_bound","assumption_disclosure","uncertainty_disclosure","boundary_disclosure","misuse_warning","plain_language_result","uncertainty_width","communication_quality_score","false_precision_risk"
+"R1","scenario",0.72,0.55,0.88,0.8,0.85,0.7,0.75,"Scenario A improves modeled reliability under stated assumptions",0.33,0.785,"lower_false_precision_risk"
+"R2","forecast",12000,9000,16000,0.6,0.75,0.55,0.6,"Demand is forecast to rise but the plausible range is wide",7000,0.635,"lower_false_precision_risk"
+"R3","ranking",0.84,0.75,0.89,0.7,0.55,0.65,0.45,"Option B ranks highest under selected weights",0.14,0.595,"moderate_false_precision_risk"
+"R4","map",0.67,0.4,0.82,0.45,0.4,0.5,0.4,"Mapped exposure is uneven but data coverage varies by location",0.42,0.435,"high_false_precision_risk"
+"R5","optimization",0.91,0.8,0.96,0.65,0.6,0.6,0.55,"The optimized option performs best under the stated objective function",0.16,0.605,"moderate_false_precision_risk"
+"R6","dashboard",0.78,0.62,0.86,0.55,0.5,0.55,0.35,"Dashboard indicators show current monitored state but not unmonitored conditions",0.24,0.495,"high_false_precision_risk"

@@ -1,0 +1,9 @@
+visualization_type,useful_for,responsible_requirement
+line_chart,time trends forecasts scenarios oscillations accumulation,show uncertainty bands scenario labels and time horizon
+fan_chart,increasing uncertainty over time,explain what the bands represent and what is excluded
+scenario_comparison,comparing interventions or futures,state assumptions defining each scenario
+sensitivity_tornado,showing which assumptions drive outputs,use clear parameter labels and explain tested ranges
+map,spatial exposure access risk vulnerability service gaps,show resolution missing data uncertainty and aggregation limits
+network_diagram,dependencies flows contagion centrality cascading risk,explain what edges mean and what relationships are missing
+ranking_table,prioritization and comparison,show confidence ties score differences and sensitivity to weights
+dashboard,monitoring and repeated use,attach data age update frequency validation status and misuse warnings
