@@ -1,0 +1,9 @@
+delay_type,primary_source,common_system_effect,modeling_representation
+information_delay,Measurement reporting monitoring and communication lag,Actors respond to stale signals,Observed state differs from actual state
+decision_delay,Approval budgeting conflict coordination,Action begins after pressure accumulates,Trigger-to-decision lag
+implementation_delay,Hiring procurement construction deployment,Chosen policy takes time to affect the system,Pipeline stock or delayed effect
+material_delay,Production transport delivery transformation,Inventories or backlogs overshoot,Order pipeline or transit stock
+behavioral_delay,Habits trust norms learning adoption,Policy effect appears gradually,Adoption curve or adaptive response
+institutional_delay,Rules capacity legal process governance cycles,System response slower than system deterioration,Governance lag or approval queue
+ecological_delay,Regeneration climate response biological recovery,Damage persists after pressure falls,Slow stock recovery or lagged effect
+perception_delay,Noisy evidence partial observation cognitive updating,Decision-makers misread system state,Smoothed perceived state

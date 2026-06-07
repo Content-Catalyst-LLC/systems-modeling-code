@@ -1,0 +1,9 @@
+scenario,delay,correction_strength,counterresponse_strength,perception_smoothing,natural_pressure_base,natural_pressure_slope,target,initial_state,description
+timely_moderate_response,1,0.18,0.00,0.75,2.0,0.025,50.0,80.0,Short delay with moderate correction and no modeled counterresponse
+delayed_response,6,0.18,0.00,0.55,2.0,0.025,50.0,80.0,Longer delay with same correction strength
+overcorrection,6,0.34,0.00,0.55,2.0,0.025,50.0,80.0,Longer delay with stronger correction that can overshoot
+undercorrection,6,0.09,0.00,0.55,2.0,0.025,50.0,80.0,Longer delay with weak correction that may not reverse pressure
+policy_resistance,6,0.24,0.42,0.55,2.0,0.025,50.0,80.0,Corrective policy triggers counterresponse that offsets intended effect
+slow_recognition_high_resistance,10,0.24,0.55,0.35,2.0,0.025,50.0,80.0,Long delay weak perception update and strong counterresponse
+fast_overreaction,2,0.42,0.10,0.90,2.0,0.025,50.0,80.0,Short delay but high correction strength and modest counterresponse
+adaptive_moderated_response,3,0.20,0.12,0.70,1.6,0.018,50.0,80.0,Moderated response with lower natural pressure and modest resistance

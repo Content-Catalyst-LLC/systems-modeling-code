@@ -1,0 +1,9 @@
+scenario,delay,correction_strength,counterresponse_strength,perception_smoothing,initial_state,final_state,minimum_state,maximum_state,final_target_gap,target_crossings,maximum_overshoot_above_target,maximum_undershoot_below_target,mean_absolute_target_gap,cumulative_intervention,cumulative_counterresponse,resistance_ratio,diagnostic_label
+adaptive_moderated_response,3,0.2,0.12,0.7,80.0,65.822797,63.209487,80.0,15.822797,0,30.0,0.0,16.178625,330.129452,39.615534,0.12,oscillation risk
+delayed_response,6,0.18,0.0,0.55,80.0,73.438788,63.21092,80.0,23.438788,0,30.0,0.0,20.857853,379.869871,0.0,0.0,oscillation risk
+fast_overreaction,2,0.42,0.1,0.9,80.0,59.206795,49.284313,80.0,9.206795,2,30.0,0.715687,9.341976,406.223941,40.622394,0.1,oscillation risk
+overcorrection,6,0.34,0.0,0.55,80.0,61.444833,17.864991,82.801354,11.444833,6,32.801354,32.135009,18.180244,336.036217,0.0,0.0,oscillation risk
+policy_resistance,6,0.24,0.42,0.55,80.0,78.433727,77.646675,80.0,28.433727,0,30.0,0.0,28.464128,678.90646,285.140716,0.42,policy resistance
+slow_recognition_high_resistance,10,0.24,0.55,0.35,80.0,89.761092,80.0,97.732786,39.761092,0,47.732786,0.0,40.048513,913.591477,502.475305,0.55,policy resistance
+timely_moderate_response,1,0.18,0.0,0.75,80.0,70.967742,70.967742,80.0,20.967742,0,30.0,0.0,21.410614,383.784613,0.0,0.0,oscillation risk
+undercorrection,6,0.09,0.0,0.55,80.0,99.997524,80.0,102.706851,49.997524,0,52.706851,0.0,48.811982,422.532494,0.0,0.0,oscillation risk
