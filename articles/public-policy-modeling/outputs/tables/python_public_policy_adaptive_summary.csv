@@ -1,0 +1,9 @@
+scenario,final_system_state,final_policy_intensity,final_capacity,final_trust,maximum_burden,maximum_side_effect,average_uptake,average_policy_intensity,diagnostic_label
+aggressive_policy_rule,15.895661,2.04,16.231345,0.0,0.25,2.872601,0.981329,2.1322,high burden policy pathway
+baseline_adaptive_policy,15.654923,2.0,15.337004,0.0,0.25,2.659484,0.975937,1.9424,high burden policy pathway
+capacity_first_policy,12.410162,1.8,12.618378,0.815716,0.2,1.644995,0.996422,1.7216,high burden policy pathway
+high_burden_design,15.237278,2.0,15.513406,0.0,0.25,2.659484,0.977475,1.9424,high burden policy pathway
+low_capacity_learning,12.869311,2.0,12.821394,0.0,0.25,2.659484,0.901309,1.9424,high burden policy pathway
+low_side_effect_policy,13.73338,2.0,13.475119,1.0,0.25,1.163524,0.984422,1.9424,high burden policy pathway
+short_policy_window,10.488311,1.6,10.037169,0.833872,0.25,1.462934,0.97569,1.567,high burden policy pathway
+trust_centered_design,15.67343,2.0,15.435288,0.9839,0.25,1.49596,0.992113,1.9424,high burden policy pathway

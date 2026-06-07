@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+system_state,0,1000000,System state should remain nonnegative and finite
+policy_intensity,0,1000000,Policy intensity should remain nonnegative and finite
+institutional_capacity,0,1000000,Institutional capacity should remain nonnegative and finite
+trust,0,1,Trust should remain bounded between 0 and 1
+administrative_burden,0,1000000,Administrative burden should remain nonnegative and finite
+uptake,0,1,Uptake should remain bounded between 0 and 1
+side_effect,0,1000000,Side effects should remain nonnegative and finite
+average_policy_intensity,0,1000000,Average policy intensity should remain nonnegative and finite

@@ -1,0 +1,5 @@
+scenario,final_system_state,final_policy_intensity,final_capacity,final_trust,maximum_burden,maximum_side_effect,average_uptake,average_policy_intensity,diagnostic_label
+baseline_adaptive_policy,15.158046,2.000000,15.171070,0.000000,0.250000,2.659484,0.975209,1.942400,high burden policy pathway
+aggressive_policy_rule,16.157137,2.090000,16.086751,0.000000,0.250000,2.808247,0.980286,2.129000,high burden policy pathway
+low_capacity_learning,13.346832,2.000000,12.898751,0.000000,0.250000,2.659484,0.902750,1.942400,high burden policy pathway
+high_burden_design,15.143297,2.000000,15.154712,0.000000,0.250000,2.659484,0.973347,1.942400,high burden policy pathway
