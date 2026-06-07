@@ -1,0 +1,6 @@
+"scope_id","use_case","valid_use","invalid_use","review_requirement"
+"S1","scenario_exploration","compare_conditional_outcomes_under_explicit_assumptions","predict_exact_future_outcomes","review_scenario_assumptions_and_uncertainty"
+"S2","operational_monitoring","flag_anomalies_and_support_operator_attention","automatically_assign_accountability_or_blame","review_sensor_quality_and_procedure"
+"S3","policy_screening","identify_promising_options_for_further_review","make_final_policy_decisions_without_deliberation","review_boundary_equity_and_distributional_effects"
+"S4","risk_ranking","prioritize_cases_for_human_review","deny_services_or_resources_without_appeal","review_bias_uncertainty_and_appeal_process"
+"S5","optimization","compare_tradeoffs_under_stated_objectives","treat_objective_function_as_public_value_consensus","review_weights_constraints_and_stakeholder_values"

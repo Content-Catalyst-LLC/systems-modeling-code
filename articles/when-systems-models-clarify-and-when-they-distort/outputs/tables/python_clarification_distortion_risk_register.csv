@@ -1,0 +1,9 @@
+risk_id,risk_type,description,mitigation
+R1,false_precision,Outputs appear more precise than evidence supports,Report ranges sensitivity uncertainty and scenario conditions
+R2,boundary_error,Important consequences are outside the model boundary,Test expanded boundaries and maintain exclusion logs
+R3,proxy_distortion,Measured variables do not adequately represent target concepts,Document proxies and compare alternative measures
+R4,scenario_framing,Scenario choices narrow the range of imaginable futures,Include stakeholder generated adverse and structurally different scenarios
+R5,optimization_narrowing,Objective function hides values and tradeoffs,Use multi criteria review and distributional diagnostics
+R6,authority_transfer,Decision responsibility is displaced onto the model,State human judgment values and accountability explicitly
+R7,communication_collapse,Caveats disappear when model results move into slides dashboards or executive summaries,Keep uncertainty and valid use statements attached to outputs
+R8,validation_overreach,A model validated for one use is applied to another use,Publish a scope of use statement and prohibit unsupported uses

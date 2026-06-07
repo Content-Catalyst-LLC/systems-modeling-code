@@ -1,0 +1,7 @@
+metric,target_low,target_high,notes
+clarification_score,0,1,Clarification score should remain normalized between zero and one
+distortion_risk_score,0,1,Distortion risk score should remain normalized between zero and one
+net_interpretive_value,-1,1,Net interpretive value can be negative when distortion risk exceeds clarification value
+model_case_count,1,1000000,Workflow should include at least one model case
+risk_register_count,1,1000000,Risk register should include at least one risk
+communication_control_count,1,1000000,Communication controls should include at least one control

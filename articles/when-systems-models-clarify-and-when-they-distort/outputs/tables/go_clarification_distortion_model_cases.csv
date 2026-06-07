@@ -1,0 +1,7 @@
+model_case,clarification_score,distortion_risk_score,net_interpretive_value,use_label
+infrastructure_resilience_model,0.760000,0.522500,0.237500,strong_clarification_with_managed_risk
+public_health_capacity_model,0.732500,0.620000,0.112500,useful_with_strong_caveats
+urban_accessibility_model,0.625000,0.652500,-0.027500,high_distortion_risk_without_revision
+energy_transition_pathway_model,0.762500,0.570000,0.192500,useful_with_strong_caveats
+machine_learning_risk_model,0.392500,0.817500,-0.425000,high_distortion_risk_without_revision
+digital_twin_operations_model,0.662500,0.642500,0.020000,useful_with_strong_caveats

@@ -1,0 +1,7 @@
+"control_id","communication_control","purpose","warning_sign"
+"C1","show_uncertainty_ranges","prevents_single_number_false_precision","headline_contains_one_exact_prediction"
+"C2","label_scenarios_as_conditional","prevents_scenarios_from_becoming_forecasts","scenario_output_is_described_as_what_will_happen"
+"C3","include_valid_use_statement","keeps_interpretation_within_scope","model_is_used_for_a_decision_it_was_not_designed_for"
+"C4","show_component_scores","prevents_composite_index_opacity","one_score_hides_weights_and_proxies"
+"C5","document_data_age_and_quality","prevents_dashboard_polish_from_overstating_credibility","users_assume_live_display_means_complete_truth"
+"C6","identify_human_decision_authority","prevents_authority_transfer_to_the_model","decision_makers_say_the_model_decided"

@@ -1,0 +1,4 @@
+use_label,model_case_count,average_clarification_score,average_distortion_risk_score,average_net_interpretive_value
+high_distortion_risk_without_revision,2,0.50875,0.735,-0.22625
+strong_clarification_with_managed_risk,1,0.76,0.5225,0.2375
+useful_with_strong_caveats,3,0.719167,0.610833,0.108333

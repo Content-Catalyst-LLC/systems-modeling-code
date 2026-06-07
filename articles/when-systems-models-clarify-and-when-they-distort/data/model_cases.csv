@@ -1,0 +1,7 @@
+model_case,structural_clarity,dynamic_clarity,scenario_clarity,assumption_transparency,false_precision_risk,boundary_risk,proxy_risk,misuse_risk,description
+infrastructure_resilience_model,0.85,0.70,0.80,0.65,0.45,0.65,0.45,0.50,Clarifies asset condition failure risk and maintenance priorities but may understate community disruption
+public_health_capacity_model,0.75,0.85,0.70,0.60,0.55,0.70,0.55,0.65,Clarifies capacity demand staffing and intervention timing but may miss access barriers and trust
+urban_accessibility_model,0.70,0.50,0.60,0.70,0.60,0.75,0.70,0.55,Clarifies location and service reach but can distort lived accessibility with weak proxies
+energy_transition_pathway_model,0.80,0.80,0.85,0.55,0.50,0.65,0.50,0.60,Clarifies emissions technology and cost pathways but may hide justice land and political constraints
+machine_learning_risk_model,0.45,0.40,0.35,0.35,0.85,0.70,0.85,0.90,Clarifies predictive patterns but may distort causality explanation and accountability
+digital_twin_operations_model,0.75,0.65,0.70,0.50,0.70,0.60,0.50,0.75,Clarifies live operations and anomalies but may overstate monitored reality and operational authority
