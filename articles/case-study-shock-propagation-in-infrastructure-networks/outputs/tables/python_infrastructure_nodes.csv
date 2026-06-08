@@ -1,0 +1,11 @@
+name,sector,load,capacity,criticality,repair_time,description
+power_hub,power,85.0,120.0,0.95,4,Primary power node supporting multiple dependent services
+water_pump,water,50.0,70.0,0.8,3,Water pumping asset dependent on power service
+hospital,health,70.0,95.0,1.0,5,Critical health facility dependent on power and access
+telecom_exchange,telecom,65.0,85.0,0.9,4,Telecommunications exchange supporting emergency operations and logistics
+bridge,transport,75.0,110.0,0.75,6,Major access connector for hospital and logistics hub
+logistics_hub,logistics,60.0,80.0,0.7,3,Distribution and supply node dependent on transport fuel and telecom
+fuel_depot,fuel,45.0,65.0,0.65,3,Fuel supply node supporting logistics movement
+neighborhood_a,community,40.0,60.0,0.55,2,Community service area dependent on water and logistics
+neighborhood_b,community,35.0,55.0,0.5,2,Community service area dependent on hospital and emergency operations
+emergency_ops,emergency,55.0,75.0,0.95,4,Emergency coordination node dependent on telecommunications

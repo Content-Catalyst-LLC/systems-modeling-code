@@ -1,0 +1,7 @@
+scenario,initial_failures,description
+localized_outage,neighborhood_a,Peripheral local outage used as a containment baseline
+hub_failure,power_hub,Primary power hub failure tests high-dependency cascade risk
+dependency_cascade,telecom_exchange,Telecom failure tests functional dependency propagation
+load_redistribution,bridge,Bridge failure tests access disruption and load redistribution
+compound_shock,bridge|power_hub|telecom_exchange,Compound shock disables power access and telecom simultaneously
+recovery_intervention,bridge|power_hub,Recovery intervention scenario starts with high-consequence failures

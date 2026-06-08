@@ -1,0 +1,7 @@
+scenario,final_failed_count,max_failed_count,final_weighted_service_loss,max_weighted_service_loss,cascade_depth,dependency_failure_events,overload_failure_events
+localized_outage,1,1,0.55,0.55,8,0,0
+hub_failure,8,8,6.35,6.35,8,2,2
+dependency_cascade,5,5,3.6,3.6,8,1,2
+load_redistribution,5,5,3.5,3.5,8,0,2
+compound_shock,9,9,7.1,7.1,8,1,2
+recovery_intervention,9,9,7.1,7.1,8,2,2

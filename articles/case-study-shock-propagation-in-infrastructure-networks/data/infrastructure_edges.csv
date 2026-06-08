@@ -1,0 +1,13 @@
+source,target,edge_type,description
+power_hub,water_pump,dependency,Water pumping requires power
+power_hub,hospital,dependency,Hospital requires power
+power_hub,telecom_exchange,dependency,Telecom exchange requires power
+telecom_exchange,emergency_ops,dependency,Emergency operations require telecom service
+bridge,hospital,access,Bridge provides access to hospital
+bridge,logistics_hub,access,Bridge provides access to logistics hub
+logistics_hub,neighborhood_a,service,Logistics hub supports neighborhood A
+fuel_depot,logistics_hub,dependency,Logistics hub depends on fuel supply
+emergency_ops,neighborhood_b,service,Emergency operations support neighborhood B
+water_pump,neighborhood_a,service,Water pump serves neighborhood A
+hospital,neighborhood_b,service,Hospital serves neighborhood B
+telecom_exchange,logistics_hub,dependency,Logistics hub depends on telecommunications

@@ -1,0 +1,8 @@
+check,passed,value
+nodes_created,True,10
+edges_created,True,12
+scenarios_created,True,6
+scenario_runs_created,True,54
+weighted_service_loss_nonnegative,True,all_weighted_service_loss_values_checked
+failed_counts_nonnegative,True,all_failed_counts_checked
+summary_created,True,6

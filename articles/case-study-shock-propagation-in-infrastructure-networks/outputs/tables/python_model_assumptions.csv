@@ -1,0 +1,8 @@
+assumption_id,assumption,category,risk_if_wrong,review_action
+A1,Infrastructure is represented as a static graph,boundary,Adaptive rerouting and operational reconfiguration may be understated,Add dynamic topology or operational response rules
+A2,Node state is binary,functionality,Partial or degraded operation may be ignored,Add multistate functionality levels
+A3,Load redistributes evenly to functional outgoing neighbors,flow,Real load follows physics routing contracts or operator decisions,Use sector-specific flow or routing models
+A4,Dependency failure occurs above a fixed tolerance,dependency,Real dependencies may be nonlinear hidden or time dependent,Audit dependencies and test tolerance sensitivity
+A5,Overload failure occurs above a fixed threshold,capacity,Real overload may be probabilistic and time dependent,Add probabilistic or duration-dependent failure
+A6,Criticality weights are synthetic,consequence,Social consequence may be misrepresented,Use stakeholder and service consequence review
+A7,Recovery is simplified,recovery,Repair time may depend on crews materials weather and access,Add repair logistics and resource constraints

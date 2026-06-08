@@ -1,0 +1,7 @@
+metric,target_low,target_high,notes
+failed_count,0,1000000,Failed node count should remain nonnegative
+weighted_service_loss,0,1000000,Weighted service loss should remain nonnegative
+functional_count,0,1000000,Functional node count should remain nonnegative
+node_count,1,1000000,Workflow should include at least one node
+edge_count,1,1000000,Workflow should include at least one edge
+scenario_count,1,1000000,Workflow should include at least one scenario
