@@ -1,0 +1,5 @@
+policy,average_score,worst_case_score,best_case_score,maximum_regret,acceptable_scenario_share,robustness_score
+adaptive_pathway,0.617000,0.557000,0.684000,0.000000,1.000000,0.591000
+targeted_intervention,0.550000,0.493000,0.622000,0.093000,0.833000,0.502000
+universal_program,0.545000,0.473000,0.628000,0.112000,0.667000,0.485000
+status_quo_maintenance,0.380000,0.338000,0.423000,0.275000,0.000000,0.292000

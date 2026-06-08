@@ -1,0 +1,7 @@
+name,cost_multiplier,benefit_multiplier,equity_multiplier,resilience_multiplier,feasibility_multiplier,legitimacy_multiplier,description
+baseline_future,1.0,1.0,1.0,1.0,1.0,1.0,Moderate demand stable budget and normal implementation
+fiscal_stress,1.35,0.9,0.92,0.95,0.86,0.92,Budget pressure and higher costs stress policy feasibility
+demand_surge,1.12,1.2,0.96,1.1,0.78,0.9,Service need rises faster than expected
+implementation_delay,1.1,0.82,0.95,0.9,0.62,0.88,Administrative capacity and delivery constraints slow rollout
+compound_risk,1.3,0.88,0.9,1.3,0.72,0.82,Fiscal pressure demand stress risk severity and implementation difficulty combine
+equity_legitimacy_pressure,1.08,0.95,1.25,1.05,0.82,1.2,Distributional fairness and public trust become decisive

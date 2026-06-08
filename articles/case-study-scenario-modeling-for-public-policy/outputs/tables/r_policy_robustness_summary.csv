@@ -1,0 +1,5 @@
+"policy","average_score","worst_case_score","best_case_score","maximum_regret","acceptable_scenario_share","scenario_failure_count","robustness_score"
+"adaptive_pathway",0.483923333333333,0.421376,0.553308,0,0.5,3,0.455777033333333
+"targeted_intervention",0.437846666666667,0.379264,0.497908,0.0554,0,6,0.397634466666667
+"universal_program",0.409973333333333,0.347424,0.474612,0.079104,0,6,0.362050133333333
+"status_quo_maintenance",0.295908333333333,0.25272,0.33036,0.222948,0,6,0.220736583333333

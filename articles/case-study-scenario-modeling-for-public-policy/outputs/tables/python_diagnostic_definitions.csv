@@ -1,0 +1,10 @@
+diagnostic,definition,why_it_matters
+composite_score,Weighted policy score in one scenario,Supports transparent scenario comparison
+average_score,Mean policy score across scenarios,Summarizes overall performance but can hide downside risk
+worst_case_score,Lowest policy score across scenarios,Shows downside vulnerability
+best_case_score,Highest policy score across scenarios,Shows upside potential
+regret,Gap between a policy and the best policy in that scenario,Shows missed opportunity under a future
+maximum_regret,Largest regret across scenarios,Identifies worst scenario specific underperformance
+acceptable_scenario_share,Share of scenarios where score clears the acceptability threshold,Shows satisficing performance
+scenario_failure_count,Number of scenarios where policy fails the acceptability threshold,Shows unacceptable downside count
+robustness_score,Combined average worst case and regret adjusted score,Supports decision making under uncertainty

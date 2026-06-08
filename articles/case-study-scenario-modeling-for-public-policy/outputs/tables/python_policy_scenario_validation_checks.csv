@@ -1,0 +1,8 @@
+check,passed,value
+policies_created,True,4
+scenarios_created,True,6
+scenario_results_created,True,24
+scores_are_finite,True,all_scores_checked
+regret_nonnegative,True,all_regrets_checked
+summary_created,True,4
+weights_sum_reasonable,True,1.0

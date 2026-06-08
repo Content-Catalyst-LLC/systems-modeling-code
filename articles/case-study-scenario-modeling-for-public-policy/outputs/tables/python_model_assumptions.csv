@@ -1,0 +1,8 @@
+assumption_id,assumption,category,risk_if_wrong,review_action
+A1,Policy options are treated as separate choices,boundary,Real policy portfolios may combine options,Test hybrid portfolios and staged packages
+A2,Metrics are normalized between zero and one,measurement,Normalization can hide scale and distributional stakes,Show raw metrics where available
+A3,Metric weights are explicit and fixed for the base run,values,Weights encode contested public values,Run sensitivity tests and stakeholder weighting
+A4,Scenario multipliers are synthetic,uncertainty,Future stress could be misrepresented,Use evidence expert review and participatory scenario design
+A5,Legitimacy is represented as a score,governance,Public trust cannot be reduced to one number,Pair model output with qualitative review
+A6,Implementation feasibility is simplified,implementation,Delivery constraints may dominate outcomes,Add staffing procurement and operational timelines
+A7,Composite score is not a decision rule,interpretation,Model output may be mistaken for an automatic answer,Use decision records and public reasoning

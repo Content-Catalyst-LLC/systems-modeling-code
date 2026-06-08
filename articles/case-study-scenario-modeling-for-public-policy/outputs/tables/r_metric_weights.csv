@@ -1,0 +1,7 @@
+"metric","weight","direction","description"
+"benefit",0.24,"positive","Public benefit improves the score"
+"cost",0.18,"negative","Fiscal cost reduces the score"
+"equity",0.2,"positive","Distributional performance improves the score"
+"resilience",0.18,"positive","Robustness under shocks improves the score"
+"feasibility",0.1,"positive","Implementation feasibility improves the score"
+"legitimacy",0.1,"positive","Public legitimacy improves the score"
