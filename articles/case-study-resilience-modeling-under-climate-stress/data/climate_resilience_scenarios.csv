@@ -1,0 +1,7 @@
+scenario,exposure,sensitivity,initial_capacity,recovery_rate,investment_start,investment_rate,degradation_rate,transformation_trigger,description
+moderate_climate_stress,0.55,0.42,0.58,0.11,8,0.006,0.020,0,Gradual stress increase with manageable shocks
+repeated_shocks,0.65,0.50,0.52,0.08,12,0.008,0.030,0,Several climate shocks occur before full recovery
+delayed_adaptation,0.65,0.52,0.48,0.07,24,0.012,0.035,0,Adaptation investment begins after significant stress
+targeted_resilience_investment,0.62,0.46,0.54,0.12,6,0.018,0.020,0,Early targeted investment improves adaptive capacity
+compound_climate_stress,0.78,0.62,0.46,0.06,12,0.012,0.045,0,Multiple climate stressors interact and amplify damage
+transformation_pathway,0.74,0.58,0.45,0.08,16,0.020,0.040,1,Structural transformation is triggered after severe stress

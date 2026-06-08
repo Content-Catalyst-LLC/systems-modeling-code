@@ -1,0 +1,7 @@
+"check","passed"
+"scenario_runs_created",TRUE
+"service_level_normalized",TRUE
+"adaptive_capacity_normalized",TRUE
+"degradation_normalized",TRUE
+"climate_stress_nonnegative",TRUE
+"summary_created",TRUE

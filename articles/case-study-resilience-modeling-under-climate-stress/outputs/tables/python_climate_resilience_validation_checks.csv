@@ -1,0 +1,7 @@
+check,passed,value
+scenario_runs_created,True,366
+service_level_normalized,True,all_service_levels_checked
+adaptive_capacity_normalized,True,all_capacity_values_checked
+degradation_normalized,True,all_degradation_values_checked
+climate_stress_nonnegative,True,all_climate_stress_values_checked
+summary_created,True,6

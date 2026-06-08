@@ -1,0 +1,7 @@
+scenario,average_service,minimum_service,time_below_threshold,threshold_crossings,final_adaptive_capacity,final_degradation,transformed,resilience_score
+moderate_climate_stress,0.781265,0.736582,0,0,0.892,0.0,False,0.781265
+repeated_shocks,0.515206,0.374943,43,1,0.893201,0.014744,False,-0.134954
+delayed_adaptation,0.353732,0.130251,50,1,0.901401,0.016099,False,-0.401903
+targeted_resilience_investment,0.873961,0.713806,0,0,1.0,0.0,False,0.873961
+compound_climate_stress,0.13273,0.0,56,1,0.992776,0.067556,False,-0.730915
+transformation_pathway,0.366712,0.0,41,1,1.0,0.026473,False,-0.257554
