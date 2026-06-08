@@ -1,0 +1,6 @@
+check,passed,value
+scenario_runs_created,True,480
+resource_stock_nonnegative,True,all_resource_stocks_checked
+extraction_nonnegative,True,all_extraction_values_checked
+regeneration_nonnegative,True,all_regeneration_values_checked
+summary_created,True,6

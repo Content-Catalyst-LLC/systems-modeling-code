@@ -1,0 +1,7 @@
+metric,target_low,target_high,notes
+resource_stock,0,1000000,Resource stock should remain nonnegative
+extraction,0,1000000,Extraction should remain nonnegative
+regeneration,0,1000000,Regeneration should remain nonnegative
+depletion_ratio,-1000000,1,Depletion ratio should not exceed one when final stock is nonnegative
+scenario_count,1,1000000,Workflow should include at least one scenario
+threshold_crossing_time,0,1000000,Threshold crossing time should be nonnegative when crossed

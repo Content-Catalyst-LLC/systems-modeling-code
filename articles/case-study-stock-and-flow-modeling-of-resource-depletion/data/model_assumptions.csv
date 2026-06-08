@@ -1,0 +1,8 @@
+assumption_id,assumption,category,risk_if_wrong,review_action
+A1,Resource can be represented as one aggregate stock,boundary,Local depletion may be hidden,Add spatial sub-stocks for applied use
+A2,Regeneration follows logistic growth,structure,Recovery may be overestimated or underestimated,Compare alternative regeneration functions
+A3,Demand grows exponentially within each scenario,demand,Real demand may shift due to price policy substitution or shocks,Test demand sensitivity and sector-specific demand
+A4,Conservation response rises with scarcity,behavior,Policy response may be delayed weak contested or inequitable,Represent implementation delay and governance capacity
+A5,Extraction is limited by demand and available stock,flow,Technology may sustain high extraction deeper into depletion,Test extraction efficiency and rebound scenarios
+A6,Critical threshold is twenty percent of carrying capacity,threshold,Real collapse threshold may be unknown nonlinear or context-specific,Test multiple threshold values
+A7,No equity or livelihood distribution is modeled,boundary,Policy interpretation may hide unequal burden,Add stakeholder groups and distributional metrics

@@ -1,0 +1,7 @@
+name,periods,carrying_capacity,initial_stock,regeneration_rate,initial_demand,demand_growth,extraction_efficiency,conservation_sensitivity,max_conservation,reference_stock_fraction,critical_threshold_fraction,description
+baseline,80,100.0,80.0,0.08,4.0,0.015,0.12,0.45,0.35,0.7,0.2,Moderate demand growth and moderate conservation response
+high_demand,80,100.0,80.0,0.08,4.0,0.035,0.12,0.45,0.35,0.7,0.2,Demand growth accelerates extraction pressure
+conservation,80,100.0,80.0,0.08,4.0,0.015,0.12,0.85,0.55,0.7,0.2,Scarcity response is stronger and conservation cap is higher
+technology_rebound,80,100.0,80.0,0.08,4.0,0.03,0.18,0.35,0.3,0.7,0.2,Efficiency increases extraction capacity while demand rebounds
+regeneration_stress,80,100.0,80.0,0.045,4.0,0.015,0.12,0.45,0.35,0.7,0.2,Regeneration rate falls under environmental stress
+delayed_governance,80,100.0,80.0,0.08,4.0,0.025,0.12,0.2,0.2,0.7,0.2,Governance response is weak and late under rising demand

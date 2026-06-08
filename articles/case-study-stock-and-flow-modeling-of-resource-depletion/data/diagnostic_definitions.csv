@@ -1,0 +1,9 @@
+diagnostic,definition,why_it_matters
+final_stock,Resource stock at the end of the simulation,Shows long-run resource condition
+minimum_stock,Lowest resource stock reached during the run,Shows near-collapse or severe depletion risk
+depletion_ratio,Fraction of initial stock lost by final period,Summarizes stock loss
+cumulative_extraction,Total extracted resource across all periods,Shows production or harvest volume
+cumulative_regeneration,Total regeneration across all periods,Shows renewal contribution
+cumulative_unmet_demand,Total demand not satisfied by extraction,Shows scarcity disruption
+threshold_crossing_time,First period when stock falls below critical threshold,Supports early warning and intervention timing
+overshoot_periods,Number of periods where extraction exceeds regeneration,Shows persistence of unsustainable imbalance

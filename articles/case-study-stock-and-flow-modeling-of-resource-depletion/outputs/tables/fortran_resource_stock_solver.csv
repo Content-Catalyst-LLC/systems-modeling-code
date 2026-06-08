@@ -1,0 +1,7 @@
+scenario,final_stock,minimum_stock,cumulative_extraction,cumulative_regeneration,overshoot_periods
+baseline,  1.741847,  1.741847,153.797480, 75.539327, 80
+high_demand,  1.499953,  1.499953,147.693985, 69.193938, 80
+conservation,  2.264219,  2.264219,163.679306, 85.943525, 80
+technology_rebound,  0.031292,  0.031292,128.755711, 48.787003, 80
+regeneration_stress,  0.178976,  0.178976,110.561230, 30.740206, 80
+delayed_governance,  1.528143,  1.528143,148.426749, 69.954892, 80
