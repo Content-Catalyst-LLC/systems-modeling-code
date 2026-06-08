@@ -1,0 +1,7 @@
+check,passed,value
+scenario_runs_created,True,287
+adoption_share_normalized,True,all_adoption_shares_checked
+adopter_count_nonnegative,True,all_adopter_counts_checked
+adoption_gap_normalized,True,all_adoption_gaps_checked
+summary_created,True,7
+agent_attributes_normalized,True,all_thresholds_checked

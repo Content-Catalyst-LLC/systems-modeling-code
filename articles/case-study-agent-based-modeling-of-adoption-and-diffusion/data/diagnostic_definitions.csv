@@ -1,0 +1,10 @@
+diagnostic,definition,why_it_matters
+adoption_share,Share of agents that have adopted at a time step,Shows aggregate diffusion curve
+adopter_count,Number of adopted agents at a time step,Tracks total adoption
+adoption_gap,Difference between highest and lowest group adoption shares,Shows distributional inequality
+final_adoption_share,Adoption share at the end of the simulation,Measures final diffusion reach
+maximum_adoption_gap,Largest group adoption gap during the simulation,Shows worst distributional separation
+time_to_25_percent,First step when adoption share reaches 25 percent,Shows early diffusion speed
+time_to_50_percent,First step when adoption share reaches 50 percent,Shows mainstream diffusion timing
+peak_growth,Maximum step-to-step adoption-share increase,Shows takeoff or tipping intensity
+seed_efficiency,Final adoption share divided by seed count,Compares intervention leverage

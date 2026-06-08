@@ -1,0 +1,7 @@
+metric,target_low,target_high,notes
+agent_count,1,1000000,Workflow should include at least one agent
+scenario_count,1,1000000,Workflow should include at least one scenario
+adoption_share,0,1,Adoption share should remain normalized between zero and one
+adopter_count,0,1000000,Adopter count should remain nonnegative
+adoption_gap,0,1,Adoption gap should remain normalized between zero and one
+threshold,0,1,Agent thresholds should remain normalized between zero and one

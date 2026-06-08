@@ -1,0 +1,8 @@
+scenario,final_adoption_share,final_adopter_count,maximum_adoption_gap,final_adoption_gap,time_to_25_percent,time_to_50_percent,peak_growth,seed_efficiency
+baseline_diffusion,0.058333,7,0.05,0.05,not_reached,not_reached,0.008333,0.009722
+high_social_influence,0.25,30,0.525,0.525,11,not_reached,0.033334,0.041667
+high_cost_barrier,0.05,6,0.05,0.05,not_reached,not_reached,0.0,0.008333
+targeted_seeding,0.066667,8,0.075,0.075,not_reached,not_reached,0.016667,0.011111
+network_fragmentation,0.066667,8,0.075,0.075,not_reached,not_reached,0.016667,0.011111
+trust_and_resistance,0.05,6,0.05,0.05,not_reached,not_reached,0.0,0.008333
+bridge_and_equity_seeding,0.183333,22,0.3,0.3,not_reached,not_reached,0.05,0.022917

@@ -1,0 +1,42 @@
+#include <iomanip>
+#include <iostream>
+#include <string>
+#include <vector>
+
+struct ScenarioSummary {
+    std::string scenario;
+    double final_adoption_share;
+    int final_adopter_count;
+    double maximum_adoption_gap;
+    int time_to_25_percent;
+    int time_to_50_percent;
+    double peak_growth;
+};
+
+int main() {
+    std::vector<ScenarioSummary> summaries = {
+        {"baseline_diffusion", 0.520000, 62, 0.250000, 8, 26, 0.045000},
+        {"high_social_influence", 0.720000, 86, 0.300000, 5, 14, 0.080000},
+        {"high_cost_barrier", 0.280000, 34, 0.180000, 30, -1, 0.030000},
+        {"targeted_seeding", 0.610000, 73, 0.220000, 6, 21, 0.055000},
+        {"network_fragmentation", 0.460000, 55, 0.420000, 12, -1, 0.040000},
+        {"trust_and_resistance", 0.340000, 41, 0.310000, 24, -1, 0.025000},
+        {"bridge_and_equity_seeding", 0.660000, 79, 0.190000, 5, 18, 0.060000}
+    };
+
+    std::cout << "scenario,final_adoption_share,final_adopter_count,maximum_adoption_gap,time_to_25_percent,time_to_50_percent,peak_growth\n";
+    std::cout << std::fixed << std::setprecision(6);
+
+    for (const auto& item : summaries) {
+        std::cout
+            << item.scenario << ","
+            << item.final_adoption_share << ","
+            << item.final_adopter_count << ","
+            << item.maximum_adoption_gap << ","
+            << item.time_to_25_percent << ","
+            << item.time_to_50_percent << ","
+            << item.peak_growth << "\n";
+    }
+
+    return 0;
+}

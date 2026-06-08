@@ -1,0 +1,8 @@
+"assumption_id","assumption","category","risk_if_wrong","review_action"
+"A1","Agents are grouped into early access mainstream and high barrier segments","agent_design","Real segmentation may differ from the synthetic groups","Use survey administrative or qualitative evidence for segmentation"
+"A2","Adoption is binary","functionality","Trial partial use abandonment and churn are ignored","Add multi-stage adoption states"
+"A3","Adoption is irreversible","dynamics","Real adopters may abandon switch or reduce use","Add abandonment and competing alternatives"
+"A4","Peer influence travels through synthetic network ties","network","Real influence may come through media institutions geography or supply chains","Use empirical or stakeholder-reviewed network structure"
+"A5","Agents adopt when adoption pressure clears a threshold","decision_rule","Real decisions may be probabilistic deliberative or institutionally constrained","Compare deterministic probabilistic and utility-based rules"
+"A6","Seed strategy can be random high-degree or bridge-and-equity focused","intervention","Actual seeding may depend on legitimacy access and implementation constraints","Test multiple seeding strategies and stakeholder acceptability"
+"A7","Trust and resistance are simplified","behavior","Trust is contextual historical and relational","Use participatory review and group-specific assumptions"

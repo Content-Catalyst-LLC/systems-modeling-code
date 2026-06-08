@@ -1,0 +1,8 @@
+name,social_weight,benefit_weight,intervention_weight,cost_weight,resistance_weight,seed_strategy,seed_count,cost_modifier,trust_modifier,connection_probability,bridge_probability,steps,description
+baseline_diffusion,0.45,0.42,0.1,0.28,0.2,random,6,1.0,1.0,0.055,0.018,40,Moderate benefit cost social influence trust and random seeding
+high_social_influence,0.75,0.42,0.1,0.28,0.2,random,6,1.0,1.0,0.055,0.018,40,Peer influence is stronger and can create faster threshold crossing
+high_cost_barrier,0.45,0.42,0.1,0.28,0.2,random,6,1.35,1.0,0.055,0.018,40,Costs are higher especially for cost-sensitive agents
+targeted_seeding,0.45,0.42,0.1,0.28,0.2,high_degree,6,1.0,1.0,0.055,0.018,40,Initial adopters are selected from high-degree network positions
+network_fragmentation,0.45,0.42,0.1,0.28,0.2,random,6,1.0,1.0,0.06,0.003,40,Between-group bridge ties are scarce and diffusion may stall by cluster
+trust_and_resistance,0.45,0.42,0.1,0.28,0.2,random,6,1.1,0.65,0.055,0.018,40,Trust is lower and cost pressure is slightly higher
+bridge_and_equity_seeding,0.45,0.42,0.12,0.26,0.2,bridge_and_equity,8,0.95,1.05,0.055,0.018,40,Seeds include high-barrier and highly connected agents to improve distributional reach

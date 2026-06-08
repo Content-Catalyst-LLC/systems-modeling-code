@@ -1,0 +1,8 @@
+"scenario","agent_count","directed_edge_count","undirected_edge_count","mean_degree","max_degree"
+"baseline_diffusion",120,456,228,3.8,10
+"high_social_influence",120,470,235,3.91666666666667,8
+"high_cost_barrier",120,418,209,3.48333333333333,10
+"targeted_seeding",120,436,218,3.63333333333333,10
+"network_fragmentation",120,348,174,2.9,8
+"trust_and_resistance",120,418,209,3.48333333333333,8
+"bridge_and_equity_seeding",120,430,215,3.58333333333333,8
