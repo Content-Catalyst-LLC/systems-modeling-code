@@ -1,0 +1,9 @@
+"check","passed"
+"pathway_runs_created",TRUE
+"clean_share_normalized",TRUE
+"adaptation_capacity_normalized",TRUE
+"equity_score_normalized",TRUE
+"land_pressure_normalized",TRUE
+"water_stress_normalized",TRUE
+"emissions_nonnegative",TRUE
+"summary_created",TRUE

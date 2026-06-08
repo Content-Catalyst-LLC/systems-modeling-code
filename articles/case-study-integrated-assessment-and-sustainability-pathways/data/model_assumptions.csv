@@ -1,0 +1,9 @@
+assumption_id,assumption,category,risk_if_wrong,review_action
+A1,Energy demand changes through growth and efficiency,demand,Rebound sectoral shifts or electrification could change demand trajectories,Test demand sensitivity and sector-specific demand modules
+A2,Clean energy share reduces emissions intensity,energy,Life-cycle emissions reliability and supply-chain constraints may be hidden,Add sector-specific technology and life-cycle accounting
+A3,Cumulative emissions increase climate stress,climate,Real climate response is nonlinear uncertain and regionally uneven,Use climate scenarios and uncertainty ranges
+A4,Adaptation capacity reduces climate damages,adaptation,Adaptation may be delayed maladaptive unequal or insufficient,Test weak delayed and equity-targeted adaptation cases
+A5,Land pressure and water stress are simplified resource indicators,resources,Spatial ecological and hydrological dynamics may be misrepresented,Use geospatial land water and biodiversity modules where needed
+A6,Equity is represented as a normalized diagnostic,equity,Justice rights vulnerability and legitimacy cannot be reduced to one number,Use distributional metrics and participatory review
+A7,Sustainability score is a diagnostic not a decision rule,interpretation,Weights can hide contested values and tradeoffs,Publish weights and test alternative weighting schemes
+A8,Pathways are conditional futures not predictions,communication,Users may mistake scenarios for forecasts,Communicate assumptions uncertainty and valid use clearly

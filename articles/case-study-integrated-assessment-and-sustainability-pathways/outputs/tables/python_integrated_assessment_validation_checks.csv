@@ -1,0 +1,9 @@
+check,passed,value
+pathway_runs_created,True,246
+clean_share_normalized,True,all_clean_shares_checked
+adaptation_capacity_normalized,True,all_adaptation_values_checked
+equity_score_normalized,True,all_equity_values_checked
+land_pressure_normalized,True,all_land_pressure_values_checked
+water_stress_normalized,True,all_water_stress_values_checked
+emissions_nonnegative,True,all_emissions_checked
+summary_created,True,6

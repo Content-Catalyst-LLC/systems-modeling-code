@@ -1,0 +1,11 @@
+diagnostic,definition,why_it_matters
+final_clean_energy_share,Clean energy share at the end of the pathway,Shows structural energy transition progress
+cumulative_emissions,Total emissions accumulated across the pathway,Shows long-term climate pressure
+average_climate_damages,Mean modeled climate damages over the pathway,Connects emissions climate stress and adaptation
+average_transition_cost,Mean modeled transition cost,Shows implementation and affordability pressure
+average_land_pressure,Mean modeled pressure on land systems,Reveals ecological food and land-use tradeoffs
+average_water_stress,Mean modeled pressure on water systems,Connects energy climate adaptation and resource constraints
+average_equity_score,Mean modeled distributional performance,Shows affordability access and vulnerability support
+final_adaptation_capacity,Adaptation capacity at the end of the pathway,Shows readiness for residual climate stress
+constraint_breach_count,Number of periods where land water or equity limits are breached,Shows unacceptable or fragile pathway conditions
+average_sustainability_score,Composite diagnostic score across pathway indicators,Supports comparison when disaggregated metrics remain visible

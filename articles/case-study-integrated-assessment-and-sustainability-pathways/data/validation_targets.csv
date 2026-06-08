@@ -1,0 +1,9 @@
+metric,target_low,target_high,notes
+pathway_count,1,1000000,Workflow should include at least one pathway
+clean_energy_share,0,1,Clean energy share should remain normalized between zero and one
+adaptation_capacity,0,1,Adaptation capacity should remain normalized between zero and one
+equity_score,0,1,Equity score should remain normalized between zero and one
+annual_emissions,0,1000000,Annual emissions should remain nonnegative
+land_pressure,0,1,Land pressure should remain normalized between zero and one
+water_stress,0,1,Water stress should remain normalized between zero and one
+constraint_breach_count,0,1000000,Constraint breach count should remain nonnegative

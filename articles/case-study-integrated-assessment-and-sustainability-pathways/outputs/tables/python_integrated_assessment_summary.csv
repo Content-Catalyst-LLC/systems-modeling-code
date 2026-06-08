@@ -1,0 +1,7 @@
+pathway,final_clean_energy_share,cumulative_emissions,average_climate_damages,average_transition_cost,average_land_pressure,average_water_stress,average_equity_score,final_adaptation_capacity,constraint_breach_count,average_sustainability_score
+equity_centered_transition,1.0,8.962627,0.015879,0.08112,0.515514,0.444855,0.718705,0.811901,0,0.295944
+rapid_decarbonization,1.0,6.7068,0.018201,0.103907,0.530201,0.443957,0.577293,0.575675,0,0.262803
+ecological_constraint,1.0,10.726395,0.019385,0.059551,0.401507,0.442562,0.628216,0.724171,0,0.255159
+adaptation_heavy,0.88,15.635691,0.012738,0.041011,0.510964,0.463549,0.582616,1.0,0,0.222569
+delayed_transition,1.0,15.734111,0.038959,0.049473,0.535918,0.528163,0.510524,0.375458,0,0.143497
+baseline_continuation,0.72,20.686905,0.047056,0.015044,0.537857,0.553177,0.47894,0.286631,0,0.090558
